@@ -1,0 +1,5803 @@
+proof,name
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+POEA,False
+POEA,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Federal Partylist,False
+Build Build Build ,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+luckyphil.com/login,False
+,False
+http://t6m681.com,False
+,False
+http://fdsv01.site,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+luckyphil.com/login,False
+wplus4you.com/IBIG3Y,False
+,False
+wplus4you.com/IBIG3Y,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://supergaming.guest/T2D,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+AND SOLAR LIGHTS ,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://1swgkx.com,False
+http://gaming63.shop/7iu,False
+http://lfhh5x.com,False
+wplusb3t4you.com/P2n2-Ng-Sw3rt3,False
+http://t-t.ink/0kGri,False
+https://t.hxfxph.com/YNOko,False
+',False
+',False
+',False
+',False
+',False
+',False
+',False
+',False
+bit.ly/BingoplusPHAPP,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Text,False
+,False
+,False
+,False
+text,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Chinese,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+mrjohnmast.international@gmail.com,False
+egamesph.com/login,False
+https://t.ly/gcash.com,False
+wplus4you.com/IBIG3Y,False
+https://gamings63.pics/tBO,False
+onlinebet.ph/LiveDealer,False
+mr.brettflanagan72@gmail.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://2xnvte.com,False
+http://5irpkseo.com,False
+egamesph.com/login,False
+http://fdsv03.site,False
+http://fdsv05.site/,False
+https://t.hxfxph.com/MRGG0,False
+https://fdsv02.site,False
+gregr1914@gmail.com,False
+https://t.co/FRrSPIxHzR,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Legit message from Robocash ,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://fdsv01.site,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+https://bit.ly/8LaoyaTa,False
+egames.ph/login,False
+citly.me/CzP87,False
+citly.me/CzP87,False
+http://abgaming.art/IRW,False
+https://cutt.ly/aZNsuRp,False
+https://bit.ly/3AhQCjR,False
+http://09770263928.site/bzeS1J,False
+https://bit.ly/3byYquQ,False
+https://t.hxfxph.com/YP1WL,False
+https://linnki.in/EFwpizPQu,False
+http://fdsv14.online,False
+cutt.ly/BingoplusPH,False
+http://aq63xi.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+https://drive.google.com/file/d/1ewHrYmyCKcnw0FS_Kg_lZJxolyPxupqy/view?usp=sharing,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+rainerhillebrn22@outlook.com,False
+,False
+,False
+,False
+,False
+rst4406@gmail.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://5irpkseo.com,False
+t.ly/st777.vip,False
+gcxvd2ny.com,False
+,False
+wplus4you.com/IBIG3Y,False
+http://qldpmg.com,False
+http://fdsv11.info,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://taccmp5h.com,False
+http://aq63xi.com,False
+,False
+,False
+http://fdsv12.info,False
+bit.ly/LAZADAFREESHIPPING,False
+https://s.lazada.com.ph/s.UrR50,False
+bit.ly/JB-Gaming,False
+dgeg824@gmail.com,False
+,False
+https://atebunny.com/en-US/account/deposit/bfcf27e2-8201-0000-0001-000040f1efd8,False
+,False
+egamesph.com/login,False
+https://t.ly/GCash.ph,False
+https://ifunmada.page.link/DX,False
+,False
+,False
+,False
+,False
+,False
+http://onlinebet.ph/game,False
+accasino12.com/login,False
+http://phgaming.quest/wrl,False
+,False
+,False
+,False
+www.phbets.bet,False
+http://bitglobalgood.com,False
+luckyphil.com/login ,False
+http://9dv1t8.com,False
+luckyphil.com/login,False
+http://ox4xtu.com,False
+http://t6m681.com,False
+http://fdsv05.site,False
+,False
+http://clickmetertracking.com/BDOVerify,False
+egamesph.com/login,False
+http://fdsv09.site,False
+bit.ly/JB-Gaming,False
+https://s.lazada.com.ph/s.UONbr,False
+http://fdsv14.online,False
+bit.ly/BINGOPLUS_PH,False
+http://fdsv03.online,False
+bit.ly/Bingo_PlusPH,False
+cutt.ly/Bingoplus,False
+fleminggrey54@gmail.com,False
+,False
+bit.ly/your5000reward,False
+,False
+,False
+luedieed@gmail.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://2xnvte.com,False
+thesuperwoodhotel.uk@gmail.com,False
+,False
+ndka832@gmail.com,False
+,False
+http://pbgaming.quest/G7ZpSj,False
+abncapitalllcuae@gmail.com,False
+,False
+http://pcplat.com,False
+http://lfhh5x.com,False
+http://fdsv03.contact,False
+http://gaming63.pics/2Q3,False
+"Idownload ako, bigyan kita ¤10, sumali sa team mayaman http://5irpkseo.com",False
+https://invol.co/clc31bs,False
+luckyphil.com/login,False
+http://casino-online.beauty/tqd,False
+,False
+,False
+egamesph.com/login,False
+,False
+,False
+,False
+,False
+flanabret04@gmail.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"See Proof tab, F163",False
+,False
+,False
+,False
+,False
+,False
+santcarol18@gmail.com,False
+,False
+,False
+,False
+http://5irpkseo.com,False
+bilyonaryo.com,False
+http://pcplat.com,False
+,False
+,False
+,False
+m.me/SuccessBusiness2021,False
+jamesbrannen4@hotmail.com,False
+m.me/743315033069588/,False
+,False
+DAVID.J.TURNER005@GMAIL.COM,False
+caman6960234@gmail.com,False
+bit.ly/yandex20221,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+with Link http://9dv1t8.com ,True
+,False
+,False
+,False
+,False
+,False
+bilyonaryo.com,False
+,False
+,False
+,False
+,False
+,False
+onlinebet.ph/LiveGame,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+https://s.lazada.com.ph/s.UrR50,False
+http://Pmplay1.com,False
+,False
+,False
+,False
+http://accasino12.com/login,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://2xnvte.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+mentioned my full name,False
+https://t.hxfx-ph.com/YXJBO,False
+,False
+,False
+,False
+mentioned my name,False
+,False
+,True
+,False
+Seven Bet Grand Opening,False
+,False
+,False
+,False
+It's really Important that you should contact my email as soon as possible (diegomendoza326145@gmail.com),False
+,False
+,False
+"""Thina from Prime Lux Limited...""",True
+mentioned my full name,False
+mentioned my name,False
+Mentioned my full name,False
+69317.uk,False
+bingoplus.com/?pal=1002723180,False
+,False
+http://fdsv05.site,False
+Mega888 Grand Opening,False
+Email for details: rp865233@gmail.com,False
+luckyphil.com/login,False
+https://s.lazada.com.ph/s.fJVYM,False
+travels@greattravelagency.great-site.net,False
+BingoPlus,False
+Mentioned my full name,False
+BingoPlus,False
+Mentioned my full name,False
+,False
+mentioned my name,False
+,False
+dyhk754@gmail.com,False
+http://fdsc03.site,False
+wa.me/27814850926,False
+Sending Suspicous Links,False
+egamesph.com/login,False
+t./me/KaYa98765,False
+Sending Suspicous Links,False
+http://fdsv07.site,False
+http://fdsv19.info,False
+Mentioned my full name,False
+barelenadublin@gmail.com,False
+Sara Duterte Campaign,False
+fdsv04.site,False
+http://fdsv12.online,False
+https://t.co/1LOEKAXtLF,False
+superwoodhotel.uk@gmail.com,False
+https://s.lazada.com.ph/s.4ZgRn,False
+mcguirem707@gmail.com,False
+baph440@gmail.com,False
+vyc772233@gmail.com,False
+bilyonaryo.com,False
+"KOPIKO MAGKAPERA, from Secretary Jhon Carlo Martinez",False
+http://nuob0p7g.com,False
+mybitglobal - http://4ot7dati.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+https://invol.co/clc31bs,False
+,False
+http://bit.ly/JBGaming-PH,False
+,False
+,False
+knows my name,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+https://bit.ly/3Rb4pyJ,False
+,False
+,False
+qualityInnsuites@californiamail.com,False
+http://casjp3.com,False
+,False
+http://kok535.com,False
+,False
+0kada 0nline casi-no https://bit.ly/3CDHbfV,False
+"SMSCaster.com: Congratulation! Your number was selected among the Winners of the COVID_19 Relief Funds/grant of $500,000.00 USD. Ref: COV-19. Kindly contact our helpdesk for claims @ info.ifchelpdeskk@gmail.com",False
+,False
+Netflix mug,False
+http://bit.ly/JB-Gaming,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://ox4xtu.com,False
+,False
+bilyonaryo.com,False
+,False
+Invest your small amount only 1peso l0wbet at manalo ng 6.5Million jackpot only here bit.ly/BINGOPLUS2 Free40PHP after sign-up. Easy cash in/out via gcash,False
+"6.4M JACKPOT PRIZE! Try your luck, 1p L0WBET and get Free 40p after register! Join now! bit.ly/BingoplusPHAPP",False
+"J****** *****.,sa mybitglobal magbukas ng account at may pera! Magandang oportunidad, kunin http://lfhh5x.com",False
+,False
+"J****** *****.,mybitglobal, lagyan ng yaman ang bulsa http://5irpkseo.com",False
+,False
+"M*** ***,Magbibigay ng red envelope, may oportunidad makakuha ng ¤1000 http://lais7m.com",False
+"May sorpresa para sa mga bagong miyembro na magdeposito ng 100, na bonus mo  http://fdsv20.info",False
+,False
+"DO YOU RECEIVED MY SMS MY DEAR,LET ME KNOW IN sophiavillanueva53@hotmail.com IT'S URGENT.",False
+,False
+,False
+,False
+ako daw po yung masuwerteng bituin ng T1BET,False
+ako daw po yung masuwerteng bituin ng T1BET,False
+,False
+,False
+"SOLAR 3 WAY LIGHTS
+SOBRA GANDA AT FORMAL ILAGAY SA WALL
+
+CLICK HERE FOR PICTURE AND PRICE --->  https://s.lazada.com.ph/s.4ZgRn
+
+BUY 1 TAKE 1 TODAY ONLY!!!",False
+https://fb.watch/cPoW3Y9ya5,False
+,False
+Hey! Respond me now please [ jwarjfkj@gmail.com] it's hard to reach you.,False
+"Ang aking pangarap sa para ating bansa ay ipagkaisa muli ang sambayanang Pilipino. At para tayo ay haharap sa buong mundo at sasabihin at isisigaw natin, ""AKO AY PILIPINO, TAAS NOO KAHIT KANINO!""
+
+https://www.facebook.com/BongbongMarcos/videos/766933458023298/
+
+Please LIKE & SHARE. Maraming salamat po!",False
+"<name>,nagbigay ng pera ang mybitglobal, pindutin para magbukas ng account at may 600p http://casjp3.com",False
+,False
+,False
+"Pinakamahusay na online platform (name)., 5C2SH partner! I-cl5ck para mag-cl5im ng 10,000 b2nus ngayon! N8q+CdEKKpY= jijiph.com/PHILIPINES1314",False
+"(full name) ,Kaibigan! Bibigyan ka ng 600p cash reward, isang pindot para kunin http://lais7m.com",False
+"Congratulations!
+Your no.had Win
+Php(580.000,00
++1YAMAHA NMAX
+From: KOPIKO BLANCA MAGKAPERA
+to claim your prize!
+text your NAME/AGE/ADD And WORK
+Thank you!",False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+Handog sayo (name). Sa bagong platform sa bansa Wplus ang 5500 bonus at 3% sa bawat deposito N8q+CdEKKpY=. wplus4you.com/M3l3k3ng-b5n5s,False
+Inaakit at tinetext ang asawa ko tawag ng tawag na umuungol,False
+It's really important that you should contact my email as soon as possible { brettf829@gmail.com },False
+"(name) .,Kaibigan, may sense ba magsend ng libreng pera? Pindutin para kunin!http://2xnvte.com",False
+"Dear , 
+Watch our se.xy deaIer tonight! 
+Enter exclusive VIP code: GANDA sa log-in 
+luckyphil.com/login",False
+"Dear Our Valuable Customer, Welcome Back to Claim Your Rebate and Our JILI and FC Jackpot Is Awaiting for You. You can access from here https://winnk.in/tHO4o",False
+"BDO ALERT: Your account is temporarily on-hold, due to security purposes. Kindly verify your account https://t.ly/BDOAlertVerify_",False
+"Greetings from GCash,
+
+Claim your PHP 3,500 worth of GCash Loyalty Card provided by GCash Credit.
+
+Redeem here:
+https://twtr.to/GSaveTeams
+
+From, GCredit",False
+"Congratulations!
+Your no.had Win
+Php(580.000,00
++1YAMAHA NMAX
+From: KOPIKO BLANCA MAGKAPERA
+to claim your prize!
+text your NAME/AGE/ADD And WORK
+Thank you!",False
+"[INB@T] Amusement and benefit. Fast GCASH, Paymaya IN/OUT First deposit will get cash back 3%! https://paws.ind.in/7K4qm 6lKk",False
+"Write to me here, it is important and I am waiting: gregrch34@gmail.com (3x nag text)",False
+,False
+"OKBET Umiwas sa peke site, Dito ka lang sa OKBET https://nsfevg.sa.com",False
+,False
+can't reach you may be network contact me here urgently sistersjavera79@yahoo.com   (3x nag text),False
+Good day this is Mr. Joshua McConnell. Please reply me immediately on this E-mail(mccllj458@gmail.com ),False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Tadz,Nasayo ang swerte, libreng ¤10 sayo http://aq63xi.com",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Ngayon po ang Start ng Big Sale namin Up to 60% discount sa lahat ng items namin. Click this para makita ang mga product --> https://s.lazada.com.ph/s.UF1Ha Meron po kaming: Solar Lights Emergency lights Massage gun Laptop stand Air purifier Facial Acne steamer Air fryer at madami pang iba.,False
+ew PH Game Platform Online ! Let Play U Prefer Game AND WiN BIG CasH! Register Now FREE 178 BONUS. ONLY AT cod11.cc,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499. Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50 Yes! Apat na piraso ! Dahil naka SALE siya ngayon!",False
+i.deaI'Choice: Sa'isang'd*posit'baka'makha'ng'higit'5k'pes*s'b*nus' http://phonline.beauty/nfX '24H'1mmediate'C*sh'In/Out,False
+"Try our hot Games! Slot, Poker, Sports and MORE 100% Deposit rebate! Come and play with our Live Casino girls! onlinebet.ph/JB-game",False
+Sa maliit na halaga may chance ka ng maging MILYONARYO.,False
+"Greetings from GCredit, Please Claim your PHP 5,000 worth of GCash Loyalty Card provided by GCredit Team. Claim here: https://t.ly/gcash.ph",False
+,False
+Pagod ka ba sa mag hapon na pagtratrabaho ??? Marerelax ka sa aming NEW MASSAGE GUN. CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UUM6r Naka SALE ngayon.,False
+SOLAR 3 WAY LIGHTS SOBRA GANDA AT FORMAL ILAGAY SA WALL CLICK HERE FOR PICTURE AND PRICE ---> https://s.lazada.com.ph/s.fz8pd BUY 1 TAKE 1 TODAY ONLY!!,False
+"Hindi magiging katotohanan ang kasinungalingan, maski ni like pa ang post na ‘yan ng libu lbong tao, o maski maging viral o trending . Maging mapanuri sa mga posts ng bloggers , vloggers at influencers.-2182",False
+REGISTER and DEPO GET UP TO PHP5000 WELCOME BONUS!!Small amount to win BIG 2M JACKPOT!!24/7chat:https://atbunny.bet/help VISIT:https://t.ly/ATEbunny@02.com,False
+Your BDO number has been suspended until further notice. ReActivate on our official page: https://rebrand.ly/s08h7th,False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 !! Pinaka mura na Solar sa Market ! BILI NA ! CLICK HERE TO BUY --> https://tinyurl.com/4en84z45 BUY 2 TAKE 2 TODAY ONLY!!",False
+SOLAR 3 WAY LIGHTS SOBRA GANDA AT FORMAL ILAGAY SA WALL CLICK FOR PRICE/BUY ---> https://s.lazada.com.ph/s.V9Nyq Shop Now: (NEW ITEM 58% OFF SALE) BUY 1 TAKE 1 TODAY ONLY!!! PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES. LED Super Bright 3 Adjustable Heads Motion Sensor Lights Waterproof and Wireless TIPID SA KURYENTE !! IWAS MAGNANAKAW AT AKYAT-BAHAY SA GABI !!,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Ideal-Choice!! Sa isang dposit baka makha ng higit 10k pe-sos b.o.n.u.s. 24/7 Im mediate Ca.sh In/Out. http://okadaonline.shop/exH,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"lahat ginagamit ako para kumita ng 1 milyon, wag ka magpahuli http://gtgtjl.com",False
+,False
+,False
+,False
+,False
+"NOTE! your simcard no. had won php730,000.00 frm: san miguel corp. 4 more info & dtails.txt your name/add/age/occupation.im sec:RUDY T. VALDEZ. Dti#3202s20",False
+B.e.s.t /On.lin'e/ /C@si'no% With24/7 Cah In/Out http://pbgaming.pics/BFd Si'gn up and 1OOO Ge.t 1OOO,False
+U.A.E. JOB ALERT: SEND YOUR RESUME TO info@ismailnasirshipping.com FOR APPLICATION.,False
+"you will get an income of 240 to 700 pesos for promoting products, and you do not need to pay any fees for completing basic tasks, https://kikixe.com ",False
+let's talk here now: xjmuan@gmail.com,False
+let's talk here now: juliansantosx@gmail.com,False
+"you can earn an extra 3000-5000 every day! recruit staff online! flexible working hours and locations, please contact: https://wa.me/+639774051291",False
+your parcel is ready for delivery. confirm your shipping details. check here: guhjes.me/JGKvlro,False
+"see what i have for you, reply to: mastjohn586@gmail.com",False
+,False
+get back to my email now; mtvgxx@gmail.com,False
+" SMS PASS: (MY FULL NAME) PIDN: B04796 / A3(adults with co-morbidity) dalhin:ballpen, valid id at med. cert./clearance or reseta. sa iyong 1st dose covid-19 bakuna sa 9/7/2021 8am-2pm, pacita astrodome. reply confirm. rc: VEI07A",False
+URGENT:kindly contact luis_garry@yahoo.com,False
+"IF YOU REALLY GOT MY TEXT,LET ME KNOW IN nancyflores41@hotmail.com very urgent ",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Ang iyong unang deposito araw-araw na may mga karagdagang benepisyo, ano pa ang hinihintay mo  http://fdsv03.org",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+magrehistro na ngayn  meron ka 100 %  /C.A.S.H/  back hangang 5OOO/P.H.P/ http://betting.pics/JsK W'l@N 100M WITH 24/7 C@S'H IN/OUT,False
+,False
+,False
+"Winning Number 6FBJ:You have won $850,200USD in our 2022 Qatar FIFA WorldCup Prize award. Contact Cruz ttttimco@gmail.com and claim Prize",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+*attached in PROOF tab*,False
+*attached in PROOF tab*,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+pakiusap pakikuntak si mr. gerald sa kanyang email geraldleug@yahoo.com. meron siyang mahalagang sasabinhin sayo. maraming salamat.,False
+,False
+,False
+,False
+Do you wish to live and work ABROAD?. Vacancies available!!! kindly contact me on my Email now for details: rp247568@gmail.com,False
+Makakatanggap ka ng 5000 cash! Pumunta lang sa website na ito: bit.ly/get5kblog at e click ang google ads na inyong makikita sa kahit anong page ng site.,False
+Hello get back at me via Robertforsch1@gmail.com it's important.,False
+"[Complete Name!],Red envelope ng mga bago dumating na, pinduin para kunin ang ¤10 http://9dv1t8.com",False
+"Kulang ang sahod, magrehistro saakin, makakuha ng 600p http://aq63xi.com",False
+Is all about you reach me here : rhr1700e@gmail.com,False
+"(hawis999@gmail.com) pls contact me with the email is urgent, your number is not going.",False
+"FREE DAILY 588P!24/7 online platf0rm!COCKF1GHTINGLIVE CAS1N0
+SLOTS, F1SHING N MORE!web: https://bit.ly/Lb17dHdy",False
+No.1 ONL!NE CAS|N0 pinaka trusted p|atform sa Pinas and meron daily b0nus and bi|is mg cash in-out 24/7. http://pcplat.com,False
+"Narito na ang Sikat at bagong Platform para sayo,Ang Wplus ay mayroong 5500 bonus at 3% sa bawat deposito QTF18jZa0VY=. w3npl5s.com/M3y3m3n",False
+0kada On|ine CAS|NO pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7.  https://bit.ly/3Rb4pyJ,False
+ikaw ang maswerteng na pili SaF2rxfQYl8=  na makakuha ng libreng Slot game bonus at libreng 3000 bonus. Iclaim ito upang makapaglaro at manalo. ti4yougame.com/M3lig3y3ng-P3gd3t1ng,False
+,False
+Salary or Business Loan? Avail our promo 30kto2M. For Fast transaction. Call me,False
+Goodam po musta napo. Baka pwede na akong amningil ngayon,False
+,False
+"ENMAR F.,Boss, nanalo ka ng 600 pesos bonus, isang pindot para kunin! http://gcxvd2ny.com",False
+,False
+,False
+,False
+,False
+Please do not fail to do everything you can to contact me here: gregrds37@gmail.com,False
+,False
+,False
+bit.ly/3G6DU7N,False
+bit.ly/8UCnboD,False
+IMPORTANT NOTICE. WE ARE INFORMING YOU THAT WE ALREADY FORWARDED YOUR NAME FOR BLACKLISTING. YOU WILL BE BANNED TO ALL LENDING COMPANIES AND BANKS IF YOU STILL REFUSE TO REPAY. EXPECT THE DEMAND LETTER TO YOUR HOME ADDRESS. TO AVOID THIS KINDLY PAY IN FULL YOUR OVERDUE TODAY.,False
+http://betting.pics/JsK,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Mentioned my name. I have screenshot. I don't know how to put it in,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"[TEXT MESSAGE] HELLO BELOVED PLEASE KINDLY REPLY ON MY EMAIL URGENTLY
+
+brettflanag@gmail.com",False
+),False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://fdsv09.info,False
+,False
+,False
+luckyphil.com/login,False
+http://t6m681.com,False
+,False
+"The most professional slot machine betting platform in the Philippines http://superwin.pics/iX5 slot machine battle, get lucky 30,000PHP bonus everyday",False
+,False
+https://bit.ly/Hd4zMy5l,False
+luckyphil.com/login,False
+http://t6m681.com,False
+http://fdsv11.info,False
+http://fdsv02.email,False
+http://taccmp5h.com,False
+,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+"The most popular Filipino C asino with 24/7 Immediate Cash In/Out. Register Now Get 5,000PHP FREE 5,000PHP http://pbgaming.xyz/lCr WIN 1 Million NOW!",False
+"The most popular Filipino C asino with 24/7 Immediate Cash In/Out. Register Now Get 5,000PHP FREE 5,000PHP http://pbgaming.xyz/lCr WIN 1 Million NOW!",False
+GOOD NEWS! ISA KA SA PWEDENG MANALO NG HIGIT SA ISANG MILYONG PISO SA PAGLALARO. I-DOWNLOAD NA! http://phpoceans.com,False
+"(NAME), Sikreto kong natulungan yumaman ang maraming tao, halika dito: http://931ccx.com",False
+Full name ko na nakaindicate. Yung surname ko hindi lang initials na. ,False
+"hottest online games poker  slots and P5,OOO bonus everday https://cutt.ly/MLVOFKE  24/7 Immediate Cash In/Out",False
+"Your 603.70 Points 
+will Expire on 
+JULY 31, 2022.
+
+CONVERT to P600 Prepaid
+ 
+Just Dial:
+ 
+*
+100*1*O9557986055*600*1*# 
+ 
+Then Press CALL",False
+"Beloved, contact my email, thanks, gdabeg2468@outlook.com",False
+"WELCOME BONUS: 201 GET 201, 1001 GET 1001, 5000 GET 5000. *24/7 Immediate Cash In/Out More https://reurl.cc/55jXOq",False
+"From: PCSO Draw coordinator Mr ARIEL DE OCAMPO, Tayaan mo ang 3DLOTTO# na (131) 400pesos target at 600pesos rambol. Tawag agad pgkatpos mkataya!",False
+"Buddy! Try your luck here! 2.6M JACKPOT PRIZE! You might be the next millionaire! Register now and get FREE 60P, luckyphil.com/login will have SABONG Soon,",False
+"SMSCaster.com: Good day
+There is a good news for you. Kindly contact me on:matthewlittle76@hotmail.com
+",False
+"[Full Name (not GCash)],Lahat ginagamit ako para kumita ng ¤1 milyon, wag na magpahuli http://gjgtjl.com",False
+"[Full GCash Name],Wag magpaiwan, sabay sabay idownload, bilisan kunin ang ¤10 http://931ccx.com",False
+"NEED CASH? Meron Ka Bang FULLY PAID NA ""CAR & TRUCK"" Sangla Your ORIGINAL OR-CR Into CASH W/Out Taking A UNIT Starting 0.88% Monthly Look For CHERRY 09338184029",False
+"OUR COMPANY NEEDS YOU,
+HOMEBASED BUSINESS.
+
+EARN BIG WHILE AT HOME.
+
+INTERESTED?
+CLICK LINK BELOW:
+
+m.me/110002170861550
+
+",False
+"KUMITA NG MALAKI HABANG NASA BAHAY LANG.
+
+BE AN ONLINERS LIKE US!!
+
+INTERESTED?
+CLICK LINK BELOW:
+
+m.me/103766741492520
+
+",False
+"GMA-7 NOTICE MA'AM SIR CONGRAT'S PHP350,000. SPONSORED  MR. WILLIE REVILLAME PLS TXT NAME AGE ADDRESS WORK CALL ME NOW ATT. REY A. LOPEZ DTI#6589.THANK YOU..",False
+Sign in to win your lucky jackpots. Fast and safe cash in/out. Most trusted g@me site in phil. Register now to join https://lihi3.com/XPbEl ciRX,False
+"CONGRATS!YOU HAD WON!PHP350,000.00)2ND PRICE FROM:GMA7&(SHOPEE)DTI PERMIT#1205'SERIES OF 2021 TO CLAIM TEXT UR NAME: ADD: AGE: WORK:)CALL US ATTY.KYLE A. TORRES",False
+Pakiusap pakikuntak si Mr. Kristoffer sa kanyang email; kzum90@yahoo.com. Meron siyang mahalagang sasabihin sayo. Maraming salamat. ,False
+No.1 ONL!NE CAS|N0 pinaka trusted p|atform sa Pinas and meron daily b0nus and bi|is mg cash in-out 24/7.   http://pqplay1.com,False
+"Your 600 Retàiler Points
+will Expire Soon.
+Convert to Bonus
+600 PrepaidLoàd
+
+Just Dial
+
+*
+100*1*09531835656*600*1*#
+
+Then Press CALL
+
+Until:
+NOVEMBER 10, 2021",False
+No.1 ONL!NE CAS|N0 pinaka trusted p|atform sa Pinas and meron daily b0nus and bi|is mg cash in-out 24/7.   http://pqplay1.com,False
+Hi this is Inspiro. Earn up to 100K and get *20K Joining Bonus as INBOUND Sales Specialist. Click here to apply: https://talkpu.sh/3PKja,False
+let's discuss the job on this email ( infopacif4@gmail.com ),False
+"Dear Our Valuable Customer, Welcome Back to Claim Your Rebate and Our JILI and FC Jackpot Is Awaiting for You. You can access from here https://winnk.in/tHO4o",False
+"ECQ. of  YEAR'2021  Ma'am/Sir. Congrat's  You are lucky  winner of'(Php  350,000.)from.( SEN. MANNY  PACQUIAO.).To Claim Please send your.NAME/AGE/ADD/WORK/.Im Sec.Jade L.Ayala dti'FTEB#24000'S2021. thank  you! ",False
+"(GCash Name),idownload ang mybitglobal, ""hands on"" ito, hindi pangarap ang bahay at kotse http://wdb4afgo.com",False
+"Gusto mo ba yumaman? Idownload ang http://gjgtjl.com, magbukas ng account at may 600p",False
+by SMSCaster.com: URGENT HIRING FOR ONLY DH WORK ABROAD.:Domestic Helper OFW kindly contact:09975949395 free accomodation and food and transpo.100% legit.,False
+by SMSCaster.com: URGENT HIRING FOR ONLY DH WORK ABROAD.:Domestic Helper OFW kindly contact:09975949395 free accomodation and food and transpo.100% legit.,False
+"(GCash Name),Hi! Friend, pindutin ang http://5irpkseo.com may makakha ng perang panglaro, mabilis kumita",False
+"-Limited time event- (9-11PM)
+Time to draw your first golden eggs & get million bonus baby! 
+Deposit only P1K to avail onlinebet.ph/JBgames",False
+Gumamit ng leverage at yumaman sa isang ataw! Kailangan lang sumali at magdownload https://t.hxfxph.com/MRGyp,False
+"May offer ngayon, magrehistro at may 10 http://nab60q.com",False
+"mybitglobal, propesyonal na currency exchange na plataporma, mabilis kumita ng pera https://t.co/LTgQbtqrRn",False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 !
+Pinaka mura na Solar sa Market !
+BILI NA !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UbrFB
+
+BUY 2 TAKE 2 TODAY ONLY !",False
+"FIRST New Register MEMBERS Depo100 free100P..free up to 5000P!DONT NEED DOWNLOAD APP,STRAIGHT PLAY AND Easy Win All GAME! https://t.ly/ATEbunny@02.com",False
+"Your number is out of network coverage, Get back to me here:bertche6732@gmail.com",False
+"DEAR BENEFICIARY,CLAIM YOUR APPROVED UNPAID COVID 19 AMELIORATION CASH  GRANT FOR AGED,RETIRED & PENSIONIEERS.EMAIL THE CORDINATOR-  aguiladorcasa@gmail.com",False
+"Free 128P MG account opening, https://bit.ly/3yqbR2l",False
+"I called you but your number is not reachable we need
+ to talk pls contact my email  ( Christopherweber772@gmail.com )",False
+Dear applicant you are selected as Part/Full-time staff. Now you can work from home and earn 8000 Peso daily. please click https://bit.ly/3MNa9fX,False
+Dear applicant you are selected as Part/Full-time staff. Now you can work from home and earn 8000 Peso daily. please click https://bit.ly/36KRq4j,False
+"SOLAR 3 WAY LIGHTS
+SOBRA GANDA AT FORMAL ILAGAY SA WALL
+
+CLICK FOR PRICE/BUY --->  https://s.lazada.com.ph/s.V9Nyq
+
+Shop Now: (NEW ITEM 58% OFF SALE)
+BUY 1 TAKE 1 TODAY ONLY!!!
+
+PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES.
+
+LED Super Bright 3 Adjustable Heads
+Motion Sensor Lights
+Waterproof and Wireless
+
+TIPID SA KURYENTE !!
+IWAS MAGNANAKAW AT AKYAT-BAHAY SA GABI !!",False
+⚡🥇Tuklasin ang iyong husay! Check this audio book summary and discover your strengths. https://peoplecademy.net/details/811,False
+"1/2MA'AM&SIR
+Ur sim# Had
+WonPHP550,000
+FROM GMA MILYONATION,
+For more info text ur NAME/ADD/AGE Call This#09359554557
+I'M Atty: Rafael A.Chavez/DTI # 1143 s'21.",False
+Great News! You are chosen to be the lucky winner of our Netflíx T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,False
+"Dahil nabasa mo ito, sign na ito para mag laro! click the link now!! :  http://fdsv05.site",False
+"Hi L D. , 
+Nandito na ang best way para kumita ng datong!
+Log in and receive 60P
+philnewz.com/login",False
+Get cash when you need it. Borrow any mount from 30k up to 2m to anything for your Personal consumption. Apply now for free! Call me,False
+"YoU cAN AvAiL 50K-2M Fast,& Easy approVEd..txt or call 09504250181
+LOOK FOR MS. JEN",False
+GOOD DAY! We Offer 50k-2M EASY PROCESS AND SECURED TEXT ME FOR MORE INFO 09504250181  LOOK FOR Ms.ELA,False
+"Job Open Offer,:Forward your updated resume directly to the establishment @ fdp589752135@gmail.com , Get a chance to work in a decent country.",False
+"Hl!! AVAlLUP 5Ok-2M Easy T0 R0CESS,CaIl wor Text 09928209902",False
+"Avail 50k up to 2M...w/ fast@ secured ..reply //how /call
+09093702219 look Ms. Carla",False
+Limited Time Only! http://betting.pics/Apo 50% Daily UNLI Deposit Bonus. the upper limit of a single bonus is 10000PHP,False
+"May offer ngayon, magrehistro at may ¤10 http://nab60q.com",False
+"(NAME),Hi! Magbukas ng account at may ¤10, first come first serve http://2xnvte.com",False
+"(NAME),Siguradong kikita na software, idownload na ang mybitglobal, magbukas ng account at may ¤10 http://casjp3.com",False
+NO.1 Legal na online game sa Pilipinas!   http://fdsv08.site,False
+"(NAME),Bilisan sumali, magbukas at may ¤10 ka panglaro!http://gcxvd2ny.com",False
+Handog sayo (NAME) Sa bagong platform sa bansa Wplus ang 5500 bonus at 3% sa bawat deposito YDFzs+bdk60=. w3npl5s.com/M3y3m3n,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Regiterd as TEAM BBM,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Makakatanggap ka ng 5000 cash! Pumunta lang sa website na ito bit.ly/yandex20223 at e click ang google ads na inyong makikita sa kahit anong page ng site.,False
+"Dear customer, you are cordially invited to claim your benefits, JILI and EVO Bingo jackpots are waiting for you, you can visit here kuuo.in/qEEgw Fpsf",False
+,False
+,True
+"Pagkatapos gamitin ang mybitgloba, bawat buwan kumikita ako ng isang milyon http://931ccx.com",True
+"[ PHBET ] The most popular online casino with 24h immediate cash in/out http://superwin.quest/z2r Lucky Wheel: up to 100,000PHP everyday!",False
+"Win The Big J@CKP0T Up To 1M PHP! 100 GET 100, 500 GET 500, 5000 GET 5000|. 24/7 Immediate Cash In/Out. CLICK https://dpurl.org/tflEq",False
+hottest online games poker slots and P5000 bonus everyday http://t-t.ink/0ebp_ 24/7 Immediate Cash in/out,False
+"US$140,000 is awarded to your cell phone number. For details, clarification, and claim, contact:awatz258@gmail.com",False
+"Hello, I am the hiring manager of Cashbaka, due to the vacancy, we will invite you to work part-time from home, the salary will be paid on the same day, 500-3000 PHP per day   m.me/Lindacashbaka",False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!",False
+"Mayroon kang unclaimed top-up bonus, huwag palampasin ito    http://fdsv08.site",False
+Ideal-Choice!! Sa isang dposit baka makha ng higit 10k pe-sos b.o.n.u.s 24/7 Im mediate Ca.sh In/Out.  http://okadaonline.shop/exH,False
+A colleague requests to contact you asap pero hindi po nagcoconnect. Please contact her here: epaz9092@gmail.com Salamat,False
+Try this easy g@me! W.l.N 100M  J@CKP0T  PRIZE AND STILL GROWING... http://pbgaming.beauty/Sy7,False
+"Mga sikat na online games, sabong, thousands people are online, mag register na para makakuha ng PHP 777, x7 cash withdrawal, website:  http://fdsv13.info",False
+"Your 600 Reward Pts.
+will Expire on 
+SEPT. 10, 2022
+
+Convert to Bonus Wallet
+ 
+Just Dial
+ 
+*100* 1*09557966706*600*1*# 
+ 
+Press CALL",False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 ! Pinaka mura na Solar sa Market ! BILI NA ! CLICK HERE TO BUY --> https://s.lazada.com.ph/s.fJVYM BUY 2 TAKE 2 TODAY ONLY !",False
+"We have approved your interview on July 8, and you can easily get 2800P. Please contact in time:https://pxmd.co/liSG1",False
+"Sir/Madam, congratulations on passing our interview, 3800P/day, time is limited, please contact me:https://0a.fit/HXKJd",False
+Gusto mo bang yumaman? Bisitahin ang link at idownload https//t.co/exm0NSbGxj,False
+"¤usernam Congratulations! Nanalo ka ng ¤20,000, pindutin para kunin https://t.hxfxph.com/Y9XXo",False
+"SOLAR  STREET LIGHTS ARE NOW ON SALE!!!
+
+CLICK IF INTERESTED FOR PRICE/BUY --->  https://invol.co/clc31bs
+
+Shop Now: (NEW ITEM 74% OFF SALE)
+BUY 2 TAKE 2 TODAY ONLY!!!
+PINAKA MURANG PRESYO SA MARKET !
+
+PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES.
+
+LED Super Bright
+IWAS MAGNANAKAW SA GABI
+8-10 HRS USAGE IF FULL CHARGE
+
+PLEASE DO NOT CLICK IF NOT INTERESTED!!!
+THANK YOU!",False
+0kada 0nline casi-no pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7. http://poplay1.com,False
+"Maswerteng bitwin ay kumikintab, nanalo ng 10, pindutin http://2xnvte.com",False
+"(NAME) ., Libreng 6000P, kailangan lang magbukas ng libreng account, pindutin http://taccmp5h.com para sumali!",True
+"Kunin ang oportunidad, sa my-bitglobal magbukas ng account at may 6000p! http://bitglobalgood.com",False
+"Naligayang Boss Martes, Top 1 platform for Slot Gaming! 100% bonus up to 58,888php on your FIRST DEPOSIT! Mag-sign up ngayon http://fdsv09.site",False
+"Mayroon kang unclaimed top-up bonus, huwag palampasin ito    http://fdsv08.site",False
+Ikaw ang maswerteng na pili Zu05UB1o18E=  na makakuha ng libreng Slot game bonus at libreng 3000 bonus. I claim ito upang makapaglaro at manalo. ti4yougame.com/Masuwerteng-Bonus,False
+Ikaw ang maswerteng na pili Zu05UB1o18E= na makakuha ng libreng Slot game bonus at libreng 3000 bonus. I claim ito upang makapaglaro at manalo. ti4yougame.com/Masuwerteng-Bonus,False
+Ikaw ang maswerteng na pili Zu05UB1o18E= na makakuha ng libreng Slot game bonus at libreng 3000 bonus. I claim ito upang makapaglaro at manalo. ti4yougame.com/Masuwerteng-Bonus,False
+Ikaw ang maswerteng na pili Zu05UB1o18E= na makakuha ng libreng Slot game bonus at libreng 3000 bonus. I claim ito upang makapaglaro at manalo. ti4yougame.com/Masuwerteng-Bonus,False
+,False
+,False
+,False
+"WELCOME BONUS: 202 GET 202, 1002 GET 1002, 5000 GET 5000. *24/7 Immediate Cash In/Out More http://t-t.ink/0ealw",False
+,False
+"WE1C0ME B0NUS: 200 GET 200, 500 GET 500, 5000 GET 5000  #24/7 Immediate Cash In/Out.# More https://dpurl.org/rLRG1",False
+"You can make money with your mobile phone. Earn 1000-8000 pesos a day. Monthly income of 50,000 pesos! Add greetings from! whatsapp:https://wa.me/639950437893",False
+"GOOD DAY! MA'AM/SIR YOU HAD WON!!! (PHP650,000.00) FROM:Villar foundation PLZ'TEXT YOUR/NAME/ADD/AGE/WORK/CALL ME NOW!I'm ATTY.ALEX F. GONZALES (DTI'NCR#1843/s2021).",False
+,False
+The'Big.gest'PH'On.line'G.ames'with'24H'C.ash'In/Out http://phonline.quest/sUr SlGN'UP and GET'10k'F.REE'8k'Bo.n.u.s! W.i.n'Big'C.ash'Now,False
+Sir/Mam.Congratulations you have been selected to work  part-time . Daily salary of 4500+. detail:  b.link/3aquva,False
+"po, I am a part-time manager working in my free time. Earn 6000P easily every day. Click on WS for consultation: https://bit.ly/3P19XuU",False
+"hi, looking for filipino, just OFFICE-BASED english teachers. you may apply on weekdays 1pm-8pm. details https://ioiokorea.com",False
+Nasa Pilipinas na ang W.PLUS! SUMALI PARA MANALO NG INSTANTLY 5500 BONUS AT 3% CASH BACK! sa bawat Deposito! Djx05bTzFrg=7in3plus.com/Sw3rt3,False
+Ang pinakamainit na online slot machine ay naghihintay para sa iyo na manalo ng malaki http://fdsv05.contact,False
+"dumating na ang gift bag ng mybitglobal, magbukas ng account ay may libreng 10 http://casjp3.com",False
+,False
+,False
+,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Unknown caller.,False
+Deleted na ang message nasa blocked list ko lang tong mga numbers. ,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Happy Weekend! Relax while enjoying playing accasino12.com/login Register now get FREE 60p, Easy WIN here, invite the tropa and family to play.",False
+"[name], Nakakuha ka ng libreng 600p! pindutin para kunin http://ag63xi.com",False
+,False
+,False
+Nakakabaliw na kita ang handog namin sa inyo 90%. Lahat ay pwede kumita. Sumali na agad para maging ahente!  http://fdsv04.contact=,False
+"Lahat ginagamit ako para kumita ng ¤1 milyon, wag ka magpahuli http://gjgtjl.com",False
+"Gumawa at may ¤10, nasa kamay ang phone, puwede kumita anytime http://bitglobalgood.com",False
+"Greetings,
+I am writing to express my interest on working with you, i have a proposal that might interest you, i would like an opportunity to further discuss in detail. kindly contact me by email : alfredoayub@hotmail.com, I await your urgent response.
+
+",False
+"SOLAR 3 WAY LIGHTS
+SOBRA GANDA AT FORMAL ILAGAY SA WALL
+
+CLICK HERE FOR PICTURE AND PRICE --->  https://s.lazada.com.ph/s.fz8pd
+
+BUY 1 TAKE 1 TODAY ONLY !!!",False
+,False
+,False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 ! CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UXHEg BUY 2 TAKE 2 TODAY ONLY !",False
+,False
+,False
+Baka ikaw na ang susunod na magiging MILYONARYO. Pag sumali ka sa casino link chuchunes,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+ikaw daw maghahandle ng charity,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Magrehistro upang makuha ang iyong premyo pagkatapos basahin, ito na ang iyong huling pagkakataon! !  http://fdsv02.org",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Screenshot,False
+,False
+,False
+,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Makakatanggap ka ng hanggang 5000 cash! Pumunta lang sa website na ito: good122.com at maglaro 0n|ine Sl0t.,False
+Screenshot,False
+"Happy Weekend! Mag relax habang nag eenjoy maglaro ng bit.ly/JBGaming-PH Register now get FREE 60p, Easy WlN dito, Ayain na ang tropa at pamilya na mag laro!",False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+Screenshot,False
+,False
+,False
+"Sincerely inviting you, magrehistro at may 600p http://aq63xi.com",False
+"Limited time evet, bigyan ka ng 600p para gamitin, isang pindot para kunin http://vuh951u4.com",False
+"C******** P.,sa mybitglobal magbukas ng account at may pera! Magandang oportunidad, kunin http://lfhh5x.com",False
+"Dear , 
+Watch our se.xy deaIer tonight! 
+Enter exclusive VIP code: GANDA sa log-in 
+luckyphil.com/login",False
+"congrats ikaw ang 1000th user, bigyan kita 10 http://931ccx.com",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Ang pinakamahusay na web platform! 100% First Deposit Bonus Mag-sign Up Ngayon  http://fdsv04.contact,False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UXHEg
+
+BUY 2 TAKE 2 TODAY ONLY !
+
+YES ! APAT NA PIRASONG SOLAR SA NAPAKAMURANG HALAGA !
+Pinaka mura na Solar sa Market !
+BILI NA !
+
+TIPID SA KURYENTE !!
+
+PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES.",False
+"LAZADA BIG SALE START TODAY!
+FLASK STAINLESS SET BAGSAK PRESYO NGAYON !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UPAbW
+
+HURRY BUY NOW !
+ENJOY SHOPPING !",False
+,False
+,False
+,False
+,False
+,False
+"Mag-claim ng 5500 na bonus at 3% cash rebate ngayon(NAME). ,upang manalo ng milyun-milyong bonus sa W.P5US! QDUEjjqB351953kc= w3nn3gpl5s.com/M5lyon",True
+"Sana yumaman ka, pindutin para magrehistro at makakuha ng libreng 600p http://u3mwdy.com",False
+"2022 Best On|ine CAS1N0 & S|ot 
+Ranking:  NO.1  
+Free B0NUS & Daily sa|ary http://pbplat.com",False
+"al,Kaibigan, Idowanload ako at may 600p, wag aalis ng walang hawak http://0gom5p.com",True
+"Arnie B.,Mabuting kaibigan, bigyan blessing, bigyan ng 10 http://931ccx.com",True
+"Rizza May,Pagkatapos gamitin ang mybitgloba, bawat buwan kumikita ako ng isang milyon http://931ccx.com",True
+best online casino,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Ang pinakamainit na gaming platform ng 2022! Lodi, hanggang 100% cash back sa iyong unang deposito, i-download ang:  http://fdsv09.co",False
+"2022 Best On|ine CAS1N0 & S|ot
+Ranking: NO.1
+Free B0NUS & Daily Sa|ary
+http://pbplat.com",False
+Sign up and Join raffles to get iPhone CLICK enjoy up to 5M Jackpot 66790.net,False
+Nasa Pilipinas na ang W.PLUS! SUMALI PARA MANLO NG INSTANTLY 5500 BONUS AT 3% CASH BACK! sa bawat Deposito! J6cw9fig+cQ-=7in3plus.com/Sw3rt3,False
+Makakatanggap ka ng hanggang 5000 cash! Pumunta lang sa website na ito: good122.com at maglaro 0n|ine Sl0t.,False
+BEST ONL1NE CAS|NO pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7. http://Pdplay1.com,False
+0kada On|ine CAS|NO pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7.   http://Pbplay1.com,False
+"Iniimbita kita na maglaro at i-enjoy ang weekend only here at accasino12.com/login Register & get P60, Easy WIN lang dto. Isama na ang pamilya!",False
+Magdeposito araw-araw upang makakuha ng walang katapusang mga premyo sa mga bunos na laro. http://fdsv01.org,False
+"OLERRY PERREN L., Isang milyon cash draw ang nagaganap, isang pindot para kunin! http://6fsx6jka.com",True
+Gusto mo bang kumita ng 5K o higit pa sa isang linggo lang? Paano Imessage kami upang malaman. --> m.me/ptjobsph,False
+,False
+"*[redacted] name ko*,Bigyan ka ng mabuting kaibigan ng ¤10 red envelope, pindutin para kunin http://55v1xv.com",False
+"Congratulations!MA'AM/SIR
+YOUR #.HAD WON!
+Php450k
+From:manny pacquiao, to claim
+JUST TEXTS YOUR COMPLETE.
+NAME
+AGE
+ADD
+WORK
+DTI:PER #1846 s21.",False
+"EARN AT THE COMFORT OF YOUR OWN HOME
+
+CLICK THE LINK IF INTERESTED ONLY :
+
+m.me/JFF03venturesonlinehub
+
+USING YOUR FB ACCOUNT/MUST HAVE ANDROID IOS /INTERNET/DATA.",False
+https://drive.google.com/file/d/1elvL-AJmqi9x7fvLMxkw0s6pcXUFng_1/view?usp=sharing,False
+https://drive.google.com/file/d/1esG7BfEY6HhpeORp2oc3q5U8EB7b4blw/view?usp=sharing,False
+https://drive.google.com/file/d/1eudVQ2whM5M97PNjP1As5SnEY_uKoXPt/view?usp=sharing,False
+https://drive.google.com/file/d/1f08P4KEfFyjuAuyv3U1h5L0suaGDBp0Z/view?usp=sharing,False
+https://drive.google.com/file/d/1f33hOxrSCwhe8GEMCJLoWmUu__Pi96l8/view?usp=sharing,False
+https://drive.google.com/file/d/1fFKzleAG7kDhtnRmhbZgaYNwxDzpjVLI/view?usp=sharing,False
+https://drive.google.com/file/d/1fMjl5oMOO56_7orfu5Wwotw8h2yuGCzY/view?usp=sharing,False
+https://drive.google.com/file/d/1fPKrmDzv4S6tcDMbVmwqWP88OgKrbLvJ/view?usp=sharing,False
+https://drive.google.com/file/d/1fR-KFaSfrcOkQkqd7JyuKaKOx8htqjzE/view?usp=sharing,False
+https://drive.google.com/file/d/1fReRjPz3FS9bDuJzk_TKpnfCmjlyc6Xl/view?usp=sharing,False
+https://drive.google.com/file/d/1fXTgg9JtWih_kVUmJaFvInWMCSuQMZJv/view?usp=sharing,False
+https://drive.google.com/file/d/1fb9cfwWbbdvVI2JCM5iMBV5R4pFk9P87/view?usp=sharing,False
+https://drive.google.com/file/d/1fqjs_p4wmlbzcWWj6P65rvp8EAv0UFmv/view?usp=sharing,False
+https://drive.google.com/file/d/1ftWMaYVd6jEWGNtw_lZDsreylWC_Mq8b/view?usp=sharing,False
+https://drive.google.com/file/d/1ft_2mdLl2gn3HIPUb4IPcN18dPI0wpK-/view?usp=sharing,False
+https://drive.google.com/file/d/1fvqICQct9BtOoyGwbQezoRpPkpF_46sC/view?usp=sharing,False
+https://drive.google.com/file/d/1fvxr_soaymBLSLn3ma57auR5Snlz1vE8/view?usp=sharing,False
+https://drive.google.com/file/d/1g1KLLJ4a6tdxi8HvY6zQ-FJDdQsl7o-N/view?usp=sharing,False
+https://drive.google.com/file/d/1ht3IVLxmMshh85By-C-Oikapstguv8aH/view?usp=sharing,False
+https://drive.google.com/file/d/1hs6Pzprgm-XsGv4mrBs7Cw_T2-l4ts1Z/view?usp=sharing,False
+https://drive.google.com/file/d/1hkAg3CBGAAlYY_zju9-Ov5-T-_oz8ifu/view?usp=sharing,False
+https://drive.google.com/file/d/1haRsxcKX3fIx7IMIJOWs4zz3kAYmgiYp/view?usp=sharing,False
+https://drive.google.com/file/d/1h_dKTx2OSD82f2DWQQIr8lXymhmUNK60/view?usp=sharing,False
+https://drive.google.com/file/d/1h_WBqCOHdJlfvg8uHgsfhcjQDAedQMLf/view?usp=sharing,False
+https://drive.google.com/file/d/1hSsZJ3CHkK7l9IbuPBR98j1K_3JsaI_T/view?usp=sharing,False
+https://drive.google.com/file/d/1hQugyvFgcE81nfhS_4kEnVsySNNTqUUF/view?usp=sharing,False
+https://drive.google.com/file/d/1hGYjc-WR7k-6WI1aZMgMU50Lk16eVH1C/view?usp=sharing,False
+https://drive.google.com/file/d/1hGT7xKTKGIgnZAbG0IJDW1WAszEdf4uK/view?usp=sharing,False
+https://drive.google.com/file/d/1h6jG3d57DZc1ELO4tntCcaJeQ-XSgZoR/view?usp=sharing,False
+https://drive.google.com/file/d/1h4_E2-LHnyuPwW33n6KH8JKSYK_E-jZF/view?usp=sharing,False
+https://drive.google.com/file/d/1h2DQk0bTkpP8k3zLCaXS2BKQLltax67S/view?usp=sharing,False
+https://drive.google.com/file/d/1gz420ipyor7SIRSVeXO9hHO0d-iSwx4m/view?usp=sharing,False
+https://drive.google.com/file/d/1gr23a4DZ23DpaTH8zJaCqBWXB3FpxWUC/view?usp=sharing,False
+https://drive.google.com/file/d/1gpPZoVNuGvDsirGAOSFhetp8Iq6B9Aab/view?usp=sharing,False
+https://drive.google.com/file/d/1geB1CC8XlxOC5ghoCgvnd9q3dEXTcm8m/view?usp=sharing,False
+https://drive.google.com/file/d/1geB1CC8XlxOC5ghoCgvnd9q3dEXTcm8m/view?usp=sharing,False
+https://drive.google.com/file/d/1gQZkhwhaya8npZZpP85qXIZ513_Y0xhn/view?usp=sharing,False
+https://drive.google.com/file/d/1g8skaK0b8g9MDOSN45s7TD8m3IDPFL1Y/view?usp=sharing,False
+https://drive.google.com/file/d/1g5syqAX3XSokVJrvEYQVBE1hbI8L0b8V/view?usp=sharing,False
+https://drive.google.com/file/d/1g3MZ37BFvsGUmjmpvRMP4pbmKqdMeEEG/view?usp=sharing,False
+,False
+,False
+,False
+,False
+,False
+wa.me/639497666844,False
+,False
+wa.me/639273757262,False
+,False
+https://bit.ly/3xBeDz7,False
+,False
+,False
+,False
+,False
+cutt.ly/8FArpg6,False
+,False
+https://bit.ly/3ECDV3u,False
+https://bit.ly/3v4Brru,False
+,False
+,False
+,False
+,False
+https://bit.ly/3NmZ3ht,False
+,False
+,False
+https://cutt.ly/GHDCfPU,False
+https://d1.mk/Ocw7tBg,False
+https://invol.co/clc31bs,False
+http://rogbo8.com,False
+luckyphil.com/login,False
+http://mlhpgh24.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+http://clickmetertracking.com/LPBVerify,False
+m.me/CJonlinevines,False
+https://t.ly/stsH -compiled spam message screenshot,False
+egamesph.com/promo,False
+https://t.hxfxph.com/YNQG4,False
+https://cntr.click./dLC6KNm,False
+www.jiliasia8.com,False
+https://t.co/Ad47sgu7gW,False
+https://bit.ly/3NU8CEj,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+,False
+"Praise sa iyong kontribusyon, pindutin para kunin ang 600p bonushttp://9dv1t8.com",False
+"Dear customer, you are cordially invited to claim your benefits, JILI and EVO Bingo jackpots are waiting for you, you can visit here kuuo.in/H33kh OqTE",False
+Makakatanggap ka ng 5000 cash! Pumunta lang sa website na ito: bit.ly/get5kblog at e click ang google ads na inyong makikita sa kahit anong page ng site.,False
+https://ibb.co/Zdh9dvj,False
+https://ibb.co/Zdh9dvj,False
+"F-R-E-E 60p to kick start and make your first million in 10 mins 
+Best way to make fast mo.ney!
+egamesph.com/login",False
+Hottest news! Pagkatapos may manalo ng 39.6Million sa bit.ly/BINGOPLUS1 umabot agad ng 6Million ang jackpot prize for only 1Peso! Register and get free40PHP.,False
+https://ibb.co/Zdh9dvjj,False
+https://ibb.co/Zdh9dvj,False
+https://ibb.co/Zdh9dvj,False
+https://ibb.co/Zdh9dvj,False
+"PCF CHARITY FOUNDATION which is founded by Senator Manny Pacquiao made a raffle this year 2021 and your contact number has won worth Php 550,000.00. Please send the following: NAME/ADDRESS/AGE/WORK and call me back. Thank you! - Sec. Mark Chavez. ",False
+Matapos may manalo ng 39.6Million sa bit.ly/BingoPlus1 umabot agad ng 8.6M ang jackpot for only 1Peso! Register and get free40PHP. Easy cash in/out via gcash,False
+"Sana yumaman ka, pindutin para magrehistro at makakuha ng libreng 600p http://u3mwdy.com",False
+"We are offering you a fund with low interést ràte per month, from 30k to 2M loànable amoúnt. Reply YES if interested. Thanks",False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS
+
+
+",False
+"REGISTER TO CLA1M! 
+FREE PES0 !
+FREE LUCKY DRAWS!
+SL0TS,LIVE CAS1NO,C0CKF1GHT1NG N MORE!
+WEB: https://bit.ly/zYg14sLd",False
+"Hey user, may P150 para sayo sa pag-invite ng 3 barkada mo! Pwede pang bumuo ng 30K/day from extra betting bonus. Try na bit.ly/JBGaming-PH",False
+https://ibb.co/gWvf0s2,False
+https://ibb.co/gWvf0s2,False
+https://ibb.co/gWvf0s2,False
+https://ibb.co/gWvf0s2,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!",False
+https://ibb.co/gWvf0s2,False
+"[name],Salamat sa suporta, pindutin para magbukas ng account at may ¤10 http://qldpmg.com",False
+Get instant cash for your urgent needs. Avail 30k up to 2M Personal Cash Loan with flexible payment terms up to 3years. Interested? Call me,False
+Great News! You are chosen to be the lucky winner of our Netflíx T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,False
+"[name],Mainit ang lottery, nanalo ka ng 1000 pesos, bilisan kunin! http://6fsx6jka.com",False
+New PH Game Platform Online ! Let Play U Prefer Game AND WiN BIG CasH! Register Now  FREE 178 BONUS. ONLY AT cod11.cc,False
+"cashback? b0nus? we have it all! up to 80%! sl0ts,LIVE CAS1N0,f1shing we have many more! web:  https://bit.ly/YcIuLd7",False
+"ALL NEW EGG TRAY !!
+
+32 GRID EGG HOLDER WITH REMOVABLE DRAWER TYPE
+AND SPACE SAVER.
+
+PLEASE CLICK FOR THE PRICE/BUY ---> https://s.lazada.com.ph/s.UPJgm
+
+LAZADA BIG SALE !",False
+"Pagkatapos basahin ang artikulong ito, mag-log in at simulan ang paglalaro! Magagandang reward, i-click ang link ngayon! ! :   http://fdsv12.info",False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+--> Click mo eto para bumili https://s.lazada.com.ph/s
+
+.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya: STEADY LIGHTS SENSOR LIGHTS DIM LIGHTS",False
+"Iniimbita ka na maglaro at i-enjoy ang weekend only hereat  Register & get P60, easy WIN lang dto. Isama ang pamilya!",False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+2022 Best Online CAS1N0 & Slot Ranking: NO.1 Free B0NUS & Daily Salary comhttp://pbplat.,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+"F-R-E-E 60p to kick start and make your first million in 10 mins 
+Best way to make fast mo.ney!
+egamesph.com/login",False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+https://t.ly/stsH -compiled spam message screenshot,False
+Buddy,False
+https://t.ly/stsH -compiled spam message screenshot,False
+,False
+"""4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS
+
+
+""",False
+,False
+"Your 600 Reward Pts.
+will Expire on 
+SEPT. 18, 2022
+
+Convert to 
+Bonus 600 Amax
+ 
+Just Dial
+ 
+*100* 1*09557966747*600*1*# 
+ 
+Press CALL",False
+"Salamat sa feedback, napili ka para makakuha ng 600p, dito sa:http://yralk3.com",False
+"Pagkatapos basahin ang artikulong ito, mag-log in at simulan ang paglalaro! Magagandang reward, i-click ang link ngayon! ! :   http://fdsv12.info",False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+"Attn Po/Ma 'am,S.W.S COVID 19 Grant Allowance for SENIOR CITIZENS  ,Retireds & Workers .Send /Email your details to ADMIN -carmaysawal10@gmail.com
+",False
+"         Mababang deposit min-50 pesos  Mabilis sa cash out , dito na no.1 ONLINE CASINO - MORE PRIZES And BONUSES -Click her to sign up now hurry up- 🏃 Now na !!👇
+https://bit.ly/3xdIduOluckycola  ",False
+"Gusto mo ba makatipid sa kuryente?
+SOLAR LIGHTS BUY 2 TAKE 2 !
+
+CLICK HERE FOR PICTURES/BUY --> https://s.lazada.com.ph/s.UONbr
+
+100 WATTS for Parking / Garden ",False
+"Hi:Im an American citizen, currently in Manila. I seek a relationship with a lady, are you single? Email me: carsonjace20@gmail.com",False
+"Sign up and get free 20P! https://ssur.cc/kWgLgwL Daily lucky wheel: Highest Jumbo Prize = iPhone 13 Pro Max or 37,888PHP",False
+" vyvz3456@gmail.com, Beloved, contact my email, thanks",False
+"Inaantay kita sa Global Coin, bilisan at sumali https://t.co/6SrH0EExIp",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=A423:C423,False
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=D423:F423,False
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=G423:I423,True
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=J423:L423,True
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=M423:O423,False
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=P423:R423,False
+https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR30dQ5lzaumBIOoI7G-3OfeD7Bnmwv1qaJCnBIBTb52-KRVLegVvrILml4#gid=1884699857&range=S423:U423,False
+"Mag-claim ng 5500 na bonus at 3% cash rebate ngayon [full name],upang manalo ng milyun-milyong bonus sa W.P5US! In4AvA7qLl0= w3nn3gpl5s.com/M5lyon",True
+i.deaI'Choice': 'Sa'isang'd*posit'baka'makha'ng'higit'5k'pes*s'b0nus' http://phgaming.xyz/pky '24H'i*mediate'C*sh'In/Out',False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+"Wow, Makakatanggap ka ng hanggang 5999 cash! Pumunta |ang sa website na ito: http://mplay2.com  at maglaro on|ine Ca-si-no",False
+Good News! You can watch it for free 24/7 live pretty dealers! Sign up Now at philnewz.com/promo and get your FREE 60p,False
+"(FULL NAME), Para mabigyan ka ng pang matgal na kita, magbukas ng account at may 600p http://931ccx.com",True
+"(FULL NAME), Kasama na lahat ng kailangan sa mybitglobal, pinduting ang http://nuob0p7g.com at may 10",True
+"(FULL NAME), Mga tao gumamit ng aking paraan kumita ng 1000, idownload at sabihin ko kung paano http://ox4xtu.com",True
+"(FULL NAME), Gamit ang kamay, endless and pera! Sumali ngayon at may regalo http://nuob0p7g.com",True
+"Good News buddy! Register now and get Free60p! 100% Deposit rebate! egamesph.com/login -Prettydealer, CQ9, SA AND MORE-",False
+Just saw a guy win PHP1.2 MILLION sa jackpot sa PAGCOR-licensed na S5.com Naalal kita! Go.S5.com/news,False
+"(FULL NAME), Basta may account may 280,000P! Dito sa https://fxtrade.onelnk.me/OCGP/61288540",True
+"Mabilis na transaksyon, mybitglobal ang tuturo ng daan, idownload na ang address https://t.co/ZbsQuUD37A",False
+Matapos may manalo ng 39.6Million sa bit.ly/BingoPlus1 umabot agad ng 5.6M ang jackpot for only 1Peso! Register and get free40PHP. Easy cash in/out via gcash,False
+"Ka-bingo, 6.6M ang pwede mong mapanalunan. May free 40P to play at but.ly/Bingo_PlusPH after sign-up. 1P lowest bet. May weekly and monthly bonus din. Play now!",False
+"I won P1,166,600 playing baccarat at S5. Got paid out the same day. That's S5 SWERTE! PAGCOR-licensed. Join now: go.s5.com/r",False
+"Looking forward doon, benepisyo ng mga bago, magbukas ng account at may 10 http://u3mwdy.com",False
+ ,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+Row 469 - Proof,False
+,False
+,False
+,False
+,False
+,True
+"[ PHBET ] The most popular online casino with 24h immediate cash in/out https://superwin.quest/0Ri Lucky Wheel: up to 100,000PHP everyday!",False
+Maglaro ngayon (real name ko) sa patok na Online Game ang Winning plus! makakakuha ka ng 5499 at 3% sa bawat deposito! Q7s4G/pdPrE= w5npl7s777.com/777,True
+,False
+,False
+"Iniimbita kita na maglaro at i-enjoy ang weekend only here at accasino12.com/login Register & get P60, EASY WIN lang dto. Isama na ang pamilya!",False
+Maglaro ngayon [name] sa patok na Online Game ang Winning plus! makakuha ka ng 5499 at 3% sa bawat deposito! F8bpY8uJwMg=w5npl7s777.com/777,True
+"Super casi'no and Grand events, Get exclusive B0NUS of UP to P9000 oonce you cash in! Ano pang inaantay? Tara na! http://doplay1.com",False
+Hello. I was trying to call you earlier for an urgent matter but it is not going through. Pls contact me here: soniasaavedra1937@gmail.com Thank you,False
+"WELCOME BONUS: 201 GET 201, 1001 GET 1001, 5000 GET 5000. *24/7 Immediate Cash In/Out More http://t-t.ink/0ebm2",False
+May nanalo na ng mega jackpot worth 39.6Million for only 1peso! try mo na rin at manalo sa bit.ly / BINGOPLUS1 Free40PHP after sign-up. Easy cash in/out via Gcash,False
+"Just sign-up and you have FREE P40 to PLAY. And get a chance to WIN up to 5.9M, Only P1 per bet. You'll be the next MILLIONAIRE. Join now! bit.ly / BINGOPLUS_PH",False
+"Isang pindot may account na, nakahigang kumikita ng pera, idownload ang Global Coin Trading https://t.co/FRrSPIxHzR",False
+"WELCOME BONUS: 204 GET 204, 1004 GET 1004, 5000 GET 5000. *24/7 Immediate Cash In/Out More https://reurl.cc/aGrrOQ",False
+Happy Monday! First day of the month! as of now 6.2M Jackpot prize and still 1p per bet! Register now and get a free 40p. Play now! bit.ly / BingoplusPHAPP,False
+Makakatanggap ka ng 5000 cash Pumunta lang sa website na ito bit.ly/wordpress20221 at e click ang google ads na inyong makikita sa kahit anong page ng site,False
+"[FULLNAME]Sikreto ko sasabihin! Mabilis kumita ng ¤20,000 dito https.// t.hxfxph.com/z4rba",True
+Enjoy 67% OFF Best Quality Multi-Function 4-in-1 Non-Stick Pan bit./ly/ShopeeNonStickPan sa mga hindi nakaabot ng 8.8 SALES dito nalang kayo habol dali! Shop now,False
+You have never seen such a strong ironing machine! Goodbye ngalay Hi easy plantsa na sa mga damit! 47% OFF discount plus FreeShipping! bit./ly/LAZADABIGSALES,False
+"HELLO:Greetings,been trying to reach you for an important issue, pls do contact me only through this email address for details (gherinfo9@gmail.com)Mrs Angelina",False
+"[FULLNAME],Malapit na maexpire ang 600p sa account mo, pindutin para kunin http:// bitglobalgood.com",True
+"BONUS HERE
+
+LUCKY GOLDEN EGG P8888
+DAILY BONUS P10,000+
+FIRST DEPOSIT 120x CASHBACK
+MONEY SHOWER $9M
+5% cashback
+
+lodibet123.com
+lodibet123.com",False
+"Buddy! Try your luck here! 2.6M JACKP0T PRIZE! You might be the next millionaire! Register now and get FREE 60P, luckyphil.com/login will have SAB0NG Soon,",False
+Nasa Pilipinas na ang W.PLUS! SUMALI PARA MANALO NG INSTANTLY 5500 BONUS AT 3% CASH BACK! sa bawal Deposito! PMgaQlbmPw4= 7in3plus.com/Sw3rt3,False
+"Mag-claim ng 5500 na bonus at 3% cash rebate ngayon , upang manalo ng milyun-milyong bonus sa W.P5US! PMgaQlbmPw4= w3nn3gpl5s.com/M2l2k2ng-M2y2m2n",False
+"""BONUS HERE
+
+-LUCKY DRAW P8888 (Register
+-120x CASHBACK (First Deposit
+-MONEY SHOWER $9M
+-LODICUP $2.1M
+-MORE..
+
+lodibet123.com
+lodibet123.com
+""",False
+Up T0 5K PHP Wel-c0m BO1n'u.s with 24/7 CA*s-h In/O.ut http:// abgaming.quest/7Qk W/i/N BlG C.'@.S*'H  NOW!,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"<name>,Red envelope ng mga bago dumating na, pinduin para kunin ang ¤10 http://9dv1t8.com",True
+Complete poker tournaments with millions of players all over the world!  usx19.com,False
+6.4m jackpot daw. texted a link bit.ly/BingoplusPH-APP,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Txxxxxx Lxxxxxx, Maglaro ng Roulette at Manalo ng IPHONE 14 PRO MAX! Mag-sign up at mag-claim ng 5477+ bonus at umiikot w777np777.com/14PROMAX",True
+"Txxxxxx Lxxxxxx, Maglaro ng Roulette at Manalo ng IPHONE 14 PRO MAX! Mag-sign up at mag-claim ng 5477+ bonus at umiikot w777np777.com/14PROMAX",True
+Hindi mo na kailangan lumayo para maghanap ng pagkakaaliwan. Chill ka lang jan sa bahay mo at maglaro nito! amped.ph/home Register kana at may FREE 60p ka pa!,False
+"The[-Big'ge'st-] PH [-On-line-] [-G @ me's-]with-24/7-C @'s.h-In/Out http://phgaming.xyz/Cc7 300[-G.ET-]300, 3000[-GE.T-]3000",False
+Mauna sa ibang tao at magbukas ng account at makakakuha ka ng ¤10 http://6hlm5p.com,False
+Payday naman! Sarap! Pero mas masarap kung papalaguin mo yan sa amped.ph/home. May free 60P ka + Milyon jackpot prize! Laro na buddy,False
+"2022 Best On|ine CAS1N0 & S|ot
+Ranking: NO.1
+Free B0NUS & Daily sa|ary http://pbplat.com",False
+,False
+,False
+,False
+,False
+,False
+,False
+"Nauubusan ka ng pera? Lumapit sa akin, magrehistro at may 600p cash http://3lfue4.com",False
+"Magic money making APP, pindutin para magbukas ng account at makakuha ng ¤10 http://h9juf7.com",False
+Sawa kana ba mag Sana all? Don't worry! We got you covered! Lodi 291 Gaming!  Up to 55% commission with an extra 10% pa Bonus!  http://fdsv02.co,False
+"The Fastest Aut-omated Gam-ing Plat-form.
+Cl@im ur 5% Bo-nus
+Min CI 100
+Re-gister now!
+https://bit.ly/vipmgc88
+",False
+Maglaro ngayon ANGELA MARIE T. sa patok na Online Game ang Winning plus! makakakuha ka ng  5499 at 3% sa bawat deposito! Qqe5Jd5iVTk= 3impt5s.com/Bagong-Panalo,True
+"WELCOME B0NUS!
+NEW SL0TS MACHINES!
+DAILY FREE EVENTS N LUCKY DRAW TOO!
+THOUSANDS PLAYERS ONLINE!
+FREE PES0 UPON S1GN UP!
+
+web: https://bit.ly/3zxd3SD",False
+"Totoong pera sa So|aire,  makakakuha ka ng 100% sa unang DEP0SIT mo, Big-win! http://doplay1.com",False
+"The most professional slot machine betting platform in the Philippines http://superslots.beauty/TcZ Lucky Wheel: up to 100,000PHP everyday!",False
+Makakatanggap ka ng hanggang 5000 cash! Pumunta lang sa website na ito: http://pbplat.com at maglaro 0n|ine Sl0t.,False
+"Angela T***,Sincerely inviting you, magrehistro at may 600p http://aq63xi.com",True
+"Angela T***** Dear, magrehistro at may 600p panglaro, pindutin para kunin http://casjp3.com",True
+"Boss,Pinakamahusay na Platform ng Mga Slot! Unang deposito ng 100% na bonus hanggang 58,888P. Mag-sign up ngayon  http://fdsv08.site",False
+"ANGELA MARIE T.,Sumali at makakuha ng cash! Maglaro at kumita http://gcxvd2ny.com",True
+"Congratulations!
+Your. No had won! PHP550,000.00
+BY:KOPIKO MAG-KAPERA 4. To claim.
+Please send Your. Complete
+NAME:
+AGE:
+ADD:
+WORK:
+DTI#4826s'2022
+Thank you!",False
+"Totoong pera sa tongits, Dito sa LODI, makakakuha ka ng 50% sa unang deposit mo.  http://fdsv05.site",False
+Limited Time Only! http://betting.pics/Apo 50% Daily UNLI Deposit Bonus. the upper limit of a single bonus is 10000PHP,False
+"Kami ay opisyal na partner ng J.I.L.I SIots sigua do at maasahan http://gaming63.xyz/Bct 10,000PH.P Daily UNLI Dep0sit Bo.nus with 24/7 Cash In/Out",False
+Limited Time Only! http://pbgaming.beauty/cSG 50% Daily UNLI Deposit Bonus. the upper limit of a single bonus is 10000PHP,False
+"Ipanalo ang Golden Eggs Challenge and win Millions! 
+Dito lang sa egamesph.com/promo
+CQ9,JDB,SA and more RTG ",False
+"ANGELA MARIE T.Nanalo ka ng ¤2,000, pindutin pata kunin https://fxtrade.onelink.me/OCGP/27347ace",True
+The Most POPULAR GAME PLATFORM HAVE MORE NEW PROMO ! Register now FOR Free 100% CASHBACK UP TO 3000 peso N 50 WELCOME BONUS! t1bet4you.com/WEEKED,False
+"In just one TAP of your finger you can WIN BIG PRIZES and LOT OF MONEY, REGISTER NOW and GET 100% BONUS UP TO 3000p. t1bet4you.com/EXTRA",False
+"hottest online games poker  slots and P3,OOO bonus everday http://pinasbet1.com/21Ca8b  24/7 Immediate Cash In/Out",False
+"Dear Valued Customers, Welcome Back To Claim Your Rebate. JILI And FC Jackpot Is Waiting For You Here At www.jiliasia7.com",False
+}Gusto mo ba palaguin ang 1000 pesos mo? Okbet｛https://bcort.ru.com｝,False
+"Good day, 5.5M JACKP0T PRIZE! 1p L0WBET! Easy Game & Easy CA$H Out! Register now and get Free 40p! larobingo.com/LegitAPP",False
+"WELCOME BONUS: 201 GET 201, 1001 GET 1001, 5000 GET 5000. *24/7 Immediate Cash In/Out More https://cutt.ly/6ZakoMg",False
+"Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 1,777 Pesos. URL: https://bit.ly/3PED72I Web: https://bit.ly/3BhNSUq",False
+"Para sa limitado lamang  mkha ng P5,000 bonus Magister n po kyo http://t-t.ink/0faaq 100 GET 100, 1000 GET 1000, 2000 GET 2000, 24/7 Immediate Cash In/Out",False
+Do you have dreams of working abroad? I have good news for you. Kindly reply on my Email now for details: rp339946@gmail.com,False
+"ANGELA MARIE T.May nakaipon ng ¤10,000; bakit hindi ka sumali kapag may pera ka na?https://t.co/CMOvoj3owH",True
+"Did you know? 
+BingoPlus now has BingoRush? 
+1p to play! 15/26 balls to get JP
+cutt.ly/BING0PLUSPH 
+Join now and get Free 10 cards!",False
+,True
+"<CDEX> Cryptocurrency Exchange focusing to Asian Market. Bitcoin bottom out, target price 25,000. Take the chance to enter NOW!! More details, please, please visit :ht (hanggang ht lang yung message hahaha hindi tapos)",False
+BONUS NOTICE - LUCKY DRAW P8888 (Register - 120x CASHBACK(First Deposit -MONEY SHOWER $9M -LODICUP $2.1M -MORE.. lodibet678(dot)com,False
+Kumita gamit ang iyong cellphone sa pamamagitan lamang ng pag-sign up at makakuha agad ng 60p! 4z85(dot)short(dot)gy/join Best Casino,False
+"Deposit and Earn up to 300 reward. One click to register. Come and get!! More details, please visit: link",False
+"Last minute deals available now for parttime seekers! you can earn up to 20,000 monthly
+click:bit.ly/3S3d4Dd",False
+Manalo ng IPHONE 14 PRO MAX Angela ***** sa paglalaro ng Roulette! Sign-up at Iclaim ang iyong 5477+ Bonus.  w777np777.com/14PROMAX,True
+"Wow ! Totoong pera sa 0kada, makakakuha ka ng 108% sa unang cash-in mo, join now!
+http://jplay2.com",False
+"Hi we are MGCLUB! 
+Onl1ne Gam!ng Platf0rm currently looking for VIP cas!no players.
+PAGCOR LICENSED
+register here
+https://bit.ly/vipmgc88",False
+,True
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,True
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,True
+"(Name), Maglaro ng Libreng Spin tuwing weekend na may 1PH0N3 P20 M2X! Sumali at makakuha ng 5177 at 3% remittance! M9XOso6oXvY= w1ptu.com/I43R02U",False
+"Bitcoin bottom out, target price ¤25,000. Take the chance to enter NOW!! More details, please visit:https://cdex.onelink.me/KTp6/reward",False
+"Limited time para kunin, magrehistro at may libreng 600p, halika at magbukas ng account http://t9gaxh.com",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Ito ang pinakamagandang paraan , araw araw pa ang kita! Sali na!!! http://fdsv04.contact",False
+Hindi na-claim ang libreng bonus   http://fdsv02.contact,False
+Makakuha ng IPHONE 14 PRO MAX sapaglalaro ng Roulette  Register Now at makareceive ng 5477+ Bonus.  wwin7plus.com/14PROMAX,True
+Sign up and Join the Most trust onl1ne Cas1no platform for various promotions and raffles @  Pbet.ph,False
+"<CDEX> Cryptocurrency Exchange focusing to Asian Market. Bitcoin bottom out, target price ¤25,000. Take the chance to enter NOW!! More details, please visit: ht",False
+"Puro ka trabaho, laro ka naman! Ako nga pala si JB, JBubuo ng araw mo. Free 60P for first signup amped.ph/join",False
+"The[-Big'ge'st-] PH [-On-line-] [-G @ me's-]with-24/7-C @'s.h-In/Out http://phgaming.xyz/Cc7 300[-G.ET-]300, 3000[-GE.T-]3000",False
+Mauna sa ibang tao at magbukas ng account at makakakuha ka ng ¤10 http://6hlm5p.com,False
+Maglaro <NAME> ngayong weekend at manalo ng IP.PRO14M3X at 5177 Bonus! 3% rebate sa bawat deposit! FNLVUytf2B8= wningp22lus.com/777LIFE,True
+"WIN ALOT OF JACKP0TS EVERYDAY ! Super s|ot, bacarat Get bonus up to P6666 after you cash-In,  c|ick: http://kplay2.com",False
+Walang ka pagod pagod na mga promotion ay aming hatid sa inyo. Kaya magparehistro na!  http://fdsv03.co,False
+"EARN AT THE COMFORT OF YOUR OWN HOME
+
+CLICK THE LINK IF INTERESTED ONLY :
+
+m.me/JGC09Onlinehub
+
+MUST HAVE FB ACCOUNT/ ANDROID IOS /INTERNET/DATA.",False
+"We are offering you a fund with low interést ràte per month, from 30k to 2M loànable amoúnt. Reply YES if interested. Thanks",False
+"Totoong pera sa So|aire,  makakakuha ka ng 100% sa unang DEP0SIT mo, Big-win! http://jplay2.com",False
+"Last minute deals available now for parttime seekers! you can earn up to 20,000 monthly click :bit.ly/ptw668",False
+"Claim free bonus up to 2,000, Don't miss this opportunity because it's limited, join now:bit.ly/ptw668",False
+Makakatanggap ka ng hanggang 5000 cash! Pumunta lang sa website na ito: http://pbplat.com at maglaro 0n|ine Sl0t.,False
+"Dear! Magrehistro at makakuha ng 100,000p, isang pindot para magrehistro http://1f2589.com",False
+"Wow, Makakatanggap ka ng hanggang 5999 cash! Pumunta |ang sa website na ito: good122.com  at maglaro on|ine Ca-si-no",False
+"Bigyan kita libreng 6000p capital, pindutin at magbukas ng account para kunin http://u3mwdy.com",False
+New PH Game Platform Online ! Let Play U Prefer Game AND WiN BIG CasH! Register Now  FREE 178 BONUS. ONLY AT cod11.cc,False
+Nasa Pilipinas na ang W.PLUS! SUMALI PARA MANALO NG INSTANTLY 5500 BONUS AT 3% CASH BACK! sa bawat Deposito! FNLVUytf2B8= 7in3plus.com/Sw3rt3,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+"To <NAME>
+ ""Manny Villar awaits release of tax declarations for Vista Mall""
+For more news, visit bilyonaryo.com and get Christmas Raffle",True
+"Hey user, may P150 para sayo sa pag-invite ng 3 barkada mo! Pwede pang bumuo ng 30K/day from extra betting bonus. Try na bit.ly/JBGaming-PH",False
+BEST ONL1NE CAS|NO pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7. http://Pdplay1.com,False
+New PH Game Platform Online ! Let Play U Prefer Game AND WiN BIG CasH! Register Now  FREE 178 BONUS. ONLY AT cod11.cc,False
+0kada 0nline casi-no pinaka trusted platform sa Pinas and meron daily bonus and bilis mg cash in/out 24/7. https://bit.ly/3CDHbfV,False
+"GOOD DAY WE ARE ON SALE!
+
+BUY 1 TAKE 1 SOLAR ALIKE CCTV--> https://s.lazada.com.ph/s.URNGL
+
+BUY 1 TAKE 1 SOLAR INDOOR --> https://s.lazada.com.ph/s.URNuX
+
+LAZADA BIG SALE!",False
+NO.1 Legal na online game sa Pilipinas!   http://fdsv09.site,False
+Additional fund ba ang hanap mo? inquire na!!,False
+Bukas pa PayDay Sales Pero nauna ng mag SALES si lazada ng Best product nya Micro Steam Iron! Buy 2 get 1 free + Free Shipping! bit.ly/LAZADAFREESHIPPING,False
+"0 piraso na SOLAR LIGHTS sa halagang 1,999 grabeng BAGSAK PRESYO !!
+
+Click mo eto bumili bago magkaubusan --> https://s.lazada.com.ph/s.UIJvH
+
+PROMO TODAY ONLY
+
+Bili na bago magkaubusan, bagsak presyong solar para sa kaligtasan ng pamilya, ilagay sa parking or garden para makaiwas magnanakaw sa gabi",False
+"FREE 588PES0 DAILY! sl0ts, c0ckf1ghting, f1shing, LIVE CAS1N0 N MORE dont waste your long weekend! web:  https://bit.ly/3AQSgZO",False
+">Best Online Ca.sino 2022,Regis-ter Now Get 999P,https://bit.ly/3dAqk38",False
+Limited Time Only! http://pbgaming.site/L3z 50% Daily UNLI Deposit Bonus. the upper limit of a single bonus is 10000PHP,False
+"Mayroon kang unclaimed top-up bonus, huwag palampasin ito  http://fdsv05.site",False
+Ang pinakamainit na slot machine ng Lodi online ay naghihintay sa iyo na manalo ng malaki  http://fdsv04.site,False
+"Crazy weekend event! up to 18888 pes0 t0 be claimed! sl0ts, b1ackjack, baccarat N many m0re! web: https://bit.ly/3zXxCFR",False
+Want to TASTE Winning the Million Jackpot with Only 1 pesos!?? Come Play Now  TO ONE HIT the MILLION CASH Jackpot!  ! What are you waiting for! Play now and 1 SECOND CASH OUT MILLIONS!  jijiph.com/ONEHIT,False
+Are you in need of cash for your urgent needs? Apply for a Personal Cash Loan now! Be approved in 5 to 7 days.Call me,False
+"WIN ALOT OF JACKP0TS EVERYDAY ! Super s|ot, bacarat Get bonus up to P6666 after you cash-In,  c|ick: http://kplay2.com",False
+Great News! You're the lucky winner of our limited Netflíx T-shirt and Mug. Just TYPE YES if you want to proceed. Thank you for choosing Globe Postpaid.,False
+Want to TASTE Winning the Million Jackpot with Only 1 pesos!?? Come Play Now  TO ONE HIT the MILLION CASH Jackpot!  ! What are you waiting for! Play now and 1 SECOND CASH OUT MILLIONS!  jijiph.com/ONEHIT,False
+"Maglaro para Manalo ng Jili ng jackpot hanggang 8,888,888 php cash, mag register at sumali:bit.ly/3Swb7Ad",False
+"Bagong pinagkakaguluhan ngayon !
+COLLAGEN FIRMING SLEEPING MASK !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.Unf0H
+
+Kutis Artista ! Mag Collagen Mask na !",False
+"Salary or Business Loan?
+Avail our promo 30kto2M.
+For fast transaction. Call me",False
+"Hi <NAME> , 
+Nandito na ang best way para kumita ng datong!
+Log in and receive 60P
+philnewz.com/login",True
+"4 PIECES SOLAR  STREET LIGHTS FOR ONLY 1299!!!
+PINAKA MURANG PRESYO SA MARKET !
+
+CLICK IF INTERESTED FOR PRICE/BUY --->  https://invol.co/clc31bs
+
+BUY 2 TAKE 2 TODAY ONLY!!!
+
+PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES.
+
+PLEASE DO NOT CLICK IF NOT INTERESTED!!!
+THANK YOU!",False
+"ALL NEW EGG TRAY!!
+
+32 GRID EGG HOLDER WITH REMOVABLE TRAY DRAWER TYPE 
+AND SPACE SAVER.
+
+PLEASE CLICK FOR THE PRICE/BUY--->  https://s.lazada.com.ph/s.UPJgm
+
+Lazada Big Sale",False
+"The[-Big-gest-] PH [-On-line-] [-G@mes-]with-24/7-C@s.h-In/Out http://okada.quest/pMm 300[-G.ET-]300, 3k[-GE.T-]3k",False
+"MEGA SALE 9.9 to 9.11 STARTS NOW !!!
+
+CLICK MO ETO PARA MAKITA ANG PICTURES AT PRICE NG BAWAT ITEMS --> https://s.lazada.com.ph/s.UFdf8
+
+Napakadaming SALE at napakamurang mga ITEMS !!!
+
+Gamitin mo ang iyong DISCOUNT at VOUCHER !
+Bili na habang naka SALE pa ngayon !",False
+Pinaka  sikat CAS!NO sa Pinas and meron login b0nus up to p888 and bi|is mg cash in/out 24/7. http://cowin2.com,False
+"Lookin for unique gift? gluta/collagen visit our store https://cutt.ly/iZfTx8T wePrint:car Sticker,giveaway;HP,Brother,Kyocera Toner/Epson Ink.Viber:09077008668",False
+Boring sa pang araw-araw?Hindi alam kung anong lalaruin?Register sa T1bet at makakuha ng FREE3000 bonus Para Makapaglaro at manalo ng BigCash! t1bet4you.com/EXTRA,False
+"Dumating na ang bagong VACUUM FLASK STAINLESS SET !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UPAbW
+
+Pang regalo, office, field work
+
+Usong uso ngayon !",False
+Good News! You are the lucky winner of our limited Netflíx T-shirt and Cap to confirm by sending  YES to proceed and continue. Thank you for choosing Globe Postpaid,False
+good day!!! this is lyn! get 50k  up to 2m!! easy and secured process  pls call 09070053061,False
+Great News! Your'e the lucky winner of our limited Netflíx T-shirt and Mug. Just TYPE YES if you want to proceed. Thank you for choosing Globe Postpaid.,False
+Kami ay opisyal na partner ng JILI games sigurado at maasahan.Araw araw may unlimited na rebate dito!   http://fdsv02.site,False
+"GOOD DAY! WE ARE ON SALE!!
+
+BUY 1 TAKE 1 SOLAR CCTV ALIKE--> https://s.lazada.com.ph/s.URNGL
+
+BUY 1 TAKE 1 SOLAR INDOOR--> https://s.lazada.com.ph/s.URNuX",False
+"Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 1,777 Pesos. URL: https://bit.ly/3veZNi0 Web: https://bit.ly/3zSJsSF",False
+Are you Looking For a Way to spend your Boring Time? Play at T1bet PH Now and win BigPrizes! Sign Up Now to GET UP TO 3000 Bonus! t1bet4you.com/ON,False
+"We have approved your interview on August 2st, you can easily get 888P. Please contact in time:https://bom.so/Mvsdo0",False
+"Boss, maswerte ka ngayong araw, Sali na at idownload https://t.co/fzwMasxLUH",False
+"We are offering 5Ok-2M kindly reply ""HOW"" to avail the offer!!!",False
+"Pagod ka ba sa mag hapon na pagtratrabaho ???
+
+Marerelax ka sa aming NEW MASSAGE GUN.
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UUM6r
+
+Naka SALE ngayon.",False
+"Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 1,777 Pesos. URL: https://bit.ly/3zmPGch Web: https://bit.ly/3zIwney",False
+Boring sa pang araw-araw?Hindi alam kung anong lalaruin?Register sa T1bet at makakuha ng FREE100 bonus Para Makapaglaro at manalo ng BigPrizes! t1betph.com/FB2U,False
+Boring sa pang araw-araw?Hindi alam kung anong lalaruin?Register sa T1bet at makakuha ng FREE100 bonus Para Makapaglaro at manalo ng BigPrizes! t1betph.com/ForU,False
+"Pinakasikat na online casino bet 86
+Ang pinakamainit na larong sabong ay magsisimula na, lahat ay iniimbitahan sumali http://86952.bet",False
+"[Mabuhay] Congratulations, you are a lucky viewer, you have won 1000p, click to withdraw
+Click & Get it >>https://86952.bet",False
+"hottest online games poker  slots and P5,OOO bonus everday https://reurl.cc/9Gdz38  24/7 Immediate Cash In/Out",False
+"10 PCS SOLAR LIGHTS FOR ONLY 1,999 !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.U87fj
+
+SAMPU !!! Yes 10 PCS !!! 
+
+NGAYON ARAW LANG ANG PROMO !!!",False
+"-Dear best players, special limited-time offer for you: Play to win the grand prize! Get involved right now. www.jiliasia7.com",False
+Dahil patuloy ang iyong pagtangkilik sa Globe. Makakakuha ka ng 199P bonus pasasalamat mula sa Globe. URL: https://bit.ly/3zrQ4ao  Web: https://bit.ly/3vbEr4S,False
+"Bagong miyembro magdeposito ng 100 makakakuha ng 50, yan ang iyong bonus  http://fdsv06.online",False
+"Hi, I couldn't reach you on your mobile phone,kindly contact me via email: ( phenrich808@gmail.com ) Regards..!",False
+Sir/Mam.Congratulations you have been selected to w*rk part time. Daily salary of 7000+ cutt.ly/hLE2fFS,False
+#Pag natanggap mo ang mensaheng ito. Maaari kang makakuha ng 1000 sa phbwin26.com,False
+Your resu-me has passed. You can get 5000 pesos by completing simple tasks every day.https://reurl.cc/x9z9XN,False
+"online casino with 24/7 Cash In/Out. https://cutt.ly/TLFLnbD Sign up and 5,000 GET 5,000",False
+"Joey from Tagaytay won P888,918 yesterday on Jili Slots. Join now to try it yourself. At the new, Philippines-licensed:bit.ly/3Iv47iv",False
+Sir/Mam.Congratulations you have been selected to w*rk part time. Daily salary of 7000+https://cutt.ly/lLEBzu4,False
+Try this new Online game and register you will get 577p what are you waiting for Sign up now. URL: https://bit.ly/3AV9mq3 777 Web: https://bit.ly/3IG9hby 888,False
+Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 577. URL: https://bit.ly/3uP1vpS  Web: https://bit.ly/3zaygRi,False
+Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 577. URL: https://bit.ly/3uP1vpS  Web: https://bit.ly/3zaygRi,False
+Win Mercedes Benz and hit the jackpot up to 8 million pesos. Register now and get free 577. URL: https://bit.ly/3yJtZTl  Web: https://bit.ly/3yAnz8M,False
+"SOLAR 3 WAY LIGHTS
+SOBRA GANDA AT FORMAL ILAGAY SA WALL
+
+CLICK FOR PRICE/BUY ---> https://s.lazada.com.ph/s.U6k6J
+
+ELEGANTE TIGNAN !
+SIGURADONG MABIBILIB ANG MGA BISITA.
+
+BUY 1 TAKE 1 TODAY ONLY!!!
+
+PARA MAKAIWAS SA MAGNANAKAW OR AKYAT BAHAY..
+
+MAKATIPID SA KURYENTE.",False
+"Ano kaya ginawa nun nanalo ng 39.9M sa premyo nya? 
+FREE40P sa sign up, baka sa P40 na yan makuha mo! 
+cutt.ly/BING0PLUSPH 
+PAGC0R LICENSED",False
+"The best online cockfighting slots machine, million rewards, join and get 88 php free  www.bet-86.ph",False
+"All platform wildplay betting up to P180,000! 200 GET 100, 2000 GET 2000, 10000 GET 11000, 24/7 Immediate Cash In/Out. MORE https://cutt.ly/wLtnGOJ",False
+"SOLAR  STREET LIGHTS ARE NOW ON SALE!!!
+
+CLICK IF INTERESTED FOR PRICE/BUY --->  https://invol.co/clc31bs
+
+Shop Now: (NEW ITEM 74% OFF SALE)
+BUY 2 TAKE 2 TODAY ONLY!!!
+PINAKA MURANG PRESYO SA MARKET !
+
+PAKI-CLICK ANG LINK SA TAAS PARA MAKITA ANG PRESYO AT PICTURES.
+
+LED Super Bright
+IWAS MAGNANAKAW SA GABI
+8-10 HRS USAGE IF FULL CHARGE
+
+PLEASE DO NOT CLICK IF NOT INTERESTED!!!
+THANK YOU!",False
+"Your interview passed on July 11, and you can easily get 3980. Please contact intime: https://api.whatsapp.com/send/?phone=639358821754&text&app_absent=0",False
+"Pagod ka ba sa mag hapon na pagtratrabaho ???
+
+6 Speed Massage Intense Vibrating Gun --> https://s.lazada.com.ph/s.U5m5c
+
+Marerelax ka sa aming NEW MASSAGE GUN",False
+"Sir/Madam, congratulations on passing our interview, 3800P/day, time is limited, please contact me:https://0a.fit/NQmkO",False
+Goodnews Amigo7 15M JACKP0T PRIZE at Libreng 100 php pagkatapos mag-sign up! 5p L0WBET! MABILIS CA$H IN & Out! Maglaro Ngayon! linky.ph/T1B,False
+"4 PCS SOLAR LIGHTS FOR ONLY 1,499 !
+Pinaka mura na Solar sa Market !
+BILI NA !
+
+CLICK HERE TO BUY --> https://s.lazada.com.ph/s.UXHEg
+
+BUY 2 TAKE 2 TODAY ONLY !",False
+"Ang pinakamainit na sabong, ang pinakasikat na casino ay mayroong
+milyon reward na naghihintay para sayo
+bet-86.net",False
+Goodnews Ka-Bingo! 23.6M JACKP0T PRIZE at Libreng 40 php pagkatapos mag-sign up! 1p L0WBET! Madaling CASH IN & Out! Maglaro Ngayon! linky.ph/Bingo_PlusPH,False
+"Bet77: First Deposit Huge Bonus  100P get free 88p Mobile phoneeasy betting, thousands of people online, fast payment http://bet777.asia",False
+"Aim for 19.7 Million JACKP0T. 
+Even if you miss, you'll land on BIG B1NGO and EXTRA PATTERNS PR1ZES! 
+cutt.ly/BingoPlusPH 
+-PAGCOR LICENSED-",False
+"Ang pinakamainit na sabong, ang pinakasikat na casino ay mayroong
+milyon reward na naghihintay para sayo
+bet-86.net",False
+"We have approved your interview on July 1, and you can easily get 2800P. Please contact in time: http://1v9.xyz/1jRaKr",False
+"Para sa limitado lamang  mkha ng 5000p  bonus Magister n po kyo http://t-t.ink/0kFPW 101 GET 101, 501 GET 501, 3001 GET 3001, 24/7 Immediate Cash In/Out",False
+"Do message my email for a talk, please, mesad45678@gmail.com",False
+"sawalc639@gmail.com, contact me for talk please",False
+"Online na slot machine, i-download ang APP para makakuha ng 777P, bit.ly/3N9ga6o",False
+"Mas pinaganda na ang Bingo, Dahil pwede na ito i-Download! Plus FREE40p Sign-up-Gift! 6.3M+ JACKP0T! t.ly/Bingo-Plus",False
+"WOW !! Grabe ganda !
+Bagong SOLAR DESIGN for
+
+GARDEN
+LAWN
+TOMB
+TREES
+PATHWAY
+
+CLICK HERE TO BUY --> https://tinyurl.com/3w5hf6yn
+
+BUY 2 TAKE 2 TODAY ONLY !",False
+,False
+"My Name, Maglaro ng W.PL5SS para makakuha ng IP14P7M7X! Magrehistro para makakuha ng 5179 da'jiang at 2.5% na bonus! w1777pt5s.com/WEEKIP14",True
+"My Name, Maglaro ng W.PL5SS para makakuha ng IP14P7M7X! Magrehistro para makakuha ng 5179 da'jiang at 2.5% na bonus! w1777pt5s.com/WEEKIP14",True
+"Your loan has been approved, please login to withdraw, link: http://bppoo.com/aeE7ji",False
+Maglaro [My name] ng weekend spin games at manalo ng IP.PRO14M3X at 5177 Bonus! 3% rebate sa bawat deposit! Mlmpez4YyY=pl5x4you888.com/PROMAX,False
+"Your loan has been approved, please login to withdraw, link: http://bppoo.com/aeE7ji",False
+"[CASHBOX] You can loan up to Php 20,000 with a 90% success rate. Get it now within 1 hour with your ID. https://g16o.com/1/n1oSU",False
+Halika at kunin ang premyo! 600 nagaantay http://0xr8tb.com,False
+"May bonus pag sumali hanggang ¤10, dito sa http://0xr8tb.com",False
+"There are many choices to be happy, This is where I was happy, This is also here! sign up now & get FREE 60p here at accasino12.com/login Best Online Casino!",False
+"Buddy! Try your luck here! 2.6M JACKP0T PRIZE! You might be the next millionaire! Register now and get FREE 60P, luckyphil.com/login will have SAB0NG Soon,",False
+Makakatanggap ka ng 5000 cash! Pumunta lang sa website na ito bit.ly/sapo2022 at e click ang google ads na inyong makikita sa kahit anong page ng site,False
+Looking for financial freedom? Ask us how egamesph.com/login,False
+[MEGA] Get 100 pesos when you register. Come to FB to get the gifts. Also we find good salesman FB https://mega668.com/bucBc Register https://mega668.com/pzatv,False
+"6.5M JACKPOT PRIZE! Try your luck, Play now and get Free 40P after register! What are you waiting for? Join now! bit.ly/BingoplusPH-APP",False
+The Jackpot prize of BingoPlus is over 30M+ just start with 1Peso pwede ka ng maging MILYONARYO! register kana bit.ly/BingoPLus2 free 40 after mo mag sign-up.,False
+"Fast Cash IN/OUT, Free 40P after sign-up, 1P Lowest bet you can WIN up to 27.1M Deposit a small amount at bit.ly/Bingo_PlusPH Play and win now!",False
+"Greetings, I am writing to express my interest on working with you, i have a proposal that might interest you, i would like an opportunity to further discuss in detail. kindly contact me by email : carlcory44@hotmail.com, I await your urgent response.",False
+Let's talk via (elizabethwarrenlive@gmail.com),False
+Sino pa hindi nakaranas manalo ng worth 100k to 10M+ jackpot for only 1P? Baka ikaw na to. Free40php para sayo. Install na linky.ph/-BingoPlus,False
+"INFORMATION! You have received (PHP500,000.00) From:VILLAR FOUNDATION! Sponsored by:Sen.MARK VILLAR. Handog Pangkabuhayan To claim text your Complete:NAME/AGE/ADD/WORK. I'm ATTY:Ricardo F. Gonzales DTI1108s'2022!.",False
+Congrats! 15.9M Jackpot is won!!! BingoPlus is honoured to bring filipino happiness. Sign up now and get free40P. cutt.ly/BingoPlusPH,False
+Makakatanggap ka ng 5000 cash! Pumunta lang sa website na ito bit.ly/wordpress20221 at e click ang google ads na inyong makikita sa kahit anong page ng site,False
+Employment opportunity for Philippines Citizens work and Live in the U.S.A Contact { inffopacoo@gmail.com } now...,False
+"Greetings, I am writing to express my interest on working with you, i have a proposal that might interest you, i would like an opportunity to further discuss in detail. kindly contact me by email : everamas@hotmail.com, I await your urgent response.",False
+SOLAR 3 WAY LIGHT SOBRA GANDA AT FORMAL ILAGAY SA WALL       CLICK FOR PRICE/BUY ---> https://s.lazada.com.ph/s.4ZgRn     Shop Now: (NEW ITEM 58% OFF SALE) BUY 1 TAKE 1 TODAY ONLY!!!     PAKICLICK ANG LINK SA TAAS PARA MAKITA AND PRESYO AT PICTURES.     LED Super Bright 3 Adjustable Heads Motion Sensor Light Waterproof and Wireless     TIPID SA KURYENTE !! IWAS MAGNANAKAW AT AKYAT-BAHAY SA GABI !!,False
+"Good Day! This is FINE WRISTS we're having a GIVEAWAY, and you've been chosen as one of the winners. You will receive a LACOSTE WATCH made in SINGAPORE, as well as one (1) FREE MYSTERY ITEM. there is no processing and handling fee. 100% FREE! There will be no payment made until you received your prize. Check our page for legitimacyhttps://www.facebook.com/Fine-Wrists-108622a195049610 If you want to receive your prize, please fill out the form below. Complete Name: Complete  Address: Province: City/Municipality: Brgy: Landmark: Postal code: Contact Number: YOU CAN ALSO MESSAGE US AT OUR PAGE, PLEASE KINDLY MESSAGE THE LINK.https://www.facebook.com/Fine-Wrists-108622195049610 Thank you and Congratulations! FINE WRIST",False
+Reply to my email now; mlvbxz@gmail.com,False
+"your good friend! Share the good news of making money with everyone, earning 50,000 yuan in five minutes. Click this link https://3durl.cn/EQXatQ",False
+"Reply me through my email now please, syv648@gmail.com",False
+The daily salary is 3000-8000 pesos. Working hours and locations are not limited. You can receive your salary at home. Join our Telegram:t.me/Christina886,False
+"KUMITA HABANG NASA BAHAY LANG BE AN ONLINERS, LIKE US! CLICK LINK BELOW: m.me/TheOnlinersMessengers",False
+"KUMITA HABANG NASA BAHAY LANG BE AN ONLINERS, LIKE US! CLICK LINK BELOW: m.me/JosephOnlineBiz",False
+"(Name ko)., W+ unang singil hanggang sa 5047 bonuses at 3% bonus bawat deposito! Magrehistro para sa pagkakataong ma-claim ang 1PHONE14PRO! w22pl7sdotcom/w14",True
+"(Name)., W+ unang singil hanggang sa 5047 bonuses at 3% bonus bawat deposito! Magrehistro para sa pagkakataong ma-claim ang 1PH0NE14PR0! w2pl77udotcpm/W14MAX",True
+"WIN ALOT OF JACKPOTS EVERYDAY! Super slot, bacarat Get bonus up to P6666 after you cash-in, click: http://kplay2.com",False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Kailangan lang ng 56P para manalong milyon na dolyar! Magbukas lang ng account http://5b0aed.com,False
+It's very important that you should contact my email as soon as possible.,False
+Isang Panibagong araw na naman at napakaganda ng panahon! Stay Goodvibes and Positive! Tara at mag relax! fliptrip.ph/Liveapp Marami ka pwedeng makilala dito!,False
+https://drive.google.com/file/d/1wqMlnfHf1y1bLAJRJ8DjxH2EZXBwwzzJ/view?usp=drivesdk,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+"Buksan mo ako, buksan ang paraan para kumita, buksan ang account at makakuha ng pera!http://nab60q.com",False
+Maglaro [name] ngayong weekend at makakuha ng IP.PRO14M3X at 5177Bonus! 3% rebate sa bawat deposit! PCwEtFJwPRw=w1777pt5s.com/WEEKIP14,True
+,True
+,False
+,False
+,False
+,True
+,False
+"Email me, egogabia2233@outlook.com",False
+"[name],, WIN+ Ranggo #1 Kumuha ng 1PH0NE14PR0MAX! Claim 5277 Bonuses at hanggang sa 3% Extra Per deposit! w22pl7s.com/W14",True
+,False
+,False
+,False
+,False
+,False
+BEST ONL1NE CAS|NO pinaka trusted platform sa Pinas at meron daily bonus and bilis mg cash in/out 24/7. http: / / Pdplay1 . c o m,False
+4 PIECES SOLAR STREET LIGHTS FOR ONLY 1299!! PINAKA MURANG PRESYO SA MARKET ! CLICK IF....,False
+,False
+,False
+,False
+,False
+,False
+Scammer's name: Ms.ELA; in reference to the number 9171780185,False
+,False
+JEIKY OFFICIAL,False
+,False
+Scammer's name: Ms. Yana; in reference to the number 9171537916,False
+,False
+,False
+,False
+Wag palagpasin ang libreng spin [FULLNAME] at makakuha ng IPHONE 14 PRO MAX at 3% bonus! wpw7n.com/W72U,True
+Wag palagpasin ang libreng spin [FULLNAME] at makakuha ng IPHONE 14 PRO MAX at 3% bonus! w4game.com/W72U,True
+Wag palagpasin ang libreng spin [FULLNAME] at makakuha ng IPHONE 14 PRO MAX at 3% bonus! wpw7n.com/WINSUN,True
+Wag palagpasin ang libreng spin [FULLNAME] at makakuha ng IPHONE 14 PRO MAX at 3% bonus! wpw7n.com/WINSUN,True
+"Thank you for supporting us. Today we will give you 108% extra CAS|N0 b0nus, http://cago6.com join now!b",False
+G00d day I'm  alex Avail 3Okup with securedt0pr0cess with l0wrate call or text at 09852592068,False
+,True
+,True
+,True
+,True
+,True
+,True
+,True
+,True
+,True
+,True
+Libreng 10 usd GIVE AWAY! Halika at kunin !http://ct9iqlnq.pole5a.com/0vej4?c=2,False
+,False
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,True
+,False
+"The BIGGEST PROM0 of this year is here! Just sign up at hamburgers.ph/Bigpromo and you'll win 1P, 14PROMAX, it's sure worth your day!",False
+"Get some rest buddy! You are so busy! First, relax and chill here with the gang! inpkvgames.com/Liveapp Have fun here and enjoy!",False
+"Nakuha mo ang mensahe na ito ay may 600P ka, sumali para kunin http://nbltyd.com",False
+Manalo ng IPHONE 14 PRO MAX [FULL NAME] sa paglalaro ng Roulette! Sign-up at Iclaim ang iyong 5477+ Bonus.  w777np777.com/14PROMAX,True
+"Ang unang 1000 users ay makakakuha ng ¤10 pag nagbukas ng account, halika dito http://buumji.com",False
+"[FULL NAME],Praise sa iyong kontribusyon, pindutin para kunin ang 600p bonushttp://9dv1t8.com,Praise sa iyong kontribusyon, pindutin para kunin ang 600p bonushttp://9dv1t8.com",False
+<<Content nit supported>>,False
+"Pinakamahusay na online platform [LAST NAME, INITIALS] 5C2SH partner! I-cl5ck para mag-cl5im ng 10,000 b2nus ngayon! GQIldZXe9Zk= jijiph.com/BETNOW",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Gusto mo bang mawala ang stress at magsaya? Subukan mo! Maaari kang manalo dito! Mag-sign up lang at anyayahan ang iyong mga kaibigan! hokiplay99id.com/Live,False
+Gusto mo bang mawala ang stress at magsaya? Subukan mo! Maaari kang manalo dito! Mag-sign up lang at anyayahan ang iyong mga kaibigan! hokiplay99id.com/Live,False
+"Easy Game, Easy WlN, Play Slot&Fishing, Tell a friend! Sign up now and Enjoy the Game! 100% Bonus Deposit Feedback! hamburgers.ph/Live",False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 [my complete name]! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! wplus14.com/WIN789,True
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 [my complete name]! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! wplus14.com/WIN789,True
+,False
+"Ikaw ay mag trade Ako ang mag babayad, ang tubo ay maaaring makakuha ng higit sa 5million phttp://0m5gcnvg .pole5a.com/rjbek?c=1",False
+Wag palagpasin ang libreng spin [my complete name] at makakuha ng IPHONE 14 PRO MAX at 3% bonus! wpw7n.com/WINSUN,True
+Magrehistro nMagrehistro ng Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2g Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Magrehistro nMagrehistro ng Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2g Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2,True
+Manalo ng IPHONE 14 PRO MAX [FULL NAME] sa paglalaro ng Roulette! Sign-up at Iclaim ang iyong 5477+ Bonus.  w777np777.com/14PROMAX,True
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 [my complete name]! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! wplus14.com/WIN789,True
+"Kaibigan, long time no see. 
+
+
+
+Uy kamusta chelsea to, Try mo nga pala to baka makatulong sayo, kahapon kakawidraw ko lang gcash 。
+Also have FREE 38 Peso 
+https://6t.ae/game
+
+Text me 09562949044
+        09603041801",False
+"Happy Weekend! May time na para mag pahinga at tumambay kasama si innolearntop.com/Live dahil dito sulit ang oras mo, marami kapa makikilala. Kaya tara na!",False
+"Ang huling araw ng mga libreng aktibidad sa cash, kung napalampas mo ito, kailangan mong maghintay ng isa pang taon!http://v8u4mbt6.uk5g1m.com/e5y8y?c=1",False
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 (Name).! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! win777plus.com/WINGO,True
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 (name).! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! win777plus.com/WINGO,True
+Maglaro ngayon (name) sa patok na Online Game ang Winning plus! makakakuha ka ng 5499 at 3% sa bawat deposito! Q7s4G/pdPrE= w5npl7s777.com/777,True
+Hey respond to this email for good news asap: davidgarciagd789 @ gmail com,False
+once your network is good contact me here very important javesrah@ yahoo dot com,False
+[FULL NAME] ! Ang unang SPIN gaming site! Sumali sa T1BET at makakuha ng 3000 bonus at 50 libreng SPIN! t14bet.com/T1WIN,True
+[FULL NAME] ! Ang unang SPIN gaming site! Sumali sa T1BET at makakuha ng 3000 bonus at 50 libreng SPIN! t14bet.com/T1WIN,True
+Magrehistro nMagrehistro ng Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2g Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2,False
+Magrehistro nMagrehistro ng Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2g Clik at makakuha ng 127 milyong bonushttp://uxu4v47e.0xr8tb.com/2krvj?c=2,False
+[FULL NAME] Maglaro ng W+ pagkatapos ng trabaho! Manalo ng IPHONE PROMAX 14 at iba't ibang reward! Magrehistro para makakuha ng 5500! win8plus.com/14PROMAX,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Kumita ng P100 sa pag loan! Search at download Cashbee sa Playstore. Get up to 50k with just 1 valid ID. PROMO CODE CASHB100,False
+"Happy Weekend! Mag relax habang nag eenjoy maglaro ng bit.ly/JBGaming-PH Register now get FREE 60p, Easy WlN dito, Ayain na ang tropa at pamilya na mag laro!",False
+"I am inviting you to play and enjoy the weekend only here at bit.ly/JBGaming-PH. Register and get free P60, Easy WlN here. Invite your whole family!",False
+"FREE DAILY 588P!24/7 online platf0rm!INSTANT WITHDRAWAL!COCKF1GHTING,LIVE CAS1N0,SLOTS, F1SHING N MORE!web: https://bit.ly/ThtYk3m",False
+Good news mga ka-lodi! Get exclusive rewards of UP to 888php once you cash-in! Ano pang inaantay? Arat na!  http://fdsv05.org,False
+Nag-aalok kami sa iyo ng kamangha-manghang 90% na kita. Lahat ay maaaring kumita ng pera. Sumali ka na!  http://fdsv05.click,False
+Trusted 0nline Cas|n0 Platf0rm 2*22 BEST 0nline CasIn0 Platf0rm Reliable B3T platf0rm lihi2.cc/tTfab,False
+"Kaithleen, Maglaro ng Roulette at Manalo ng IPHONE 14 PRO MAX! Mag-sign up at mag-claim ng 5477+ bonus at umiikot w777np777.com/14PROMAX",True
+"<CDEX> Cryptocurrency Exchange focusing to Asian Market. Deposit and Earn, up to ¤300 reward. One click to register, 10s to get Free Money from CDEX. Come and G",False
+"Big event! Tot00ng pera sa Cas'in0,  makakakuha ka ng 100% sa unang cash~in mo, j0in-now! http://jplay2.com",False
+"Play to w1n? 
+s1gn up for FREE PES0!
+attractive pr1zes!
+CASH! CAR! M0BILE PH0NE N MORE!
+C0CKF1GHTING
+L1VE CAS1N0
+SL0TS N MANY!
+bit.ly/ZsxT1w4s",False
+Maglaro slot ngayong today at makakuha ng IP.PRO14 at 9999Bonus! 3% rebate sa bawat deposit! http://adplay5.com,False
+Magrehistro ng Clik at makakuha ng 128 milyong bonushttp://n5e0otn1.181a24.com/xx8yv?c=1,False
+"we have new lucky draw!
+from 1 sp1n per day its 2 now!
+cla1m yours now!
+
+sl0ts
+f1shing
+C0CKF1GHTING n more!
+
+web: Lazadal.Online/z1nS8Rk",False
+"WEEKLY B0NUS EVENTS R HERE!
+COME ONLINE AND CLA1M THEM!
+
+LIVE CAS1N0
+c0ckfight1ng
+sl0ts n more! 
+
+web: Lazadal.Online/l1fV3Sw
+VIP URL: bestview. VIP",False
+Nakitxt lng ako Ma paload c sir 450 sa smart #09095314231 . nasa akin na ang bayad txtback ..,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+,False
+,True
+"PH best trusted CAS1N0, 24*7cash in/out, web: wind8.live Today the biggest B0NUS Slot, Up to 8888, web: 3uwin.live WoW! k",False
+"The highest cash back 4% CAS!N0 in PH, web: win8e.live Today The biggest B0NUS SI ot,Up to 8888, web: 2jplat.live .Y",False
+[ FULL NAME] ! Padalhan ka ng 5500 at libreng SPIN na laro W+! Halika at manalo ng IPHONE14PROMAX ngayon sa W+ win72u.com/14PROMAX,True
+[ FULL NAME] ! Padalhan ka ng 5500 at libreng SPIN na laro W+! Halika at manalo ng IPHONE14PROMAX ngayon sa W+ win72u.com/14PROMAX,True
+[ FULL NAME] ! Padalhan ka ng 5500 at libreng SPIN na laro W+! Halika at manalo ng IPHONE14PROMAX ngayon sa W+ win72u.com/14PROMAX,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+#29 HUGPONG FEDERAL PARTY LIST,False
+BUILD BUILD BUILD,False
+,False
+,False
+,False
+xxgmlef@gmail.com,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+infopaccco@gmail.com,False
+barelenadublin@gmail.com,False
+,False
+"from SMSCAster.com
+
+mark@borrecco.com",False
+,False
+,False
+[NAME] Maglaro ng W+ pagkatapos ng trabaho! Manalo ng IPHONE PROMAX 14 at iba't ibang reward! Magrehistro para makakuha ng 5500! wpw7n.com/14PROMAX,True
+,False
+,False
+(Name).! Libreng 5500 at libreng spin na laro sa W+! mag sign up para manalo ng IPHONE14PROMAX sa W+! win14pro.com/14PROMAX,True
+"kung gusto mong madagdagan ang inyong regular na kita, halika at sumali sa aming one-on-one na program sa pamumuhunan!/ WhatsApp1 +639817102188",False
+(Name).! Libreng 5500 at libreng spin na laro sa W+! mag sign up para manalo ng IPHONE14PROMAX sa W+! win14pro.com/14PROMAX,True
+"It's Tuesday! It's nice to rest and relax with philexpress.news/Live here, you're sure to have a good day!",False
+(Name).! Libreng 5500 at libreng spin na laro sa W+! mag sign up para manalo ng IPHONE14PROMAX sa W+! win14pro.com/14PROMAX,False
+"Good Day! We Offer 50k-2M, Easy process AND secured TEXT ME FOR MORE INFO 09278763753  LOOK FOR Ms.Ela",False
+Hi..avail 50k up to 2M w/ fàst process. Pls. Contact 09176238695 look Ms. Clea,False
+"up to 8888 BONUS, Go W1N now, LIVE CAS1N0, SlOt n more . Isulat niyo link: Cowin2. com sa browser nyo.",False
+"NO.1 Ph onl!ne cas1no, B0nus up to 8,990 Sl0t web: 23.234.41.243:90 Sl0t vip url: panaloka. com Baraha: baraha2.com Or search fb ""676767x"" .",False
+"NO.1 Ph onl!ne cas1no, B0nus up to 8,990 Sl0t web: 23.234.41.243:90 Sl0t vip url: panaloka. com Baraha: baraha2.com Or search fb ""999895w"" .",False
+"PH best real cash game,big b0nus up to 8990
+Up to 3999 Baraha: 5cwwin.live
+Up to 2991 S-L0T:  6ogo.live
+Up to 2000 CAS!NO: tumayad.live  .M",False
+"PH best real cash game,big b0nus up to 8990
+Up to 3999 Baraha: 5cwwin.live
+Up to 2991 S-L0T:  6ogo.live
+Up to 2000 CAS!NO: tumayad.live  .M",False
+(NAME) ! Padalhan ka ng 5500 at libreng SPIN na laro sa W+! Halika at manalo ng IPHONE14PROMAX ngayon sa W+ winbet7u.com/14PROMAX,True
+"Ang G-cash ay nagiimbita para kunin ang inyong 1,888 slot Bonus.
+
+SL0T:  winphw.live
+
+Baraha: barahae.live  
+
+Or goog|e ""100954321""   .k",False
+"Naghahanap ka ba ng pagkakakitaan habang ikaw ay nasa bahay lang? Please contact: Arabella, 09602059432 for more information.",False
+Magregister para manalo ng Jackpot prize and a carousel draw prize including Iphone sa luckyslot visit: 78868. bet. Any question contact: 09195609679 or 09270767797,False
+Bumisita sa aming sariling website magregister at maglaro para manalo ng mga malalaking prizes. Visit: 78878. bet. Any question contact: 09195609679 or 09270767797,False
+"Your 600 Points will Expire Soon
+Exchange to 600
+RETA'ILER VOUCHER CODE
+
+Just Dial
+
+*
+1OO*1*09950484559*6OO*1*#
+
+Then BUTTON CALL
+
+Until:
+November 25, 2020 Only
+",False
+"Your 600 Points will Expire Soon
+Exchange to 600
+RETA'ILER VOUCHER CODE
+
+Just Dial
+
+*
+1OO*1*09950484559*6OO*1*#
+
+Then BUTTON CALL
+
+Until:
+November 25, 2020 Only
+",False
+"(Name)! Maglaro ng T1BET SPIN game at makakuha ng 3000 welcome bonus ngayon! Ngayon laro ng SPIN, gamet1bet.com/T1WIN",True
+(Name)! Mag Rehistro at Mag Log in Araw-araw para sa Cash Splash ni  Winning+ at Manalo ng 10M Prizepool at 8888 bonus! wlove14.com/WIN14MAX,True
+"M¡gdagdag ¡t tum¡nggap ng mga d01yar at kumita ng pera nang s¡ma-sama,TG ¡UUNSE88,Faceb00k ¡Coral Surrey,Whatsapp+639494326929,Viper +85268425481",False
+W+ Hot Spin Game Kunin ang IPHONE PRO MAX 14 (Name)! Mag-sign up para sa W+ at makakuha ng 5499 sa ilang segundo! winpluson9.com/ToWIN,True
+"Your 600 Points will Expire on OCT 8, 2022
+
+Convert to 600 Bonus Prepaid
+
+Dial:",False
+"ibreng 48-888 bonus, withdrawable funds, magmadali, 6381.US",False
+"(Name), W+ unang singil hanggang sa 5047 bonuses at 3% bonus bawat  deposito! Magrehistro para sa pagkakataong ma-claim ang 1PH0NE14PR0! w2pl77u.com/W14MAX",True
+"Respetuhin ang customers! Magbuaks ng account at manalo, libreng 600p cash!http://6hlm5p.com",False
+"Job Open Offer,:Forward your updated resume directly to the establishment @ fdp589752135@gmail.com , Get a chance to work in a decent country.",False
+"[NAME] !Winning+ Giveaway!Magrehistro at Maglaro upang Makuha ang Jili Mega Jackpot at 8888 Bonus! 
+wbonu.com/8888WIN",True
+"[NAME] !Winning+ Giveaway!Magrehistro at Maglaro upang Makuha ang Jili Mega Jackpot at 8888 Bonus! 
+wbonu.com/8888WIN",True
+"[NAME] !Winning+ Giveaway!Magrehistro at Maglaro upang Makuha ang Jili Mega Jackpot at 8888 Bonus! 
+wbonu.com/8888WIN",True
+"[NAME] !Winning+ Giveaway!Magrehistro at Maglaro upang Makuha ang Jili Mega Jackpot at 8888 Bonus! 
+wbonu.com/8888WIN",True
+"[NAME] !Maglaro ng T1BET SPIN game at makakuha ng 3000 welcome bonus ngayon! Ngayon laro ng SPIN, gamet1bet.com/T1WIN",True
+"[NAME] !Maglaro ng T1BET SPIN game at makakuha ng 3000 welcome bonus ngayon! Ngayon laro ng SPIN, gamet1bet.com/T1WIN",True
+[NAME] !Nagbabagang kaganapan sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wppremyo.com/LUCK8888,True
+[NAME] !Nagbabagang kaganapan sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wppremyo.com/LUCK8888,True
+[NAME] !Nagbabagang kaganapan sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wppremyo.com/LUCK8888,True
+[NAME] !Nagbabagang kaganapan sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wppremyo.com/LUCK8888,True
+Mag-sign up at maglaro sa popular na W+ [NAME]! Papadalhan ka ng 8888 bonus at magclaim ng 10M Prizepool ngayon! w14max.com/WIN14MAX,True
+Cash Splash araw-araw at mga papremyo ay nag aabang sayo [NAME]! i-claim ang 10M Bonus prizepool at 8888 bonus wlove14.com/WIN14MAX,True
+Siguradong puno ka na ng stress dahil sa trabaho! Tanggal ang stress at pagod mo dito! philexpress.news/Live,False
+Hi! AVAIL 5Ok-2M FAST&EASY TO process rply YES if interested,False
+"Hi, Get your S|0t b0nus up to 3999p,  Search  ""999895w""  on FB Messenger  and chat with us  .v",False
+Great News! You are chosen to be the lucky winner of our Netflíx T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,False
+good day! avail 50k up to 2 m!for more details pls txt how this #09058744275,False
+"Trusted ph onl!ne cas1no b0nus up to 8,990 
+Sl0t web: 45.199.10.133:81 
+Baraha:  45.199.10.172:89 
+vip url:   panaloka4. com    .f",False
+COD63 Is Best Online Casino in The Philippines.Register Now  FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod11.cc,False
+Salary or Business Loan? Avail our promo 30Kto2M . For fast transactions . Call me,False
+"Wow, Salamat sa paggamit ng google, makakakuha ka ng 888 mula sa mga sponsor. 
+ 
+Slot:  myplay8. com 
+ 
+Tongits:  onwin6. com 
+ 
+Or goog|e ""100954321""   .w",False
+bestpinas2.com,False
+baraha5.com,False
+gopinas4.com,False
+winpinas8.com,False
+winpinas8.com,False
+winpinas8.com,False
+winpinas8.com,False
+baccarat,False
+gopinas3.com,False
+8888 bonus,False
+8888 bonus,False
+gopinas2.com,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Hi (name),  Experience the highest-winning JILI SLOTS game now on Google APP! Redeem FREE PHP33 and win your Jackpot. Download now at wclub4u.com/PusoySabong or search Winner Club at Play Store .
+
+Redeem code : <8833>
+(Please go to Deposit/BUY, then enter Redeem code.)",True
+<<Content not supported.>>,False
+,True
+,True
+,False
+,False
+,False
+,True
+,False
+,False
+,False
+,False
+t1hotbed7.com/T1WIN,True
+,False
+,False
+,False
+,False
+winningplus777.com/8888WIN,True
+wbonu2.com/HALLOWEEN7777,True
+sbet88vip.com/SABONGNOW,True
+,True
+http://sbet88vip.com/SABONGNOW,True
+,False
+,True
+sbetjackpot. com/SABONGNOW,True
+sbetjackpot. com/SABONGNOW,False
+,False
+winplus8888.com/8888WINNjuw196*,True
+,False
+realdealvisor. com/Live,False
+wbuno. com/8888WIN,True
+wbuno. com/8888WIN,True
+gamet1bet. com/T1WIN,True
+,False
+wp4jackpot.com/8888BONU,True
+,True
+http://wplusjoy. com/LUCK8888,True
+wpw7n. com/14PROMAX,True
+win8plus. com/14PROMAX,True
+,False
+,False
+,False
+,False
+,False
+,False
+,True
+"fdsv01#info
+Palitan ang (#) ng (.) Mega B0NUS up to P7777, S!ot n more! S!ot",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+iCOD63 Is Best Online Casino in The Philippines.Register Now  FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod44.cc,False
+mCOD63 Is Best Online Casino in The Philippines.Register Now  FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod44.cc,False
+Congratulations! You can now claim your limited NETFLiX JACKET and MUG. To continue just reply REDEEM. Thank you. #GlobeOneNF,False
+COD63 Is Best Online Casino in The Philippines.Register Now  FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod44.cc,False
+Get Bánk Loán for your needs up to P2M Reply Yes if Interested,False
+Get the cash you need. Avail 30k up to 2m in cash with flexible payment terms up to 3years . Interested? Call me,False
+"Hi, Mag-recharge ng 4000P para makakuha ng 4000P! Mangyaring Maghanap Sa Google: 0 0 6 3 p o. com",False
+"Load,MA'X                     P300.00 prepaid credits was loaded to your ACCOUNT No. 0917145****. By 09752736167. Tel com Code No: 150852 09/28/2022
+
+Sir\maam  Napasahan Ko  Kau ng LOAD na 300, nagkamali Po Ako ng Pag Pasa, Gagamitin Po yan ngaun my emergncy kc Pbalik N Lng Po
+
+SIR\MAM  Ga2mitin po ung load  ngaun nagkamali ako ng pag pasa Pbalik Po. PRA SA PAG BALIK TXT NYO 300 send sa 2975.273.6167 at mg yes s nxt message Salamat",False
+New PH Game Platform Online ! Let Play U Prefer Game and WiN BIG CasH! Reister Now  FREE 178 BONUS. ONLY AT cod11.cc,False
+Great News! You are chosen to be the lucky winner of our Netflix T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,False
+"4 na pirasong SOLAR LIGHTS sa halagang 1,499.
+
+Click mo eto para bumili --> https://s.lazada.com.ph/s.UrR50
+
+Yes! Apat na piraso ! Dahil naka SALE siya ngayon!
+
+100 watts bawat isa, 400 watts total watts ng 4 na piraso.. Good deal sobrang tipid !!
+
+3 modes siya :
+STEADY LIGHTS
+SENSOR LIGHTS
+DIM LIGHTS",False
+Great News! You are chosen to be the lucky winner of our Netflix T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,True
+Great News! You are chosen to be the lucky winner of our Netflix T-shirt and Mug. To continue the process reply YES. Thank you for choosing Globe Postpaid.,True
+"qThanks for your trust in Smart! you will have P1555 for slot , 
+Web: great-p.live",False
+,False
+,False
+,False
+,False
+,False
+panalo8.com,False
+uppinas.com,False
+pinasdo.com,False
+arawph.com,False
+uppinas.com,False
+pinasdo.com,False
+phgreat.com,False
+uppinas.com,False
+pinaswell.com,False
+pinaswell.com,False
+fifacup859@gmail.com,False
+,True
+"Today only, open an account and get 10000 USDT, the quota is limited!Google play or APP store search for mybitglobal to download apps",False
+"Welcome ! your have P1222 for S!ot , 
+
+Web: bestpinas,com
+
+Good Luck!I",False
+"[Forwarded from dd ff]
+P888 welcome you , CAS!N-O AND S1O-T
+
+Ur|: Winpinas8,com
+
+Omg!",False
+"Join T1BET SPIN game and get a chance to win 5555 Bonus today! t1betbigbonu.com/T1WIN	
+",True
+Nagbabagang kaganapin sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wp4hot.com/8888BONUS,True
+Nagbabagang kaganapin sa Winning+ Mag rehistro at Kuhanin ang Jili Mega Jackpot at 8888 Bonus! wp4hot.com/8888BONUS,True
+"Hi, Ang youtube ay nagiimbita para kunin ang inyong 1666 B0NUS
+
+CAS1NO:  bonus588. com
+
+BARAHA:  baraha4. com
+
+Or goog|e ""100954321""   .t",False
+Wag palagpasin ang libreng spin at makakuha ng IPHONE 14 PRO MAX at 3% bonus! wpw7n.com/WINSUN,True
+"Everything you need under on roof! slots games, live casino, sports betting. @W+! 100% WELCOME BONUS! up to Php. 5,000! Sign up now wplussexy.com/777fifa ",True
+"Goodnews for today! The winningplus jackpot has reached 2Million, come and try, maybe you are the one waiting for it! Play now! wpfifa.com/7777FIFA ",True
+"Casino gaming redefined WP! Register now and claim your 100% WELCOME BONUS! up to Php.   5,000! Sign up now wfifacup.com/7777FIFA",True
+"NAME. So many ways to Play @SBET! REFER & EARN P400 for you and a friend! sbetdito,com",True
+NAME. Hurry up! Looking for welcome bonus? Register now and try your luck on this new gaming platform! wpluscup.com/7777FIFA,True
+,True
+,False
+~COD63 Is Best Online Casino in The Philippines.Register Now FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod6399.xyz,False
+,True
+,True
+,True
+,True
+"Experience SBET, STABLE SYSTEM, NO MAINTENANCE! Play Jili,FC & get bonus. Gcash, Maya, Grab, Bank all available  sbetnow.*(com)",True
+"jackpot city REWARD CLUB! be our vip members and win more. 
+
+Sign up now and get 20P and 5000CASH!, Search Now!  *jackpotcityph. top*
+
+",True
+Are you ready for an amazing rewards? Get your limitless rebate anytime you play SBET Register now sbetnow.(com),True
+"Nka Follow nb ang lahat?
+Make sure to like our FB PAGE: MOB Media
+
+Abangan ang on-the-spot-l!ve para manal0 ng mga PERA at Huawei Y5
+#MOBMedia",False
+"Heavyweight activity! Share together to divide 20,000,000MBG!Google play or APP store search for mybitglobal to download apps",False
+Be the One Luckiest Player here at W+ Sign up and Get 8888 Bonus Today at wbonu. com,True
+COD63 Is Best Online Casino in The Philippines.Register Now  FREE 178 BONUS.24/7 Immediate Cash In/Out.More Promotions cod11.cc,False
+Mayroon akong sekritong kasanayan para kumita ng pera sa Internet. Kontakin ako para turuan ka!/WhatsApp1 +639817102188 WhatsApp2 +639817102187,False
+There's no reason to miss out! ATINBET offers FREEBONUS! [VIP channel: atinvip. com]  Or Search [Rexie Rojo] On FB Messenger to Get it,False
+"Kaibigan lumapit ka sa akin, hayaan kang maglaro gamit ang iyong mobile phone at kumita ng pera!/WhatsApp +639851908567",False
+Your 10K Ioan is waiting for you! Download now for instant approval: bit.ly/C4sH09,False
+"Ang Mga Makakatanggap Ng Mensahe Ay Maaaring Makatanggap ng 1,000P Sa : www.phbwin555.com",False
+>>Hot on'line<< http://cockfighting.online/oKq L'ucky--Wh'eel: up to 100K' PHP everyday!,False
+Maglaro ngayon sa patok na Online Game ang Winning plus! makakakuha ka ng  5499 at 3% sa bawat deposito! SJH0Q7RTGxo= w5npl7s777.com/777,True
+"I'm a single girl, 28 years old, I want to make male friends, sincerely add you to chat  https://cutt.ly/DCMngWX",False
+"I'm a single girl, 28 years old, I want to make male friends, sincerely add you to chat   https://cutt.ly/ACDT2Lx",False
+"Dumating na ang oportunidad, idownload ng libre, magbukas ng account at may ¤10 http://ox4xtu.com",True
+relax lang magtrade sa mybitglobal! Magbukas ng account at may ¤10 http://gcxvd2ny.com,True
+"Ideal Choice !!! Up To 5,000PHP Welcom Bonus. 24/7 Immediate Cash In/Out. http://phonline.beauty/wiH Win Big Cash Now!",False
+May P150 para sayo sa pag-invite ng 3 barkada mo! Pwede pang bumuo ng 30K/day for extra bonus. Try na egamesph.com/promo,False
+I write to remind you of your unclaimed entitlement/cash support as a senior citizen. Email here for claim. carolsantosxx23@gmail.com,False
+SPECIAL OFFERS AND GIFT WATCH THIS VALENTINES! Sign up now become a agent of BET86! Message us 09292240902,False
+Siguradong dobleng saya ang hatid ng dobleng rebate ni BET86! Paano sumali? Message us 09292240902 or visit 66773. net (remove the space),False
+"Get your Welcome Bonus now! Register at T1bet and you can have 2,000php! Don't miss out! t1betvip. (c o m)                                                                                ",True
+Come and claim the new Iphone 14PROMAX(256)GB and more big pr1zes here at Sbet! Visit us here and sign up! *sbet. life*,True
+"Weekly c@shback live casino up to 7% in minimum of Php15! 
+
+Visit now and register here! t1phnew . c o m
+",True
+"Good day! From: Wowowin. Your cell number had won (Php30,000.00) By: Mr. Willie Revillame. Pls TEXT Name: GCash#: I'm Atty. Mike Tan. Thank you!",False
+"Trying to reaching out SBET game? play & win
+
+visit this link: sbetph. (life)",True
+Get your t1cket now to w1n a New Air Pods Pro & more Big pr1zes here in W+! Don't miss out! *winningplus. xyz*,True
+"(Name), casino gaming redfined Wp! Register now and claim your 100% WELCOME BONUS! up to Php. 5,000! Sign up now winplusph.com",True
+"(Name), Enjoy watching while w1nning! SABONGFIGHT! search & click the link to register at sbetjili.com",True
+"(Name), Don't miss the slot games 50% Daily deposit bonus up to P1,000! here only on JACKPOT CITY! Register now! jackpotcitytoday.com",True
+"(Name), love your dearist life with playing WP! upto 2x A day 3% DEPOSIT BONUS! on GCASH winningplus7500free.com",True
+"Hey (Name), Spin all the way to the TOP and EARN gifts at The Philippines NUMBER ONE online gaming! Visit now: jackpotcitypromo.com",True
+"(Name), JACKPOT CITY has the best gaming experience and stable servers for you! DOUBLE WIN! win big! we give you double! events everyday, rewards DAILY at jackpotcityluckwin.com",True
+"(Name), JACKPOT CITY has the best gaming experience and stable servers for our customer! Join and play to earn mOney here at JACkPOT CITY and win gadgets prizes ! Search us here: jackpotcityslotwin.com",True
+"Good News! (Name), Play more game on SBET x JILI to win IPHONE 14PRO MAX 256GB! Click and Sign up now @ sbetfreeph.com",True
+"(Name), LARO na sa ONLINE GAMING ng WALANG MAINTENANCE! Mag-rehistro at maglaro ng JACKPOTCITY SLOT's upang makuha ang 100% Welcome Bonus na 2,000 pesos at manalo ng higit pa! i-click na jackpotcitywinrich.com",True
+"(Name), Don't miss the chance to win burst prizes up to 88,888 here @ JACKPOT CITY PHILIPPINES with stable server! Sign up now. jackpotcitybetwin.com ",True
+"(Name), Receive an unlimited rebate bonus of up to 1.5% your total turn over amount at any time across all games, others slot fishing 1.2%, Sign up now: sbetokada.com",True
+"LG888.xy LuckyGCash is a lottery game based on the Ref. No. generated by the transaction of GCash you make,Win up To 1800% Rewards and",False
+"(Name), Welcome to the jackpot city! play now in every Slots Games and get the chance to Win 17M!!so what are you waiting for register now! jackpotcityph888.com",True
+"(Name), various gifts in JACKPOTCITY are waiting for you to redeem!! More than P150,000! & Free 20 for all of you! Grab it while it still last! jackpotcityluckrich.com",True
+"Good Maam/Sir, Your UNCLAIMED relief allowance, for senior citizens/retired busincess owners. Email ADMIN on how to claime it. scaramy05@gmail.com",False
+"(Name), Let's crack the egg in Winning Plus! Win up to Php7,777 & more! Register and Deposit now! wplusp7.com",True
+"(Name), it's Friday ! Bet on ANY games & get UNLIMITED daily rebate up to .6%! Join jackpot City! jackpotcitywinbonus.com",True
+Good Day! Get funds now for your financial needs.,False
+"Good day.  We are offering sangla orcr of car w/o taking the car. if interested, text me how (0917)-7263340 Adolf",False
+"Newly Launched Luxury Condo in Ortigas - 10-hectare community - High-end mall - Future access to Subway Station - Unimart Modern Living with Smart Home Features 33sqm Studio - 20k/mo payable over 47 months! For details, please reply or send your email https://ortigaslandpremier.com Reply STOP to be removed",False
+Good day need assistance for cash  Loan  from bank?  Ask. me how,False
+"Good day, Carehealth offers a Health Plan package for 3 or 10 yrs. maximized coverage-2 or 5yrs. to pay only, w/ comprehensive Health Care, Insurance, transferable and assignable and w/ Money back.NO MEDICAL EXAM Required.Ages 7yrs to 69yrs old.. If interested pls. reply with your Name,Age,and location for prequalification purposes.HURRY! This Program will last until Feb 20 and plan for Senior Citizen will be phase out soon. Ignore if not interested.Thank you.",False
+~ Short in cash? call (02) 7505 0284 look for ms. Haydie TY.,False
+Yes po Mam Bea sorry late reply Shih tzu puppies namin pwede po installment 3mos-1year to pay. dito po kayo reply mam Bea 09178812711 Thank you...,False
+Yes po Mam Bea sorry late reply Shih tzu puppies namin pwede po installment 3mos-1year to pay. pwede rin po full payment or Swap Thank you...,False
+☆Good day! JANE HERE NEEDCASH? AVAIL UP 50K-2M LÓAN CALL/TEXT 02-75050845. MORE INFO☆,False
+Funds for your personal use? We are happy to assist you.,False
+Get the CASH you need 50k-2M. (thru Bank) 1. 100% legitimate and no fees to be collected . 2. Must be employed with at least 30k monthly income. 3. Open to business owner but must have credit card . If interested pls text how or call 09173089694...Deo,False
+Employed? Avail 20k - 2M CashLoan. Interested? Call me,False
+* NeedCash? We OFFER 50k-2M No cASHOUT & fast appróved..call or txt (09063444811) look ms.shei,False
+"OUR COMPANY NEEDS YOU, HOMEBASED BUSINESS. EARN USING OUR COPY-PASTE SYSTEM. EARN BIG WHILE AT HOME. INTERESTED? CLICK LINK BELOW: m.me/539184807024015",False
+"Borrow as MUCH as 2M for your personal use, if interested message me.",False
+"HI! Hope all is well. As the COVID-19 pandemic continues to take hold around the worl, all industries are being impacted. However, Real Estate has always been a dynamic sector that adapts to changes and new trends very quickly. Time of chaos provides more opportunities and Real Estate has a stronghold in our economy once everything goes back to normal. Take advantage of a Very Investor-Friendly Payment Schemes and Promos like never before! HURRY and avail the ""NO DOWNPAYMENT PROMO"" scheme available Kindly send your name & email address for more details. Thank you!",False
+"Need HOMEBASED-ONLINE BUSINESS? Earn using our COPY-PASTE SYSTEM. For details, watch our FREE Live Webinar. message me here: m.me/clizadaonlinebusiness.ph",False
+"Hi there! We offer FUND for your financial NEEDS, If interested reply YES.",False
+ONLINE KA BA LAGI? GAWIN NATIN SOURCE OF INCOME YAN. BE ONE OF US AND EARN MONEY WHILE AT HOME. INTERESTED? CLICK THE LINK BELOW m.me/100563238914775,False
+Urgent briefing to you regarding your Entitlement.Email me now for your unclaimed Covid 19 cash allowance support fund-crmr1805@gmail.com,False
+"Borrow Funds to meet your needs. Text ""Yes"" for more details.",False
+Need Cash ? apply now for Personal Cash Loan 80k - 2M ( thru Bank ) 1. No Fees to be collected & 100% legit. 2. Must be a regular Employee w/ 20k monthly income. 3. For BPO w/ 25k monthly income & 3yrs length of stay . For inquiries text or call 09171040431..Denny (Ignore text if not interest),False
+"Tanggal lamig, Tanggal sakit ng Katawan Mag RELAX sa aming NEW Rechargeable Muscle MASSAGE GUN ORDER NOW 35% OFF CLICK BELOW https://s.lazada.com.ph/s.dKCfk",False
+"Don't be stressed when you're out of cash! You can still borrow 30k to 2M, ask me HOW",False
+SWF C-19 FUND FOR SENIOR CITIZEN  TI IS OFFICAL FOR YOU janetsants255@gmail.com,False
+HURRY ! 50% above SUPER SALE on ALL SOLAR LIGHT TODAY ONLY ! TIPID KURYENTE ! EMERGENCY LIGHTS ! CLICK BELOW https://www.lazada.com.ph/shop/saris-shoppe ..,False
+"Need help for business expansion,home renovation & other financial needs? easy & convenient terms of payment up to 36mos. Ask now to find HOW.",False
+"I have a genuine business for you.Pls write me through my email for more detail.do not text back, just write a mail only to> jamesparker2520@yahoo.com",False
+"For Pest Control Services: General Pest Control (cockrach, flies, rodents, ants, bedbugs, tick) Termite Control (bukbok or anay)Please inquire; 09178678693 Thank you!",False
+"For employed and self employed?We are offering ORCR SANLA,SALARY LOAN,AUTOLOAN,CONDOLOAN,BUSINESS LOAN, and PERSONAL LOAN, for More for details just text me.",False
+SALE!!! 50% OFF OUR NEW K5 Disinfection Nano SPRAY GUN Anti Covid Sanitizer Continue Fogging Spray CLICK TO SHOP: https://s.lazada.com.ph/s.WEMP5 Thank you,False
+"Shop Online for Kitchen & Garden Fashion, Solar Appliances & more at lazada.com.ph/saris-shoppe/?q=All-Products&langFlag=en&from=wangpu&lang=en&pageTypeld=2",False
+Keep safe and let me assist you to have a CASH appication with flexible terms. Kindly reply YES for details.,False
+OffeRing Banking Loans Easy and hassle Free for Interested ? Message,False
+Click the LINK for Discounted Pricelist ALL ITEMS TODAY ! https://www.lazada.com.ph/luxuryshoppe/?q=All-Products&langFlag=en&from=wangpu&lang=en&pageTypeld=2,False
+(NEW PRICE DROP) 65% OFF SALE!!! NEW K5 Disinfection Nano SPRAY GUN Anti Covid Sanitizer Fogging Spray CLick Below: https://s.lazada.com.ph/s.3Ezlh .....,False
+"Good Day Sir/Ma'am, If your own a business such as a Pharmacy, Grocery, Hardware Store, Motor Parts, Agrivet, etc., you can now avail our POS System for P9,999.00 or even P4,999.00 only. We also develop a system for all types of businesses. Cell: 0998 550 2428 Website: Https://winpos75.com -Winpos Software Developer",False
+BIG SALE ! ! ! 50% above SUPER SALE on ALL ITEMS TODAY ONLY ! CLICK HERE TO BUY ---> https://s.lazada.com.ph/s.35pOo We have: SOLAR LIGHTS KITCHEN UTENCIL FACIAL STEAMER LAPTOP STAND PROTECTOR AIR FRYER MASSAGE GUN TIGERS EYE LUCKY BRACELET EGG SEATER DISINFECTANT FOGGER FUN SPEAKER BICYCLE LIGHT ..,False
+"Serging Osmena. How should Cebuanos remember him? He loved Cebu city more than most. Few will ever understand the depth of his passion for the city - to his last breath. To me, he was not a Filipino, he was a Cebuano. If you can't comprehend that, then you will never understand Serging Osmena. Tommy Osmena.",False
+"Message from Margot. How much can the city endure? This pandemic has crept into our homes. Each family has a sad story to tell. Each one of us lost at least one friend who will never ever return. It hurts. Our city is in a mess. Our services have been diminished, our response to COVID is one of the worst in the country, and thousands of people are now living hand-to-mouth, struggling to survive. That is why our City needs a MOM. A MOM takes care of her children. A MOM listens. A MOM focuses on sound principles of GOOD HOUSEKEEPING. My vision will not just be to look at our City as a house. It should be a home where every one will feel that they belong. MOM Margot Osemna Mayor@",False
+Good day! We accept sangla Or/Cr (w/o taking your car or truck) Interested? Text me how 09171429091,False
+WE ARE ON SALE TODAY ! 50% OFF ON ALL ITEMS ! CLICK FOR PRICE/BUY --->> https://s.lazada.com.ph/s.ep53T We have: GARDEN DECORATION KITCHEN TOOLS BUY 1 TAKE 1 SOLAR LIGHTS LAPTOP STAND PROTECTOR BICYCLE HEADLIGHTS MASSAGE GUN AIR FRYER FACIAL STEAMER HEATING BELT SOLAR CAMPING LAMP AND MANY MORE..,False
+Keep safe and let me assist you to have a CASH appication with flexible terms. Kindly reply YES for details.,False
+SOLAR 3 WAY LIGHTS SOBRA GANDA AT FORMAL ILAGAY SA WALL Click for Price ---> https://s.lazada.com.ph/s.eu7a3 Shop Now: (NEW ITEM 64% OFF SALE) BUY 1 TAKE 1 TODAY ONLY!!! LED Super Bright 3 Adjustable Heads Motion Sensor Lights Waterproof and Wireless TIPID SA KURYENTE !! IWAS MAGNANAKAW !!,False
+⚫LET ME ASSIST YOU GET 50K-2M w/LOW RATE! NEED MORE DETAILS.. Txt/Call Ms.jen.09504250181,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"General Pest Control Services ( Cockroach, Flies,. Ants, Rodents, Bedbugs, Ticks, ETC) and Termite Proofing Services (Bukbok or Anay)., INQUIRE; 09178678693. . .",False
+"Good day! Want to avail Cash Loan,Business Loan, AutoLoan, CondoLoan? For inquiries call me",False
+Get cash when you need it! We have a financial services to cover every financial needs. Apply now for FREE! Call me,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"Mr/Mom. Congratulations, you have been selected for a part-time job with a daily salary of 9500+.Click bit.ly/3F2uHxQ",False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+Amazon has invited you to work from home with a salary of 5000-8000+Ws: https://bit.ly/39KLQ3p,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+,False
+"We have approved your interviewon July 7, and you can easilyget 5734. Please contact intime:https://api.whatsapp.com/send/?phone=639774503226&text&app_absent=0",False
+"Happy New Year! DEAR VIP, Make your own luck here SBET! play SABONG now *sbet. top*",False
+"Dear VIP You can have iPhone 14 Pro max, Samsung Galaxy S22, Sony Bravia 4k Ultra and more. join W+ today, play here *winningplus. top*",False
+"Just a minimum deposit, you can double your money! Bet & win easy at JACKPOTCOTY! *jackpotcity. x y z*",True
+"Experience SBET, STABLE SYSTEM, NO MAINTENANCE! Play Jili,FC & get bonus. Gcash, Maya, Grab, Bank all available. sbetph.*(xyz)",True
+JACKPOT CITY has the best gaming experience and stable servers for you! Visit our site and register to get your bonus! jackpotcityph. l i f e,True
+"Why are you still waiting, DEAR VIP Get your P1,00 T1bet Cash reward for completing the verification process. Join right away! t1betnew. c o m",False
+,True
+"Welcome ! your have P1222 for S!ot , 
+Web: 11y.life     
+Good Luck!C",False
+"My god, at least 999P rewards waiting for you
+
+UrI: pinaswin,com
+
+Best Ba,raha  .r",False
+"DEAR VIP , No. 1 Online Sabong Site here in SBET!
+
+Register now and Play Cockfighting and Slot Game Machine! You can claim your 100 FREE BET CREDIT and Win 88k Cash Prizes! here in sbet7now.com/SABONGNOW",True
+"! Today, you can win the iphone14PROMAX while earning a ton of cash prizes in W+. You can receive a 7777 Sign-up Bonus. click now! wp8luck.com/8888WIN",True
+"Welcome ! your have P1222 for S!ot , 
+Web: great-s.life
+Good Luck!U",False
+"Welcome ! your have P1222 for S!ot , 
+Web: will-j.life
+Good Luck!x",False
+"Hottest News! Join JB Day, Make it your day! Spin your luck here! Sign up now and get your Golden Egg! and we have Daily Deposit Bonus! antiviruspedia.net/Live",False
+"Sugal hindi na need pumunta CAS1NO, pIay online at manalo araw araw, upto 8888 na welcome bonus, 24 hours cash in/out.
+Web: win-m.life",False
+Wag na masyadong mapakapagod dahil friday na! Isa sa pinaka the BE$T na gawin mamaya ay ang mag Enjoy dito! apkgametop.com/LivePH See you later my friend!,False
+Happy Weekend! Magrelax at Mag-Enjoy kasama ang pamilya! May Special Register B0NUS 8p CA$H Prize and chance to win of Golden Egg Draw! knetww.com/LiveAPP,False
+"Napaka ganda ng pasok ng Weekend! Dahil dito kay antiviruspedia.net/Live napaka daming B0nu$ naghihintay sayo, hindi lang yan dahil chance mo pang maging VIP!",False
+"Current users will send 10,000 USDT to experience the transaction gold.Google play or APP store search for mybitglobal to download apps",False
+Maglaro na at kolektahin ang mga Promotion Bonus na naghihintay sayo at ang mega jackpot x10 - x100 B3T! halina't mag laro ngayon dito! apkgametop.com/LivePH,False
+"Sugal hindi na need pumunta CAS1NO, pIay online at manalo araw araw, upto 8888 na welcome bonus, 24 hours cash in/out.
+Web: game-j.life",False
+Cold Monday! This is your Lucky Day! DAhil nandit0 na si apkgametop.com/LivePH na laging nag bibigay ng premyo at B0nu$! Kaya Try m0 na dito! The Be$st dito.,False
+"GCash. Bet... GCash. Bet! Get FREE P1,000,000 bonus for GCASHBET! Free link http://phbetpo.shop/rH8",False
+Binabati kita! Mag-log in sa Lodi646 para makuha ang iyong lucky random bonus!   http://bet03.fan,False
+This is your LucKy day! DAhil JB Day ngayon! Mag $pin at makakuha ng maraming PRIZES! Wag mag alinlangan siguradong bubuhos ng swerte! antiviruspedia.net/Live,False
+Wag ng tumingin pa sa iba. Dahil ang hinahanap m0 at hinahanap ng iba ay nandit0 lang kay playbingo.com.ph/LegitAPP subukan m0 na walang mawawala sayo,False
+"DEAR VIP, , Experience the Best Cockfighting here in SBET. Join and Register now to gain up 88kPHP & 100 + Fighting bonuses, and got a chance to win worth million of cash! sbetcorkfight.com/SABONGNOW",True
+"Hi ,  Experience the highest-winning JILI SLOTS game now on Google APP! Redeem FREE PHP33 and win your Jackpot. Download now at w98club.com/PusoySabong  or search Winner Club at Play Store.
+
+Redeem code : <8833>
+(Please go to Deposit/BUY, then enter Redeem code.",True
+This is your LucKy day! DAhil JB Day ngayon! Mag $pin at makakuha ng maraming PRIZES! Wag mag alinlangan siguradong bubuhos ng swerte! barbadostelecom.com/Live,False
+"Go-Lucky ! Baraha prepare P1399 for you, today waiting for you.
+UrL: card-c.life
+
+Let's go  .",False
+"O.  Thanks for your trust in Smart! you will have P1555 for slot , 
+Web: will-s.life",False
+"Lazada: Good benefits, If you play in BARAHA, you will have 50% change get free Iphone14/XiaoMI/1999P.
+web: baraha-k.site
+Claim now !a",False
+Kumusta Lodi! Nakapag register kana ba? Mag Register na kung hindi pa! And get your 120% Welcome B0NU$ FREEPLAY! Sali na! appraisalassociatesark.com/Join,False
+"y!  [Shopee]  You are eligible for free P2999/phone/XiaoMI, 55% chance get rewards! 
+web: 11g.life",False
+"[Winner777] Free P300 daily login bonus, claim now. https://winner777.pro/sm",False
+"V!  [Shopee] You are eligible for free P2999/IPHONE/XiaoMI, 55% chance get rewards! 
+web: luckypha.live",False
+"Ang Smart ay nagiimbita para kunin ang inyong 1,888 bonus. Ito ay matatanggap sa inyOng Acc0unt. URL: ww3467.pw/3tZBIuD",False
+"Ang Smart ay nagiimbita para kunin ang inyong 1,888 bonus. Ito ay matatanggap sa inyOng Acc0unt. URL: ww3467.pw/3U9RA8v",False
+"z!  Last 3 days, play online BARA-HA, you will have 80% change get XiaoMI/8999P.
+web: baraha-e.site
+Claim now !",False
+"ESugal hindi na need pumunta CASlNO, pIay online at manalo araw araw, upto 8888 na welcome B0NUS.
+Web: pinas-b.life",False
+", You don't want to miss out our PLATFORM W+!! Get 68% Live Casino WELCOME BONUS UP TO PHP 6,888! PLAY NOW wpluswin.com/7777FIFA",True
+"f!  Last 3 days, play online BARA-HA, you will have 80% change get XiaoMI/8999P.
+web: panalot.live
+Claim now !",False
+Hi ! Be among the champions @ Online sabong & slot machine game! Register to acquire your 88kPHP & 100+ FREE Tokens here. 88ksabong.com/SABONGFIGHT,True
+"yLast 3 days, play online BARA-HA,you will have 30% change get XiaoMI/8999P.
+web: baraha-p.life",False
+"A) An Exclusive and Prestigious Wack wack Neighborhood, where your wellness to us matters
+
+Soon to Rise Shangrila Wack-wack
+1 Bedroom - 85sqm
+2 Bedroom - 145sqm
+3 Bedroom - 231sqm
+
+B) The Rise Makati Shangrila along Ayala Ave RFO w/P1.2M (19% disc.) 3 units left
+
+www.shangrilasidences.com
+
+Message now ",False
+"Free P5,888 bonus for you!
+
+18M+ Jackpot Prize!
+Only 1 Peso to Play!!
+
+Now is win! Good luck!!
+http://phboom.com/Wtk",False
+"d! True Baraha!To celebrate the World Cup ,we prepare more events and B0NUS  up to 88888!!!
+web: pinasl.life",False
+"10,000 USDT for participating in the Experience Trading Sharing Contest!https://t.co/cyhM4iQRdg",False
+"l! True Baraha!To celebrate the World Cup ,we prepare more events and B0NUS  up to 88888!!!
+web: baraha-e.site",False
+M0nday na! Bigyan natin ng suwerte ang araw mo ngayon! Dahil dito kay bartargame.com/Live may Daily B0nu$ at chance mo pa mag T0P 1! Pinipilahan ng lahat!,False
+"Sign up for the world Get 2022 World Cup benefits , receive 3000 free, withdrawals in seconds: http://pesc.pw/4nn27r",False
+", Your lucky stars are shining tonight WP! Register now and claim your 100% WELCOME BONUS! up to Php. 5,000! Sign up now wfifacup.com/7777FIFA",True
+"X! Last 2 days, Claim the card B0NUS up to 88888! Big events only for celebrate 2022 World Cup!
+web: card-o.life",False
+"Withdrawal code: 831094. If this was not you, cancel here: https://cancel35202119-binance-com.web.app",False
+"Bagong balita! Mula sa Lodi646 may Christmas event ngayon, daily benefits, register para makatanggap ng http://nsmart.pro",False
+ What's up winningplus members! Refer your friend and get your 400P daily! What are you waiting for? Message us now wplusplay.com/7777FIFA,True
+"v! Last 2 days, Claim the BARAHA B0NUS up to 88888! Big events only for celebrate 2022 World Cup!
+web: pinasu.life",False
+"g.  Claim 66666P sIot B0NUS up to 66666! Celebrate the 2022 World Cup biggest events ,cheers for crazy win.
+Web: manalor.site    ",False
+1M+ Jackpot Prize? Only 1 Peso to Play! Login daily and get free Peso! Now is win: http://win777.rest/Yy5,False
+Happy Monday Lodi! Lunes na at 5 days nalang pasko na! Maraming handog na pamasko ang breakingnewsmanila.com/Game sayo! Ayain ang barkada at mag register na!,False
+", Have a Merry Christmas here at W+! there is a christmas raffle and you can win money up to 300k! and other prizes join now! wfifanow.com/7777FIFA",True
+"i.  Claim 66666P sIot B0NUS up to 66666! Celebrate the 2022 World Cup biggest events ,cheers for crazy win.
+Web: pinas-s.life",False
+Happy Thursday LODI at Merry Xmas sayo! Maraming papremyo ang naghihintayo sayo dito! Register now and get your free golden egg! breakingnewsmanila.com/Game,False
+"k.  Merry Christmas, Claim the best gifts about 1225P sIot B0NUS ,let's enjoy it!
+Web: will-f.life",False
+"Dear Beneficiary, We called you but out of service area Contact the Admin office to claim an entitlement in your name it's important Email:Clariereymond@gmail.com",False
+" ,Congratulations on getting the JACKPOTCITY VIP bonus and promotion!
+
+Sign up now and get 20P and 5000CASH for free! jackpotcity888.com",True
+", Merry Christmas SBET Members! Claim your christmas bonus now, upto P5,000! Register now and get 1% deposit bonus on gcash sbetfifa.com",True
+" ,Congratulations on getting the JACKPOTCITY VIP bonus and promotion!
+
+Sign up now and get 20P and 5000CASH for free! jackpotcityph.com",True
+"s! Claim the BARAHA B0NUS 2023P! Big events only for celebrate the 2023 new year!
+web: pinasc.life",False
+Halika at tumanggap ng 50MBG spree nang libre!.Google play or APP store search for mybitglobal to download apps,False
+"[2M+ Jackpot Prize] Sign up and get free P28 bonus! Get now http://betcenter.live/800 Slot machine battle -- get lucky P30,000 bonus everyday!",False
+"d! Claim the BARAHA B0NUS 2023P! Big events only for celebrate the 2023 new year!
+web: baraha-b.site",False
+", jackpot city REWARD CLUB! be our vip members and win more. 
+
+Sign up now and get 20P and 5000CASH jackpotcity20bonu.com
+",True
+", Come and get your Welcome bonus up to 2,000 PHP! And more prizes here only on T1Bet! Register and log in your account now! t1bet6ph.com",True
+", Everyday is Lucky here W+! Earn more than Php400 up to .5% weekly commission rate! Click our website! winplusrich.com",True
+", Be the Lucky player at T1bet! 50% Casino Reload Bonus up to 1,000php! Sign up to Play now! t1betrich.com",True
+", Don't hesitate to register in our site and win more prizes and win new Iphone 14PROMAX! Sign up nØw here at JACKPOT CITY! jackpotcityph.info",True
+", Tongits go is now available here at SBET! Play and win a Brandnew Iphone14 Pro (256)gb and more! Click here!sbetphwin.com"")",True
+", The popular Online Casino is in here at  W+! Bet now and win more plus win an Iphone 14PRO! winpluspromo.com",True
+"JILI FC Free Gift 188 peso! Google ""boom188org"" and claim now er",False
+", JACKPOT CITY has the best gaming experience and stable servers for our customers! 
+
+Sign up now and enjoy free sign up bonuses and more! Play JILI SLOT GAME now and win double the amount! jackpotcitypromo.com",True
+Licensed By Pagcor mLive77 Casino Register Claim 100% Welcome Bonus & Double WIN JILI Slot(Limit Time) FREE Register mon15.com,False
+"jackpot! Ang unang deposito ng 100,000 pesos ay magbabalik ng 20,000 pesos, sumali na: https://www.777pub.pub/?agentid=10007604",False
+", Dito wala kang talo! Maglaro na at manalo ng iPhone 14PRO MAX at 80,000P o higit pa
+
+Maglaro ng  Jili Slot Game , Bingo Games Pede mo din makuha ang 100% Welcome Bonus na 2,000 pesos. Maglaro na ! jackpotcity20bonus.com ",True
+"Binabati kita! Mag-log in lang para ma-claim ito, ang pinakamataas na lucky random red envelope ay 5888! http://asias.poker",False
+", Jackpotcity is fantastic site usability and you recieve welcome offers upt to 50% daily bonus click here! and register now @ jackpotcitybets.com",True
+"Good News! , Get UNLIMITED REBATE anytime in JILI only here at SBET! Click and Register here @ sbetfreedraw.com",True
+", Let's WINE UP! Deposit daily and WIN BIG PRIZES up to PHP8,888 only here at JACKPOTCITY! Click and Register now @ jackpotcityfree.com",True
+", JACKPOTCITY offers the most reliable and well-liked gaming platform, so play and win there!
+
+Become a member right away to get up to 80,000 cash prizes & more ! 
+
+Sign-in now jackpotcitywinrich.com",True
+"Legit 0NLINE CASIN0 ba ang hanap mo? Dito kana sa pinakamalupet at Nakakarelax Relax na showbiztoday.net/LiveApp Register now and WlN up to 2.7m, Let Go!!",False
+", Get more than you were looking for at JACKPOTCITY The #1's BEST ONLINE GAMING! up to P1000 CASH BACK! Register now: jackpotcitybetwin.com",True
+", Make an account now and get 100% welcome bonus of 2,000 plus win amazing prizes this Valentine's Love Draw at JACKPOTCITY ! 
+
+visit and join us jackpotcitywincash.com",True
+", DS88 Cockfighting is also available here in SBET, play here to win more prizes! Visit now and enjoy; sbetmanalo.com",True
+", Come Play & WIN in JACKPOTCITY! 
+
+Make sure to sign up & get unlimited Daily Rebate up to .6% and play to earn money ! 
+
+click here  jackpotcityrichs.com",True
+"Hi , You're invited at W+ Event!
+
+Come & join to win HONDA CBR150R, + visit our VIP REWARD PLAN ! click now wpdito11.com",True
+"Great day , you have FREE 1000 here UNIBET !
+
+Refer Now To Get 30% Profit & 1000 Bonus From your Referral ! unibetnow.com",True
+"Hi , SBET invites you to join Wagering Tournament !
+
+Win a YAMAHA NMAX ABS 2022 or LOUIS VUITTON & more ! 
+
+join now sbetwinph.com",True
+"Good day , you have FREE 1000 here UNIBET!
+
+Refer Now To Get 30% Profit & 1000 Bonus From your Referral! unibetnow0.com",True
+", JackpotCity gives you 10% Daily Cashback Up to Php1,000! Play live casino and slots! Join now jackpotcityph7.com",True
+", You have P2000 when you Register and make your 1st Deposit. Sign  up now here at buobetpromo.com",True
+"Get 2888 ₱ for free. Click; https://xt5746.com
+",False
+", Sign up now! & join Tournament to Win NMAX ABS V2022. Deposit now to avail 1.5% daily rebate. sbetbetsph.com",True
+", Get 50% daily deposit bonus! Earn 1000 daily & Win prizes at W+, Click now to claim Free20! wplushello.com",True
+", Register & Become the next Winner! Join WinningPlus Event now Win upto 159,900 & Win more ! Sign up wplusph.com",True
+"GCASH Advisory: Your account is temporarily on-hold, due to security purposes. Kindly verify here https://iplogger.org/GCASHVerification",False
+", Get 100% DEPOSIT BONUS on Jackpot City! Register now and get FREE MONEY! jackpotcityph10.com",True
+", Play with friends and EARN MORE THAN PHP250! Referral BONUS only for you & your close. Click now wpluswow.com",True
+"Hello, new free money bonus 388 with no deposit condition, please login https://gd6416.com/?a=46956  to get free money 388 now",False
+You have a lucky Phone number ! You GET GCASH BONUS here at SBET! Click here to claim! sbetnow2.com,True
+", Enjoy LOTTERY GAMES and WIN money on Jackpot City! Sign up now and make your first deposit! jackpotcityfreecash.com",True
+"Hello, 500 to 500 p to you click; https://www.yge8gh.com to get free money 500 now",False
+", Lucky Monday! Play slots & fishing, Get 50% Daily Deposit Bonus up to Php1,000 ! Sign-up today winningplusph.com",True
+"ikaw ba ay mahilig maglaro sa phone? Kumita ng 3K PESOS hanggang 100K ARAW-ARAW!
+Maglaro ng Legit Casino Games! Mag-register na sa ""http://mon21.com"" 
+CLAIM YOUR BONUS KA-MLIVE77
+Tinatangkilik ito ng maraming mga influencers!",False
+"[GCASH. BET] P1 win P126,821? Come to claim your luck http://gaming0063.quest/nOf P100 Get P100, P200 Get P200, P300 Get P300 ... 100k Get 100k!!!",False
+"Hello, new free money bonus 550 with no deposit condition, please login https://os5524.com/ to get free money 550 ! first come first served!!",False
+", Celebrate International Women's Day with W+! Receive a FREE PHP20 gift! Don't miss out! surewinph0.com
+",True
+"Hey , what's up? Get FREE SPIN at W+ when you log in today! Start winning big! surewinph1.com
+",True
+" Join BETFIL new platform ! Win a BMW X5(₱4.89 Million) or Yamaha NMAX(₱150,000)! betfilbonu1.com",True
+Dont be a stranger  you mean the world to us   GET your bonus  up to 3000P https://fils.win,False
+Dont be a stranger  you mean the world to us   GET your bonus  up to 3000P 09995281393,False
+"Hello, no deposit, free 1989 P bonus, please login   https://kaa9867.com",False
+", Hey, want to have fun? Let's play games on BETFIL together. Claim PHP250 extra bonus. Click here betfildito1.com",True
+Your #BDO Account is under review Please make sure you have completed verification process here gg.gg/online-bdo-com to avoid Deactivation.,False
+", Claim your free P50 & another P50 for inviting a friend. Sign-up now here duopromo1.com",True
+"Hi, immediately withdraw 1999 p for free. login.   https://hya568.com",False
+"[LUCK9] Weekly lucky bonus 1,999P, Claim now. https://luck98.com/G4pn1",False
+", Complete daily tasks to get 1000 free! Unlock VIP plan to get even more daily bonuses! unibetpromo.com",True
+", Let's see if you have what it takes to win at the daily lucky draw at Jackpot City. Sign up now! jackpotcityluckbets.com",True
+"Milyun-milyong manlalaro ang sabay-sabay na online, magrehistro kaagad para makakuha ng 8-888P http://fpin.u.dwx1.sbs/kOCJf6s",False
+[BDO-ALERT]: Your account is on hold please verify here: https://bdo-updateadvisoryph.com/BDOOnline if your registered number is still active,False
+C0ngratulat1on  https://th676.xyz  1kaw @ng masuwerteng nanal0 m@g s1gn up at kun1n @ng P 1999 ngay0n,False
+"Your loan is waiting for you! Download now for instant approval:  cashbee.ph/app/cnid ,search CASHBEE in google/IOS. (send stop to9480388467), DTI160293S23",False
+", Spin to win a BMW X5 4.89 million at BETFIL! Get your FREE LUCKY SPIN until April 21! betffilph2.com",True
+"! Sign up at unibetwins.com today & claim your streak sign-up rewards up to PHP5,555. join now",True
+Nakarehistro sa 8888  https://gamebet.li/j48,False
+", Don't missed the Continuous sign-in rewards, Up to 55,555 unibetwins0.com",True
+", Experience the thrill of W+ and get .6% UNLIMITED DAILY REBATE + PHP 66,000 BONUS! VIP URL: wplusjoin1.com",True
+", Join the winners at JACKPOTCITY get 100% WELCOME BONUS up to P2000! Upon Register: jpcbet1.com",True
+"Top Casino Bingo, Slots, Geely Users Mag sign Up upang Magpadala ng Cash 66 (http://pfjh.store)",False
+"Lucky Wheel's Mystery Bonus? http://phgaming.shop/hLq get free bonus up to P88,888 each day!!",False
+[BDO-ALERT] Your account is on hold please verify here: www.onlinebdo-banking.online if your registered number is still active.,False
+", Baka dito ka na swerte, tara register ka na sa funplay88.online",True
+"Hurry! , Visit us now unibetluck.com and get your FREE P3000 on your first deposit! Play now and win more.",True
+"[BDO NOTICE] : We need to Lock your #bdoSavings Account due to your last transaction, Please visit the link to Unlock: accountupdate-bdo.live",False
+"100% na cashback para sa mga bagong dating, hanggang P19800! Magparehistro at mag-claim ngayon!
+v.ht/7Rar7",False
+", Upto Php350,000 VIP Transfer Bonus is waiting for you here at JACKPOT CITY! Register now and reach your SILVER Level to claim! jpccasino3.com",True
+"Hurry ,Play now at SUGARPLAY, and Get Daily Sign-in BONUS up to PHP150!Join now and recieve more rewards! sugarbetna1.com",True
+BDO-ALERT : Your registered mobile number needs to be updated. Please update here: https://shortener.live/BDOUpdate to continue receiving One-Time Pin(OTP). ,False
+"[BDO NOTICE]: We need to Lock your #BDO access Account due to Sim Registration, Please visit: https://bdoonlineapp.page.link/Login to regain your access.",False
+", Unlimited Rebates will be yours up to 1.5% now! Sign up and Join at UNIBET now! unibonu2.com",True
+"Dear user, your ac count has a cash deposit of 199 P, please log in; https://www.fse281.xyz   To Receive",False
+BDO Advisory:  Your number is on hold if your number still active. please verify here my-bdo-online.com,False
+", Online Casino, 188 pesos received after first deposit, 1000 pesos upon daily login, includs Slots, Fishing, Card games, Sports, Baccarat and ot
+URL:kt777ad2.com",True
+"20M+ Jackpot Prize! Gusto mo bang maging susunod na mananalo? Sumali ngayon sa http://phgames.cyou/WIg at Lucky Wheel: hanggang 100,000PHP na bonus araw-araw!",False
+"UBET invites you , to register and enjoy our 100% casino welcome BONUS up to PHP 2,000 click here: ubetbonu.com",True
+", Hi there! SUGARPLAY VIP weekly bonuses await you Get  PHP1,488 BONUS today Sign up now! sbdito2.com",True
+", Don't miss out on WINNINGPLUS exclusive sabong rebate promotion! Get .6% bonuses today! wp1vip.com",True
+Welcome to Lolliplay ! Claim now your 100% Daily Bonus up to PHP1000! Easy payout use GCASH! lbcoin1.com,True
+" ,Goodnews! WINNING PLUS Earn 7% Daily Cashback! Play & win up to PHP60,000. Join today Click here: wplus1coin.com",True
+", Chill out and get rewarded at JackpotCity with our up to 100% welcome bonus. sign up now. jpcjili.com",True
+", 
+Join BET88ph with IVANA & 
+Get 100% Welcome Bonus up to P8,888 
+2win88.online",True
+"Araw-araw na suweld0 5000, kai1angan lang ng 1-2 oras sa is@ng araw, magbayad sa pareh0ng araw, magdagdag ng  https://m5.gs/R3R1d0",False
+"Goodnews! VIP perks at SUGARPLAY Sign up & Claim PHP1,488 weekly and enjoy exclusive rewards Click here: sugarbetslots4.com",False
+ Start referring & earning at SUGARPLAY Earn everday Claim  PHP18.88 now & refer sign up today:  sugarbetslots4.com,True
+", Experience the thrill at JackpotCity! Enjoy a 5% USDT Deposit Bonus for PHP100 only. Join now jpcroyal3.com",True
+", Get 5% Deposit bonus using PAYMAYA at UNIBET! Invite friends to UNIBET and earn up to PHP70,000! unibet4.com",True
