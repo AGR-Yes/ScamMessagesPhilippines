@@ -16,7 +16,7 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 | Notebook | Description | Status |
 |-------------|-------------|:-------------:|
 | `PhilippineSpamSMS_Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
-| `PhilippineSpamSMS_Phase_2.ipynb` |  **N/A** | **In Progress** |
+| `PhilippineSpamSMS_Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to get the most frequent words and removing unnecessary strings. | **Complete** |
 | `PhilippineSpamSMS_Phase_3.ipynb` |  **N/A** | **Not Yet Started** |
 | `Dashboard.py` |  **N/A** | **Not Yet Started** |
 
@@ -25,6 +25,7 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 * Exploratory Data Analysis (EDA)
 * Data preprocessing
 * Data cleaning
+* Natural Language Processing
 
 
 ### 💽 Technologies
