@@ -16,7 +16,7 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 | Notebook | Description | Status |
 |-------------|-------------|:-------------:|
 | `PhilippineSpamSMS_Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
-| `PhilippineSpamSMS_Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to get the most frequent words and removing unnecessary strings. | **Complete** |
+| `PhilippineSpamSMS_Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to using NLP and predicted the labels for the unclassified texts. | **Complete** |
 | `PhilippineSpamSMS_Phase_3.ipynb` |  **N/A** | **Not Yet Started** |
 | `Dashboard.py` |  **N/A** | **Not Yet Started** |
 
@@ -26,6 +26,7 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 * Data preprocessing
 * Data cleaning
 * Natural Language Processing
+* Model training
 
 
 ### 💽 Technologies
@@ -36,13 +37,16 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 
 
 ---
-<!---
+
 ## 📁 Project Description
 ### 📃 Project Overview
-More detailed introduction
---->
+This project aims to collate, dig deeper, and visualize datasets of Spam Texts in the Philippines. Backed up by research, the end goal of this project is to create a dashboard that shows data but also tells a story of how data privacy and hacking became a concern during the pandemic.
 
-### 🗄️ Data Sources
+However, before the creation of the dashboard, data mining and natural language processing techniques were done to clean and extract text data.
+
+
+
+### 🗄️ Datasets
 ***No Webscraping was done***
 
 *Links of datasets to follow*
@@ -59,6 +63,8 @@ More detailed introduction
 #### **Networks**
 > Contains the available numbers/indicators for a number associated with a network. This was used to help clean up the Google Sheet dataset.
 
+#### **Tagalog Stopwords**
+> A `.txt` file that contains Tagalog stopwords to add and extend the stopwords from the built-in stopwords from the `nltk` library.
 
 <!---
 #### [Source](link)
@@ -90,6 +96,7 @@ First off, thanks for considering to contribute to this project! Contributions a
 - Implementing a new feature
 - Discuss potential ways to improve project
 - Adding another graph/plot
+- Adding more datasets or Philippine-based data for the model
 
 **Just make sure that your contributions or reports are:**
 
