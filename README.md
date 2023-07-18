@@ -15,10 +15,10 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 ### 📓 Files/Folders
 | Notebook | Description | Status |
 |-------------|-------------|:-------------:|
-| `PhilippineSpamSMS_Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
-| `PhilippineSpamSMS_Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to using NLP and predicted the labels for the unclassified texts. | **Complete** |
-| `PhilippineSpamSMS_Phase_3.ipynb` |  **N/A** | **In Progress** |
-| `Dashboard.py` |  **N/A** | **Not Yet Started** |
+| `Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
+| `Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to using NLP and predicted the labels for the unclassified texts. | **Complete** |
+| `Phase_3.ipynb` |  Created preliminary visuals and charts to put into the dashboard. Also includes the other information to put for the dashboard's content | **Complete** |
+| `app.py` |  **N/A** | **In progress** |
 
 
 ### 🧬 Methods Used
@@ -34,6 +34,7 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 * jupyter
 * VSCode
 * Google Sheets
+* Google Docs
 
 
 ---
@@ -43,7 +44,6 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 This project aims to collate, dig deeper, and visualize datasets of Spam Texts in the Philippines. Backed up by research, the end goal of this project is to create a dashboard that shows data but also tells a story of how data privacy and hacking became a concern during the pandemic.
 
 However, before the creation of the dashboard, data mining and natural language processing techniques were done to clean and extract text data.
-
 
 
 ### 🗄️ Datasets
