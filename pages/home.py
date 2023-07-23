@@ -55,15 +55,60 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 dbc.Col(
                     html.Div(
                         [
-                            html.H1('Test'),
-                        ]
+                            html.P(
+                                '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+                                '''
+                                ),
+                            
+                            html.Br(),
+
+                            html.Div(
+                                [
+                                html.H1('Test'),
+                                html.P(
+                                    '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+                                    '''
+                                )
+                            ], style = {"border": "1px black solid",
+                                     "padding": "10px",
+                                     'whiteSpace': 'pre-wrap'}
+                            ),
+                        ], 
                     ), width=4
                 ),
                 dbc.Col(
                     html.Div(
                         [
-                            html.H1('Test'),
-                        ]
+                            html.Br(),
+                            html.Div(
+                                [
+                                html.H1('Test'),
+                                html.P(
+                                    '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+                                    '''
+                                )
+                            ], style = {"border": "1px black solid",
+                                     "padding": "10px",
+                                     'whiteSpace': 'pre-wrap'}
+                            ),
+
+                            html.Br(),
+                            html.Div(
+                                [
+                                html.H1('Test'),
+                                html.P(
+                                    '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+                                    '''
+                                )
+                            ], style = {"border": "1px black solid",
+                                     "padding": "10px",
+                                     'whiteSpace': 'pre-wrap'}
+                            ),
+                        ], 
                     ), width=4
                 ),
                 dbc.Col(

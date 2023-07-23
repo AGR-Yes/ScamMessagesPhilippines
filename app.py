@@ -37,7 +37,7 @@ HEADER_STYLE = {
 
 #---------------------------------#
 #APP
-app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP, "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"])
 
 #---------------------------------#
 # APPLICATION LAYOUT
@@ -50,15 +50,25 @@ app.layout = html.Div(
         "width": "90%",
         "height": "100vh"
     },
-    children=[
-        html.H1("Sino 'To?!", style=HEADER_STYLE),
 
-        # Navbar
-        html.Div([
-            dcc.Link('Home', href='/home'),
-            html.Span(' | '),
-            dcc.Link('Content', href='/content')
-        ]),
+    children=[
+        dbc.NavbarSimple(
+    children=[
+        dbc.NavItem(dbc.NavLink("Home", href="/home")),
+        dbc.NavItem(dbc.NavLink("Content", href="/content")),
+    ],
+    brand="Sino 'To?!",
+    brand_href="/home",
+    color="black",
+    dark=True,
+    style={
+        "font-family": "'Press Start 2P', display",  # Use Press Start 2P font
+        "font-size": "20px",
+        "padding": "20px",
+    }
+),
+        
+        
 
         # Horizontal centering of page content
         html.Div(
