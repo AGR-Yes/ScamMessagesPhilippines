@@ -63,7 +63,7 @@ app.layout = html.Div(
     dark=True,
     style={
         "font-family": "'Press Start 2P', display",  # Use Press Start 2P font
-        "font-size": "20px",
+        "font-size": "10px",
         "padding": "20px",
     }
 ),

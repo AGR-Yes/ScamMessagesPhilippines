@@ -9,19 +9,16 @@ import plotly.express as px
 dash.register_page(__name__)
 
 layout = html.Div(
-#    style={
-#        "display": "flex",
-#        "flex-direction": "column",
-#        "align-items": "center",
-#        "height": "100vh",
-#    },
     children=[
         dbc.Row(
             children=[
                 dbc.Col(
                     html.Div(
                         [
-                            html.H1('Who is this?!', style={"margin-top": "10px"}),
+                            html.P("'Who is this?!'", style={"margin-top": "10px",
+                                                            'font-style': 'italic',
+                                                            "font-family": "'Press Start 2P', display",
+                                                            "padding": "20px"}),
                             html.Div(
                                 html.P(
                                     """
@@ -72,8 +69,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                     '''
                                 )
                             ], style = {"border": "1px black solid",
-                                     "padding": "10px",
-                                     'whiteSpace': 'pre-wrap'}
+                                        "border-radius": "10px",
+                                        "padding": "10px",
+                                        'whiteSpace': 'pre-wrap'}
                             ),
                         ], 
                     ), width=4
@@ -91,8 +89,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                     '''
                                 )
                             ], style = {"border": "1px black solid",
-                                     "padding": "10px",
-                                     'whiteSpace': 'pre-wrap'}
+                                        "border-radius": "10px",
+                                        "padding": "10px",
+                                        'whiteSpace': 'pre-wrap'}
                             ),
 
                             html.Br(),
@@ -105,8 +104,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                     '''
                                 )
                             ], style = {"border": "1px black solid",
-                                     "padding": "10px",
-                                     'whiteSpace': 'pre-wrap'}
+                                        "border-radius": "10px",
+                                        "padding": "10px",
+                                        'whiteSpace': 'pre-wrap'}
                             ),
                         ], 
                     ), width=4
