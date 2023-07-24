@@ -37,7 +37,13 @@ HEADER_STYLE = {
 
 #---------------------------------#
 #APP
-app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP, "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"])
+app = dash.Dash(__name__, use_pages=True, 
+                external_stylesheets=[
+                    dbc.themes.BOOTSTRAP, 
+                    "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap", 
+                    "https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap"
+                    ]
+            )
 
 #---------------------------------#
 # APPLICATION LAYOUT
@@ -56,7 +62,7 @@ app.layout = html.Div(
     children=[
         dbc.NavItem(dbc.NavLink("Home", href="/home")),
         dbc.NavItem(dbc.NavLink("Content", href="/content")),
-    ],
+    ], 
     brand="Sino 'To?!",
     brand_href="/home",
     color="black",

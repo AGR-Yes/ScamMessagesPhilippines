@@ -25,7 +25,12 @@ layout = html.Div(
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
                                     """
                                 ),
-                                style={"border": "1px", "whiteSpace": "pre-wrap"},
+                                style={
+                                    "border": "1px", 
+                                    "whiteSpace": "pre-wrap",
+                                    #add left padding
+                                    "padding-left": "20px",
+                                    },
                             ),
                         ]
                     ),
