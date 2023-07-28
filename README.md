@@ -105,9 +105,10 @@ First off, thanks for considering to contribute to this project! Contributions a
 - *Unique*. Do not duplicate existing opened issues.
 
 ---
-
+<!---
 ## 📬 Contact Me
 > ### [Email](AntonReyes.work@gmail.com)
 > ### [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
 > ### [Portfolio](https://agrstudios.wixsite.com/portfolio/)
 > ### [Discord](https://discord.gg/v4PzDC2R6T)
+--->

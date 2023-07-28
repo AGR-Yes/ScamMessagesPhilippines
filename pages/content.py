@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 dbc.Col( 
                     html.Div([
                         
-                        html.Img(src='https://placehold.co/600X300', alt='Placeholder Image', 
+                        html.Img(src='https://placehold.co/650X300', alt='Placeholder Image', 
                                  style={"align": "right",
                                         "position": "relative"})
 

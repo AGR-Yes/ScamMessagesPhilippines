@@ -62,6 +62,8 @@ app.layout = html.Div(
     children=[
         dbc.NavItem(dbc.NavLink("Home", href="/home")),
         dbc.NavItem(dbc.NavLink("Content", href="/content")),
+        dbc.NavItem(dbc.NavLink("project", href="/project")),
+#        dbc.NavItem(dbc.NavLink("Content", href="/content")), #copy-paste this line to add more to the navbar       
     ], 
     brand="Sino 'To?!",
     brand_href="/home",
