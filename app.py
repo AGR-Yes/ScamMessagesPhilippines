@@ -48,21 +48,21 @@ app = dash.Dash(__name__, use_pages=True,
 #---------------------------------#
 # APPLICATION LAYOUT
 app.layout = html.Div(
-    style={
-        "position": "absolute",
-        "left": "50%",
-        "top": "50%",
-        "transform": "translate(-50%, -50%)",
-        "width": "90%",
-        "height": "100vh"
-    },
+    #style={
+    #    "position": "absolute",
+    #   "left": "50%",
+    #    "top": "50%",
+    #   "transform": "translate(-50%, -50%)",
+    #    "width": "90%",
+    #    "height": "100vh",
+    #},
 
     children=[
         dbc.NavbarSimple(
     children=[
         dbc.NavItem(dbc.NavLink("Home", href="/home")),
         dbc.NavItem(dbc.NavLink("Content", href="/content")),
-        dbc.NavItem(dbc.NavLink("project", href="/project")),
+        dbc.NavItem(dbc.NavLink("About", href="/about")),
 #        dbc.NavItem(dbc.NavLink("Content", href="/content")), #copy-paste this line to add more to the navbar       
     ], 
     brand="Sino 'To?!",

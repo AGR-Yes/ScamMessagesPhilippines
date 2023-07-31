@@ -10,6 +10,10 @@ import plotly.graph_objects as go
 dash.register_page(__name__)
 
 layout = html.Div(
+    style={
+        "background-color": "black",
+    },
+
     children=[
         
 #Title

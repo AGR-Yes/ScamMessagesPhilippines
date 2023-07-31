@@ -9,6 +9,10 @@ import plotly.express as px
 dash.register_page(__name__)
 
 layout = html.Div(
+    style={
+        "background-color": "black",
+    },
+    
     children=[
         dbc.Row(
             children=[
