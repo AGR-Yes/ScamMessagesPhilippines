@@ -10,6 +10,8 @@ dash.register_page(__name__)
 layout = html.Div(
     style={
         "background-color": "black",
+        "margin-left": "auto",
+        "margin-right": "auto",
     },
     
     children=[
@@ -24,7 +26,10 @@ layout = html.Div(
                             html.Img(src='https://placehold.co/500X400', alt='Placeholder Image', 
                                         style={"align": "right",
                                                 "position": "relative", 
-                                                "margin-top":"60px"}),
+                                                "margin-top":"60px",
+                                                "width": "80%",
+                                                "margin-left": "auto",
+                                                "margin-right": "auto",}),
                         ]), width = 6, 
                     ),
                     
@@ -40,12 +45,16 @@ layout = html.Div(
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
+                                        "color": "#C8F9E7"
                                         }),  
                                 
                                 html.P(
                                         """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """
+                                        """,
+                                        style={
+                                            "color": "#C8F9E7",
+                                        }
                                 ), 
                                 
                                 #Content 
@@ -54,12 +63,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
+                                        "color": "#C8F9E7"
                                         }),  
                                 
                                 html.P(
                                         """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """
+                                        """,
+                                        style={
+                                            "color": "#C8F9E7",
+                                        }
                                 ), 
 
                                 
@@ -79,12 +92,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
+                                        "color": "#C8F9E7"
                                         }),  
                                 
                                 html.P(
                                         """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """
+                                        """,
+                                        style={
+                                            "color": "#C8F9E7",
+                                        }
                                 ), 
                                 
                                 #Content 
@@ -93,12 +110,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
+                                        "color": "#C8F9E7"
                                         }),  
                                 
                                 html.P(
                                         """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """
+                                        """,
+                                        style={
+                                            "color": "#C8F9E7",
+                                        }
                                 ), 
                             ]),
                             ]), width = 3,  # column width
@@ -124,6 +145,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 "width": "80%",
                                 "margin-left": "auto",
                                 "margin-right": "auto",
+                                "color": "#C8F9E7"
                                 }
                 ),
             ])
@@ -140,9 +162,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
                     """,
                     style={
-                            "margin-top": "60px",
-                            "font-family": "'Roboto', serif",
-                            "padding": "5px"
+                            "margin-top" : "60px",
+                            "margin-left" : "30px",
+                            "font-family" : "'Roboto', serif",
+                            "padding" : "5px",
+                            "color" : "#C8F9E7"
                     })
                 ]), width = 8, 
             ),
@@ -164,7 +188,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             "margin-top": "60px",
                             "text-align":"right",
                             "font-family": "'Roboto', serif",
-                            "padding": "5px"
+                            "padding": "5px",
+                            "color": "#C8F9E7"
                     })
                 ]), width = 8, 
             ),

@@ -12,7 +12,7 @@ layout = html.Div(
     style={
         "background-color": "black",
     },
-    
+
     children=[
         dbc.Row(
             children=[
@@ -22,6 +22,8 @@ layout = html.Div(
                             html.P("'Who is this?!'", style={"margin-top": "10px",
                                                             'font-style': 'italic',
                                                             "font-family": "'Press Start 2P', display",
+                                                            'font-size': '20px',
+                                                            "color": "#C8F9E7",
                                                             "padding": "20px"}),
                             html.Div(
                                 html.P(
@@ -32,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 style={
                                     "border": "1px", 
                                     "whiteSpace": "pre-wrap",
-                                    #add left padding
+                                    'color':'#C8F9E7',
                                     "padding-left": "20px",
                                     },
                             ),
@@ -64,7 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.P(
                                 '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
-                                '''
+                                ''', 
+                                style = {"padding": "10px",
+                                        'color':'#DCC2FF',
+                                        'whiteSpace': 'pre-wrap'}
                                 ),
                             
                             html.Br(),
@@ -77,9 +82,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
                                     '''
                                 )
-                            ], style = {"border": "1px black solid",
+                            ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
+                                        'color':'#DCC2FF',
                                         'whiteSpace': 'pre-wrap'}
                             ),
                         ], 
@@ -97,9 +103,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
                                     '''
                                 )
-                            ], style = {"border": "1px black solid",
+                            ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
+                                        'color':'#DCC2FF',
                                         'whiteSpace': 'pre-wrap'}
                             ),
 
@@ -112,9 +119,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
                                     '''
                                 )
-                            ], style = {"border": "1px black solid",
+                            ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
+                                        'color':'#DCC2FF',
                                         'whiteSpace': 'pre-wrap'}
                             ),
                         ], 

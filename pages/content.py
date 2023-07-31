@@ -28,6 +28,7 @@ layout = html.Div(
                                 'font-size': '50px',
                                 "font-family": "'Press Start 2P', display",
                                 "padding": "5px",
+                                "color": "#C8F9E7"
                                 }), 
                     html.Br(),
                     html.P(
@@ -42,6 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 "width": "80%",
                                 "margin-left": "auto",
                                 "margin-right": "auto",
+                                "color": "#C8F9E7"
                                 }),
 
                     ]), 
@@ -59,6 +61,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                     html.H2("Chart Title", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
+                                "width": "90%",
+                                "margin-left": "auto",
+                                "margin-right": "60px",
+                                "color": "#C8F9E7"
                                 })
                 ]),
 
@@ -75,6 +81,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         "border": "1px", 
                                         "whiteSpace": "pre-wrap",
                                         "padding-left": "10px",
+                                        "width": "80%",
+                                        "margin-left": "auto",
+                                        "margin-right": "auto",
+                                        "color": "#C8F9E7"
                                     },
                             ),
                         ]
@@ -111,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                            
                             html.Img(src='https://placehold.co/500X350', alt='Placeholder Image', 
                                  style={"align": "right",
-                                        "position": "fixed"}),
+                                        "position": "relative"}),
 
 
                         ] 
@@ -136,10 +146,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             ], style = {"border": "1px black solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
-                                        'whiteSpace': 'pre-wrap'},                                
+                                        'whiteSpace': 'pre-wrap',
+                                        #"width": "80%",
+                                        "margin-left": "auto",
+                                        "margin-right": "auto",
+                                        "color": "#C8F9E7"},                                
                             ),
                             html.Br(),
-                            html.H1('Test')
+                            html.H1('Test',
+                                    style={
+                                        "font-family": "'Press Start 2P', display",
+                                        "color": "#C8F9E7",
+                                    })
 
                         ], 
                     ), width=5
@@ -172,6 +190,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             #"width": "80%",
                             "margin-left": "auto",
                             "margin-right": "auto",
+                            "color": "#C8F9E7"
                             }),
                 ])
             ]
