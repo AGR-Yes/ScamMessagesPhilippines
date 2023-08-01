@@ -49,34 +49,28 @@ However, before the creation of the dashboard, data mining and natural language 
 ### 🗄️ Datasets
 ***No Webscraping was done***
 
-*Links of datasets to follow*
-
 #### **Scam SMS Report**
-> An open-to-all Google Sheet for users to input the numbers of scammers and the type of message that was received (lotto, casino, etc.) The file also contained the number of networks, text message itself and if it contains the name of the receiver.
+> An open-to-all Google Sheet for users to input the numbers of scammers and the type of message that was received (lotto, casino, etc.) The file also contained the number of networks, text message itself and if it contains the name of the receiver. *The link of this dataset will not be shared as it contains a sheet with personal data of other people.*
 
-#### **Spam SMS**
+#### [**Spam SMS**](https://www.kaggle.com/datasets/bwandowando/philippine-spam-sms-messages)
 > According to the creator of the dataset, *Bwandowando*, the rise of spam SMS messages increased since the beginning of the COVID-19 pandemic. This dataset consisted of texts that *Bwandowando* received from November 12, 2022, to May 30, 2023. 
 
-#### **Text Scams Incidents Philippines 2019 by Region**
+#### [**Text Scams Incidents Philippines 2019 by Region**](https://www.statista.com/statistics/1136130/philippines-number-of-sms-fraud-or-text-scams-incidents-by-region/)
 > This contains the number of scam texts received per region in thousands.
 
-#### **Networks**
+#### [**Networks**](https://www.prefix.ph/prefixes/2023-complete-list-of-philippine-mobile-network-prefixes/)
 > Contains the available numbers/indicators for a number associated with a network. This was used to help clean up the Google Sheet dataset.
 
-#### **Tagalog Stopwords**
+#### [**Tagalog Stopwords**](https://github.com/stopwords-iso/stopwords-tl/blob/master/raw/genediazjr-tagalog.txt)
 > A `.txt` file that contains Tagalog stopwords to add and extend the stopwords from the built-in stopwords from the `nltk` library.
 
 <!---
-#### [Source](link)
-> Describe the source
-
-
 ### 📝 Problems Faced
 >* Insert problems
---->
+
 
 ---
-<!---
+
 ## 🖼️ Project Screenshots (if applicable)
 ![Alt text](image link)
 
@@ -105,10 +99,7 @@ First off, thanks for considering to contribute to this project! Contributions a
 - *Unique*. Do not duplicate existing opened issues.
 
 ---
-<!---
-## 📬 Contact Me
-> ### [Email](AntonReyes.work@gmail.com)
-> ### [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
-> ### [Portfolio](https://agrstudios.wixsite.com/portfolio/)
-> ### [Discord](https://discord.gg/v4PzDC2R6T)
---->
+
+## 📬 Contact Anton
+### [Email](AntonReyes.work@gmail.com)
+### [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
