@@ -20,16 +20,31 @@ layout = html.Div(
         dbc.Row( 
             children=[ 
                     
+                    html.Div([
+                        html.H1("About the Project", style={
+                            "text-align": "center",
+                            "padding": "30px",
+                            'font-size': '30px',
+                            "font-family": "'Press Start 2P', display",
+                            "color":"#DCC2FF",
+                            "text-shadow": "1px 1px 5px white",
+                            
+                        })
+                    ]),
+
+
+
 #Column 1
                     dbc.Col( 
                         html.Div([    
-                            html.Img(src='https://placehold.co/500X400', alt='Placeholder Image', 
-                                        style={"align": "right",
-                                                "position": "relative", 
-                                                #"margin-top":"60px",
-                                                "width": "100%",
-                                                "margin-left": "auto",
-                                                "margin-right": "auto",}),
+                            html.Img(src='https://cdn.vox-cdn.com/thumbor/8rF2keXrhL8sYlEbVbtaJpIC4qs=/0x10:500x291/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/59741997/n4scgse21iuz.0.jpg', alt='Placeholder Image', 
+                                        style={
+                                            "align": "right",
+                                            "position": "relative", 
+                                            #"margin-top":"60px",
+                                            "width": "100%",
+                                            "margin-left": "auto",
+                                            "margin-right": "auto",}),
                         ]), width = 6, 
                     ),
                     
@@ -41,16 +56,17 @@ layout = html.Div(
 
                                 #Content 
                                 html.P("'Who is this?!'", style={
-                                        #"margin-top": "30px",
-                                        'font-size': '30px',
+                                        "margin-top": "30px",
+                                        'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
-                                        "padding": "5px",
-                                        "color": "#C8F9E7"
+                                        #"padding": "5px",
+                                        "color": "#C8F9E7",
+
                                         }),  
                                 
                                 html.P(
                                         """
-This project aims to collate and visualize spam texts in the Philippines through datasets made available online. 
+'Sino `To?!' is a project that aims to visualize the spam texts in the Philippines.
                                         """,
                                         style={
                                             "color": "#C8F9E7",
@@ -59,16 +75,16 @@ This project aims to collate and visualize spam texts in the Philippines through
                                 
                                 #Content 
                                 html.P('Goal of the project', style={
-                                        #"margin-top": "60px",
-                                        'font-size': '30px',
+                                        "margin-top": "30px",
+                                        'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
-                                        "padding": "5px",
+                                        #"padding": "5px",
                                         "color": "#C8F9E7"
                                         }),  
                                 
                                 html.P(
                                         """
-The goal of Sino `To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
+The goal of this project is to clean the datasets gathered from the internet and make the data understandable to the general public.
                                         """,
                                         style={
                                             "color": "#C8F9E7",
@@ -81,9 +97,6 @@ The goal of Sino `To? (Who is this?!) is to clean the datasets gathered from the
                             ]), width = 5,  # column width
                     ),
 
-
-
-
                 ], 
         ),
 
@@ -93,7 +106,8 @@ The goal of Sino `To? (Who is this?!) is to clean the datasets gathered from the
             html.Div([
                 html.P(
                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+Remember when our emails used to have loads of spam? Well, to this day, no one is a stranger to these. Today, as we try to protect our phone numbers from being given to strangers, we find ourselves receiving spam text messages for the most random offers. And in some cases, scammers know our names and include them in their messages. 
+As technology advances, the risk of data privacy and hacking become more of a concern.
                     """,
                     style={
                                 "margin-top": "60px",
