@@ -75,7 +75,9 @@ app.layout = html.Div(
         ),
 
         # Location component to set default page
-        dcc.Location(id='url', refresh=False)
+        dcc.Location(id='url', refresh=False),
+
+
     ]
 )
 

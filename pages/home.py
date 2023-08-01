@@ -19,12 +19,18 @@ layout = html.Div(
                 dbc.Col(
                     html.Div(
                         [
-                            html.P("'Who is this?!'", style={"margin-top": "10px",
-                                                            'font-style': 'italic',
-                                                            "font-family": "'Press Start 2P', display",
-                                                            'font-size': '20px',
-                                                            "color": "#C8F9E7",
-                                                            "padding": "20px"}),
+                            html.Br(className="mt-4"),
+                            
+                            html.P("'Who is this?!'", 
+                                   style={
+                                        "margin-top": "10px",
+                                        'font-style': 'italic',
+                                        "font-family": "'Press Start 2P', display",
+                                        'font-size': '50px',
+                                        "color": "#C8F9E7",
+                                        "text-shadow": "1px 1px 5px white",
+                                        "padding": "10px"
+                            }),
                             html.Div(
                                 html.P(
                                     """
@@ -32,21 +38,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                     """
                                 ),
                                 style={
-                                    "border": "1px", 
+                                    "font-size": "15px", 
                                     "whiteSpace": "pre-wrap",
                                     'color':'#C8F9E7',
                                     "padding-left": "20px",
+                                    "padding-right":"30px",
                                     },
                             ),
                         ]
                     ),
-                    width=7,  # Adjust the width of the first column
+                    width=6,  # Adjust the width of the first column
                 ),
                 dbc.Col(
                     html.Div(
                         html.Img(src='https://placehold.co/500X600', alt='Placeholder Image')
                     ),
-                    width=5,  # Adjust the width of the second column
+                    width=6,  # Adjust the width of the second column
                     className="mt-4",
                 ),
             ],
@@ -76,7 +83,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 
                             html.Div(
                                 [
-                                html.H1('Test'),
+                                html.H1('Test',
+                                        style = {"text-shadow": "2px 2px 5px white",}),
                                 html.P(
                                     '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
@@ -97,7 +105,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Br(),
                             html.Div(
                                 [
-                                html.H1('Test'),
+                                html.H1('Test',
+                                        style = {"text-shadow": "2px 2px 5px white",}),
                                 html.P(
                                     '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
@@ -113,7 +122,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Br(),
                             html.Div(
                                 [
-                                html.H1('Test'),
+                                html.H1('Test',
+                                        style = {"text-shadow": "2px 2px 5px white",}),
                                 html.P(
                                     '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
