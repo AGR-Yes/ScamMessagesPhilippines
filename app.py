@@ -2,7 +2,6 @@ import dash
 from dash import Dash, dcc, html, Input, Output, dash_table, State
 import dash_bootstrap_components as dbc
 import plotly.express as px
-#from home import layout as home_layout
 
 #---------------------------------#
 #STYLING
@@ -90,4 +89,6 @@ def set_default_page(pathname):
 
 # ---------------------------------#
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True
+                   #comment this out when deploying the final app
+                   )

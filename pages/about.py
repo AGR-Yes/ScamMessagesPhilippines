@@ -26,8 +26,8 @@ layout = html.Div(
                             html.Img(src='https://placehold.co/500X400', alt='Placeholder Image', 
                                         style={"align": "right",
                                                 "position": "relative", 
-                                                "margin-top":"60px",
-                                                "width": "80%",
+                                                #"margin-top":"60px",
+                                                "width": "100%",
                                                 "margin-left": "auto",
                                                 "margin-right": "auto",}),
                         ]), width = 6, 
@@ -40,8 +40,8 @@ layout = html.Div(
                             html.Div([
 
                                 #Content 
-                                html.P('Title', style={
-                                        "margin-top": "60px",
+                                html.P("'Who is this?!'", style={
+                                        #"margin-top": "30px",
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
@@ -50,7 +50,7 @@ layout = html.Div(
                                 
                                 html.P(
                                         """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
+This project aims to collate and visualize spam texts in the Philippines through datasets made available online. 
                                         """,
                                         style={
                                             "color": "#C8F9E7",
@@ -58,8 +58,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 ), 
                                 
                                 #Content 
-                                html.P('Title', style={
-                                        "margin-top": "60px",
+                                html.P('Goal of the project', style={
+                                        #"margin-top": "60px",
                                         'font-size': '30px',
                                         "font-family": "'Press Start 2P', display",
                                         "padding": "5px",
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 
                                 html.P(
                                         """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
+The goal of Sino `To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
                                         """,
                                         style={
                                             "color": "#C8F9E7",
@@ -78,52 +78,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                 
                                 
                             ]),
-                            ]), width = 3,  # column width
+                            ]), width = 5,  # column width
                     ),
 
 
-#Column 3
-                    dbc.Col(
-                        html.Div([
-                            html.Div([
-                             #Content 
-                                html.P('Title', style={
-                                        "margin-top": "60px",
-                                        'font-size': '30px',
-                                        "font-family": "'Press Start 2P', display",
-                                        "padding": "5px",
-                                        "color": "#C8F9E7"
-                                        }),  
-                                
-                                html.P(
-                                        """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """,
-                                        style={
-                                            "color": "#C8F9E7",
-                                        }
-                                ), 
-                                
-                                #Content 
-                                html.P('Title', style={
-                                        "margin-top": "60px",
-                                        'font-size': '30px',
-                                        "font-family": "'Press Start 2P', display",
-                                        "padding": "5px",
-                                        "color": "#C8F9E7"
-                                        }),  
-                                
-                                html.P(
-                                        """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus.
-                                        """,
-                                        style={
-                                            "color": "#C8F9E7",
-                                        }
-                                ), 
-                            ]),
-                            ]), width = 3,  # column width
-                    ),
+
 
                 ], 
         ),
