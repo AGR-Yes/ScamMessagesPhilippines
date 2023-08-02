@@ -49,33 +49,31 @@ app = dash.Dash(__name__, use_pages=True,
 app.layout = html.Div(
 
     children=[
-        dbc.NavbarSimple(
-            children=[
-                dbc.NavItem(dbc.NavLink("Home", href="/home")),
-                dbc.NavItem(dbc.NavLink("Content", href="/content")),
-                dbc.NavItem(dbc.NavLink("About", href="/about")),
-        #        dbc.NavItem(dbc.NavLink("Content", href="/content")), #copy-paste this line to add more to the navbar       
-            ], 
-    brand="Sino 'To?!",
-    brand_href="/home",
-    color="black",
-    dark=True,
-    style={
-        "font-family": "'Press Start 2P', display",  # Use Press Start 2P font
-        "font-size": "10px",
-        "padding": "20px",
-    }
-),
-        
-        
-
-        # Horizontal centering of page content
-        html.Div(
-            dash.page_container,
-        ),
 
         # Location component to set default page
-        dcc.Location(id='url', refresh=False),
+        dcc.Location(id='url', refresh=False, pathname='/home'),
+
+        dbc.NavbarSimple(
+        children=[
+            dbc.NavItem(dbc.NavLink("Home", href="/home")),
+            dbc.NavItem(dbc.NavLink("Content", href="/content")),
+            dbc.NavItem(dbc.NavLink("About", href="/about")),
+            # Add more NavItems as needed
+        ],
+        
+        brand="Sino 'To?!",
+        brand_href="/home",
+        color="black",
+        dark=True,
+        style={
+            "font-family": "'Press Start 2P', cursive",
+            "font-size": "10px",
+            "padding": "20px",
+        }
+    ),
+
+    dash.page_container,
+
 
 
     ]
@@ -88,6 +86,7 @@ def set_default_page(pathname):
     if pathname is None or pathname == '/':
         return '/home'
     return pathname
+
 
 # ---------------------------------#
 if __name__ == '__main__':
