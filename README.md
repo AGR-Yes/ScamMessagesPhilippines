@@ -55,20 +55,24 @@ However, before the creation of the dashboard, data mining and natural language 
 #### [**Spam SMS**](https://www.kaggle.com/datasets/bwandowando/philippine-spam-sms-messages)
 > According to the creator of the dataset, *Bwandowando*, the rise of spam SMS messages increased since the beginning of the COVID-19 pandemic. This dataset consisted of texts that *Bwandowando* received from November 12, 2022, to May 30, 2023. 
 
-#### [**Text Scams Incidents Philippines 2019 by Region**](https://www.statista.com/statistics/1136130/philippines-number-of-sms-fraud-or-text-scams-incidents-by-region/)
-> This contains the number of scam texts received per region in thousands.
-
 #### [**Networks**](https://www.prefix.ph/prefixes/2023-complete-list-of-philippine-mobile-network-prefixes/)
 > Contains the available numbers/indicators for a number associated with a network. This was used to help clean up the Google Sheet dataset.
 
 #### [**Tagalog Stopwords**](https://github.com/stopwords-iso/stopwords-tl/blob/master/raw/genediazjr-tagalog.txt)
 > A `.txt` file that contains Tagalog stopwords to add and extend the stopwords from the built-in stopwords from the `nltk` library.
 
-<!---
+
 ### 📝 Problems Faced
->* Insert problems
+* Availability of Philippine-specific datasets
+* Handling massive amounts of unclean data
+    * One of the datasets was taken from a Google Sheet that was open-to-edit by anyone (Can be edited by those without being logged in to Google). There were standard categories to categorize these reports and there were rules and guidelines on how to use the file. Because it was publicly available, some rules were not followed and it messed with some of the formulas in the file.  
+* Categorizing data
+    * Due to one of the datasets being unclean, most of the cleaning time was dedicated to re-identifying the phone numbers and re-categorizing the type of spam message, and the column indicating if the text message included the recipient's name.
+* Identification of one dataset
+    * Since the dataset from Google Sheets was the main dataset for the project, another dataset was found with similar features. However, it lacked a column indicating the type of spam.
+* Low accuracy scores
 
-
+<!---
 ---
 
 ## 🖼️ Project Screenshots (if applicable)
@@ -101,5 +105,4 @@ First off, thanks for considering to contribute to this project! Contributions a
 ---
 
 ## 📬 Contact Anton
-### [Email](AntonReyes.work@gmail.com)
-### [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
+### [Email](AntonReyes.work@gmail.com) | [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
