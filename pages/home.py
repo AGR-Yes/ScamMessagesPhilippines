@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 ),
                 dbc.Col([
                     
-                    dcc.Graph(id="bar-chart", figure=fig, style={"padding":"10px"})
+                    dcc.Graph(figure=fig, style={"padding":"10px"})
 
                 ],
                     width=6,  # Adjust the width of the second column
