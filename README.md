@@ -13,12 +13,13 @@
 Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spam texts in the Philippines through datasets made available online. 
 
 ### 📓 Files/Folders
-| Notebook | Description | Status |
+| File | Description | Status |
 |-------------|-------------|:-------------:|
 | `Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
 | `Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to using NLP and predicted the labels for the unclassified texts. | **Complete** |
 | `Phase_3.ipynb` |  Created preliminary visuals and charts to put into the dashboard. Also includes the other information to put for the dashboard's content | **Complete** |
-| `app.py` |  **N/A** | **In progress** |
+| `app.py` |  The main file that connects all the other pages and files together to complete the dashboard | **In progress** |
+
 
 
 ### 🧬 Methods Used
@@ -44,6 +45,11 @@ Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spa
 This project aims to collate, dig deeper, and visualize datasets of Spam Texts in the Philippines. Backed up by research, the end goal of this project is to create a dashboard that shows data but also tells a story of how data privacy and hacking became a concern during the pandemic.
 
 However, before the creation of the dashboard, data mining and natural language processing techniques were done to clean and extract text data.
+
+### 📃 In Collaboration with *KakakompyuterMoYan!*
+KakaKompyuter Mo Yan! Is under the Philippine Internet Archive of Developph. The project aims to explore the Philippine internet and culture while digitally preserving what is seen, heard and put online. 
+
+The Philippine Internet Archive, a newly founded research institute, aims to preserve the idea that the history of the Philippine Internet is the history of the Filipino people. 
 
 
 ### 🗄️ Datasets
