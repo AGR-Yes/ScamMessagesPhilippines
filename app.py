@@ -56,7 +56,8 @@ app.layout = html.Div(
         dbc.NavbarSimple(
         children=[
             dbc.NavItem(dbc.NavLink("Home", href="/home")),
-            dbc.NavItem(dbc.NavLink("Content", href="/content")),
+            dbc.NavItem(dbc.NavLink("Spam", href="/spam")),
+            dbc.NavItem(dbc.NavLink("Privacy", href="/privacy")),
             dbc.NavItem(dbc.NavLink("About", href="/about")),
             # Add more NavItems as needed
         ],

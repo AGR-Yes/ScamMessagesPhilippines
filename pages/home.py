@@ -3,9 +3,29 @@ from dash import Dash, dcc, html, Input, Output, dash_table, State
 import dash_bootstrap_components as dbc
 import plotly.express as px
 
+import pandas as pd
 
 #---------------------------------#
+#DATASET
 
+top = pd.read_csv("Processed Datasets/top100_words.csv")
+
+#FIGURE
+fig = fig = px.bar(top[:20], x = 'word', y = 'count', title = 'Top 20 Words')
+
+fig.update_layout(height= 400)
+
+fig.update_layout(
+    plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
+    paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
+    font_color = "#C8F9E7",
+    font_family="'Space Grotesk', sans-serif",
+)
+
+fig.update_traces(marker=dict(color="#250DAB"))
+
+
+#---------------------------------#
 dash.register_page(__name__)
 
 layout = html.Div(
@@ -49,10 +69,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                     ),
                     width=6,  # Adjust the width of the first column
                 ),
-                dbc.Col(
-                    html.Div(
-                        html.Img(src='https://placehold.co/500X600', alt='Placeholder Image')
-                    ),
+                dbc.Col([
+                    
+                    dcc.Graph(id="bar-chart", figure=fig, style={"padding":"10px"})
+
+                ],
                     width=6,  # Adjust the width of the second column
                     className="mt-4",
                 ),
