@@ -70,8 +70,6 @@ number_fig.update_traces(marker=dict(color="#250DAB"))
 #---------------------------------#
 #time_fig
 
-
-
 time_fig = px.line(spam_time, x = 'time_of_day', y = 'count', title = 'Time of Day')
 
 
@@ -94,6 +92,25 @@ time_fig.update_layout(
 
 time_fig.update_traces(marker=dict(color="#250DAB"))
 time_fig.update_traces(line=dict(width=4))
+
+#---------------------------------#
+#day_fig
+
+day_fig = px.pie(spam_day, values='count', names='day', title='Proof Type')
+
+day_fig.update_layout(height=600)
+
+day_fig.update_layout(
+    plot_bgcolor='rgba(0, 0, 0, 0)',  
+    paper_bgcolor='rgba(0, 0, 0, 0)',  
+    font_color="#C8F9E7",  
+    font_family="'Space Grotesk', sans-serif",  # Font family
+)
+
+day_colors = ["#C8F9E7", "#c8daf9", "#f9c8da", "#f9e7c8", "#cfc8f9", "#f3f9c8", "#DCC2FF"]
+
+day_fig.update_traces(marker_colors=day_colors)
+
 
 #---------------------------------#
 
@@ -291,7 +308,65 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 ], style={"text-align": "center",
                           "padding": "20px"}
             )
-        ])
+        ]),
+
+        html.Br(),
+
+#Content Row 5
+        dbc.Row(
+            children=[
+                
+                html.Div([
+
+                    html.H2("Chart Title", style={
+                                "text-align": "right",
+                                "font-family": "'Press Start 2P', display",
+                                "width": "90%",
+                                "margin-left": "auto",
+                                "margin-right": "60px",
+                                "color": "#C8F9E7"
+                                })
+                ]),
+
+#Left Column                
+                dbc.Col( 
+                    html.Div([
+
+                            html.Div(
+                                html.P(
+                                    """
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+                                    """
+                                ), style={
+                                        "border": "1px", 
+                                        "whiteSpace": "pre-wrap",
+                                        "padding-left": "10px",
+                                        "width": "80%",
+                                        "margin-left": "auto",
+                                        "margin-right": "auto",
+                                        "color": "#C8F9E7"
+                                    },
+                            ),
+                        ]
+                    ),
+                    width=5,  # Adjust the width of the first column
+                ),
+
+#Right Column
+                dbc.Col( 
+                    html.Div([
+                        
+                        dcc.Graph(figure = day_fig, style = {"margin-right":"20px"})
+
+                    ]),
+                    width=7,  # Adjust the width of the second column
+                    className="mt-4",
+                ),
+            ]
+        ),
+
+        html.Br(),
+
 
     ]
 )
