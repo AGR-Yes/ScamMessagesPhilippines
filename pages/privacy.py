@@ -4,6 +4,58 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
 
+import pandas as pd
+
+#---------------------------------#
+#DATASET
+proof = pd.read_csv("Processed Datasets/proof_cleaned.csv")
+
+#---------------------------------#
+#DATAFRAMES
+
+proof_name = pd.DataFrame(proof['name'].value_counts()).reset_index()
+proof_name.rename(columns = {proof_name.columns[0]:'type', proof_name.columns[1]:'count'}, inplace = True)
+proof_name['type'] = proof_name['type'].replace([False, True], ['No name', 'Includes name'])
+
+nametype = pd.DataFrame(proof[['type']][proof['name'] == True].value_counts()).reset_index()
+nametype.rename(columns = {nametype.columns[0]:'type', nametype.columns[1]:'count'}, inplace = True)
+
+#---------------------------------#
+#name_fig
+
+name_fig = px.pie(proof_name, values = 'count', names = 'type', title = 'Proof Name')
+
+name_fig.update_layout(height=600)
+
+name_fig.update_layout(
+    plot_bgcolor='rgba(0, 0, 0, 0)',  
+    paper_bgcolor='rgba(0, 0, 0, 0)',  
+    font_color="#C8F9E7",  
+    font_family="'Space Grotesk', sans-serif",  # Font family
+)
+
+name_colors = ["#C8F9E7", "#c8daf9"]
+
+name_fig.update_traces(marker_colors=name_colors)
+
+#---------------------------------#
+#nametype_fig
+
+nametype_fig = px.pie(nametype, values = 'count', names = 'type', title = 'Proof Name Type')
+
+nametype_fig.update_layout(height=600)
+
+nametype_fig.update_layout(
+    plot_bgcolor='rgba(0, 0, 0, 0)',  
+    paper_bgcolor='rgba(0, 0, 0, 0)',  
+    font_color="#C8F9E7",  
+    font_family="'Space Grotesk', sans-serif",  # Font family
+)
+
+nametype_colors = ["#C8F9E7", "#c8daf9", "#f9c8da", "#f9e7c8", "#cfc8f9", "#f3f9c8"]
+
+nametype_fig.update_traces(marker_colors=nametype_colors)
+
 #---------------------------------#
 #Duplicate this as needed, but this is the template for the content 
 
@@ -22,7 +74,7 @@ layout = html.Div(
                 html.Div([ 
                     
                     html.Br(),
-                    html.P('Title', style={
+                    html.P('Privacy Concerns', style={
                                 "margin-top": "60px",
                                 'text-align': 'center', 
                                 'font-size': '50px',
@@ -96,9 +148,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 dbc.Col( 
                     html.Div([
                         
-                        html.Img(src='https://placehold.co/650X300', alt='Placeholder Image', 
-                                 style={"align": "right",
-                                        "position": "relative"})
+                        dcc.Graph(figure = name_fig)
 
                     ]),
                     width=7,  # Adjust the width of the second column
@@ -119,9 +169,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                     html.Div(
                         [
                            
-                            html.Img(src='https://placehold.co/500X350', alt='Placeholder Image', 
-                                 style={"align": "right",
-                                        "position": "relative"}),
+                            dcc.Graph(figure = nametype_fig)
 
 
                         ] 

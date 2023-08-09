@@ -38,7 +38,7 @@ spam_time = spam_time.sort_values(by = 'time_of_day')
 
 proof_fig = px.pie(proof_type, values='count', names='type', title='Proof Type')
 
-proof_fig.update_layout(height=600)
+proof_fig.update_layout(height=500)
 
 proof_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
@@ -56,7 +56,7 @@ proof_fig.update_traces(marker_colors=proof_colors)
 
 number_fig = px.bar(number, x = 'network', y = 'count', title = 'Number of Incidents by Network')
 
-number_fig.update_layout(height= 400)
+number_fig.update_layout(height= 500)
 
 number_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
@@ -79,7 +79,7 @@ time_fig.update_xaxes(
     tickmode='array'  # Use an array of ticks
 )
 
-time_fig.update_layout(height= 400)
+time_fig.update_layout(height=500)
 
 time_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
@@ -98,7 +98,7 @@ time_fig.update_traces(line=dict(width=4))
 
 day_fig = px.pie(spam_day, values='count', names='day', title='Proof Type')
 
-day_fig.update_layout(height=600)
+day_fig.update_layout(height=500)
 
 day_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
@@ -203,7 +203,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 dbc.Col( 
                     html.Div([
                         
-                        dcc.Graph(figure = proof_fig, style = {"margin-right":"20px"})
+                        dcc.Graph(figure = proof_fig)
 
                     ]),
                     width=7,  # Adjust the width of the second column
