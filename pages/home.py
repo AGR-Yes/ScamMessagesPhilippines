@@ -5,6 +5,8 @@ import plotly.express as px
 
 import pandas as pd
 
+#register_page = dash.Dash(__name__, path ="/", )
+
 #---------------------------------#
 #DATASET
 

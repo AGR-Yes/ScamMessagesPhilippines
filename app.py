@@ -51,11 +51,11 @@ app.layout = html.Div(
     children=[
 
         # Location component to set default page
-        dcc.Location(id='url', refresh=False, pathname='/home'),
+        dcc.Location(id='url', refresh=False, pathname='/'),
 
         dbc.NavbarSimple(
         children=[
-            dbc.NavItem(dbc.NavLink("Home", href="/home")),
+            dbc.NavItem(dbc.NavLink("Home", href="/")),
             dbc.NavItem(dbc.NavLink("Spam", href="/spam")),
             dbc.NavItem(dbc.NavLink("Privacy", href="/privacy")),
             dbc.NavItem(dbc.NavLink("About", href="/about")),
