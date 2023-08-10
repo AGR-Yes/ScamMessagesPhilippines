@@ -74,7 +74,7 @@ layout = html.Div(
                                 ), 
                                 
                                 #Content 
-                                html.P('Goal of the project', style={
+                                html.P('Increase in Number', style={
                                         "margin-top": "30px",
                                         'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
@@ -84,7 +84,7 @@ layout = html.Div(
                                 
                                 html.P(
                                         """
-The goal of this project is to clean the datasets gathered from the internet and make the data understandable to the general public.
+From mail to electronic mail, our own phone numbers aren't even safe anymore. How bad is the spam in the country?
                                         """,
                                         style={
                                             "color": "#C8F9E7",
@@ -106,8 +106,7 @@ The goal of this project is to clean the datasets gathered from the internet and
             html.Div([
                 html.P(
                     """
-Remember when our emails used to have loads of spam? Well, to this day, no one is a stranger to these. Today, as we try to protect our phone numbers from being given to strangers, we find ourselves receiving spam text messages for the most random offers. And in some cases, scammers know our names and include them in their messages. 
-As technology advances, the risk of data privacy and hacking become more of a concern.
+The goal of Sino ‘To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
                     """,
                     style={
                                 "margin-top": "60px",
