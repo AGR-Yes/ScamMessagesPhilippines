@@ -17,7 +17,7 @@ layout = html.Div(
     children=[
         
 #Title
-        dbc.Row( 
+    dbc.Row( 
             children=[ 
                     
                     html.Div([
@@ -145,16 +145,41 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
             dbc.Col(
                 html.Div([
 
-                    html.Img(src=dash.get_asset_url('Images/anton.jpeg'), alt='Placeholder Image')
+                    html.Img(src='https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/anton.jpeg?raw=true', alt='Placeholder Image',
+                             style={
+                                "align": "right",
+                                "position": "relative",
+                                "width": "100%",
+                                "margin-left": "30px",
+                                "margin-right": "auto",
+                                "margin-bottom":"30px"})
 
                 ]),
                 width=3),
 
             dbc.Col( 
                 html.Div([            
+                    
+                    html.P("Anton Reyes (`AGR`)", 
+                           style={
+                                "font-family": "'Press Start 2P', display",
+                                "font-size": "20px",
+                                #"padding": "20px",
+                                "margin-top" : "30px",
+                                "margin-left" : "30px",
+                                "padding" : "5px",
+                                "color" : "#C8F9E7"
+                           }),
+                    
                     html.P(
                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+
+○
+
+○
+
+○
+
                     """,
                     style={
                             "margin-top" : "30px",
@@ -163,11 +188,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             "padding" : "5px",
                             "color" : "#C8F9E7"
                     })
-                ]), width = 7, 
+                ]), width = 6, 
             ),
 
-            dbc.Col(width= 2)
-        ]
+            dbc.Col(width = 3)
+        ], style = {"border": "1px white solid",
+                    "border-radius": "10px",
+                    "padding": "10px",
+                    'color':'#DCC2FF',
+                    }
     ),
 
 #Row 4
@@ -208,5 +237,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 
     ]
 )
+
+
 
 #Continue as needed
