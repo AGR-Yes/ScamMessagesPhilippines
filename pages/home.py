@@ -28,7 +28,7 @@ fig.update_traces(marker=dict(color="#250DAB"))
 
 
 #---------------------------------#
-dash.register_page(__name__)
+dash.register_page(__name__, path="/")
 
 layout = html.Div(
     style={

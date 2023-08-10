@@ -63,7 +63,7 @@ app.layout = html.Div(
         ],
         
         brand="Sino 'To?!",
-        brand_href="/home",
+        brand_href="/",
         color="black",
         dark=True,
         style={
@@ -94,11 +94,11 @@ app.layout = html.Div(
 
 #---------------------------------#
 # CALLBACKS
-@app.callback(Output('url', 'pathname'), [Input('url', 'pathname')])
-def set_default_page(pathname):
-    if pathname is None or pathname == '/':
-        return '/home'
-    return pathname
+#@app.callback(Output('url', 'pathname'), [Input('url', 'pathname')])
+#def set_default_page(pathname):
+#    if pathname is None or pathname == '/':
+#        return '/'
+#    return pathname
 
 
 # ---------------------------------#

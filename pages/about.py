@@ -152,7 +152,7 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
                                 "width": "100%",
                                 "margin-left": "30px",
                                 "margin-right": "auto",
-                                "margin-bottom":"30px"})
+                            })
 
                 ]),
                 width=3),
@@ -165,38 +165,35 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
                                 "font-family": "'Press Start 2P', display",
                                 "font-size": "20px",
                                 #"padding": "20px",
-                                "margin-top" : "30px",
+                                "margin-top" : "5px",
                                 "margin-left" : "30px",
                                 "padding" : "5px",
                                 "color" : "#C8F9E7"
                            }),
-                    
-                    html.P(
-                    """
+                    html.Div([
+                        html.P(
+                        """
+Anton, an undergraduate student from De La Salle University - Manila. He is a Marketing Management student with a minor in Data Science. 
+                        """),
 
-○
-
-○
-
-○
-
-                    """,
-                    style={
-                            "margin-top" : "30px",
+                        html.P(
+                        """
+Despite his interest and involvement in both the business and programming fields, he also does creative-related work as well. In the creative industry, he has created graphics, edited videos, print materials, and stages.
+                        """),
+                        ], style={
+                            "margin-top" : "5px",
                             "margin-left" : "30px",
                             "font-family" : "'Roboto', serif",
                             "padding" : "5px",
                             "color" : "#C8F9E7"
                     })
-                ]), width = 6, 
+
+
+                ]), width = 7, 
             ),
 
-            dbc.Col(width = 3)
-        ], style = {"border": "1px white solid",
-                    "border-radius": "10px",
-                    "padding": "10px",
-                    'color':'#DCC2FF',
-                    }
+            dbc.Col(width = 2)
+        ]
     ),
 
 #Row 4
@@ -204,17 +201,19 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
         children = [
             dbc.Col( 
                 html.Div([    
-                    html.P(
-                    """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim.
-                    """,
-                    style={
-                            "margin-top": "60px",
-                            "text-align":"right",
-                            "font-family": "'Roboto', serif",
-                            "padding": "5px",
-                            "color": "#C8F9E7"
-                    })
+                    
+                     html.P(
+                        """
+In data science, he aspires to make an impact and add more to the field, particularly in the Philippine context. Anton has been involved in a few group and personal projects that involved data preprocessing, Natural Language Processing (NLP), and visualization. With his passion for continuous learning and his interdisciplinary approach, Anton seeks to leverage his skills and knowledge to drive innovation and create meaningful solutions in the data science landscape.
+                        """, style={
+                                    "margin-top": "60px",
+                                    "text-align":"right",
+                                    "font-family": "'Roboto', serif",
+                                    "padding": "5px",
+                                    "color": "#C8F9E7"
+                            }),
+                    
+                    
                 ]), width = 8, 
             ),
 
