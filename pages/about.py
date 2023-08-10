@@ -106,7 +106,7 @@ From mail to electronic mail, our own phone numbers aren't even safe anymore. Ho
             html.Div([
                 html.P(
                     """
-The goal of Sino ‘To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
+The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
                     """,
                     style={
                                 "margin-top": "60px",
@@ -127,23 +127,46 @@ The goal of Sino ‘To? (Who is this?!) is to clean the datasets gathered from t
 #Row 3
     dbc.Row(
         children = [
+
+            html.Div([
+                html.H1("About the Author", style={
+                    "text-align": "center",
+                    "padding": "30px",
+                    'font-size': '30px',
+                    "font-family": "'Press Start 2P', display",
+                    "color":"#DCC2FF",
+                    "text-shadow": "1px 1px 5px white",
+                    "margin-top":"20px"
+                    
+                })
+            ]),
+
+
+            dbc.Col(
+                html.Div([
+
+                    html.Img(src=dash.get_asset_url('Images/anton.jpeg'), alt='Placeholder Image')
+
+                ]),
+                width=3),
+
             dbc.Col( 
-                html.Div([    
+                html.Div([            
                     html.P(
                     """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
                     """,
                     style={
-                            "margin-top" : "60px",
+                            "margin-top" : "30px",
                             "margin-left" : "30px",
                             "font-family" : "'Roboto', serif",
                             "padding" : "5px",
                             "color" : "#C8F9E7"
                     })
-                ]), width = 8, 
+                ]), width = 7, 
             ),
 
-            dbc.Col(width=4)
+            dbc.Col(width= 2)
         ]
     ),
 

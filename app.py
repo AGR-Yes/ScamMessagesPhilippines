@@ -77,11 +77,9 @@ app.layout = html.Div(
 
     html.Div(
         html.A("Github", href="https://github.com/agr-Yes/",
-               style={
-
-                    'font-family':"'Space Grotesk', sans-serif'",
-
-               }), 
+               style={'font-family':"'Space Grotesk', sans-serif'"}), 
+        
+        
         style={'position': 'relative', 
                'bottom': 0, 
                'width': '100%', 
