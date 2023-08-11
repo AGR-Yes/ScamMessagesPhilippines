@@ -75,18 +75,23 @@ app.layout = html.Div(
 
     dash.page_container,
 
-    html.Div(
+    html.Div([
         html.A("Github", href="https://github.com/agr-Yes/",
-               style={'font-family':"'Space Grotesk', sans-serif'"}), 
+               style={'font-family':"'Space Grotesk', sans-serif'",
+                      "color":"white"
+                      }), 
         
         
-        style={'position': 'relative', 
+
+    ], style={'position': 'relative', 
                'bottom': 0, 
                'width': '100%', 
                'background-color': 'black', 
                'text-align': 'center', 
                'padding': '20px',               
-               }
+        }
+    
+    
     )
 
     ]
@@ -94,11 +99,6 @@ app.layout = html.Div(
 
 #---------------------------------#
 # CALLBACKS
-#@app.callback(Output('url', 'pathname'), [Input('url', 'pathname')])
-#def set_default_page(pathname):
-#    if pathname is None or pathname == '/':
-#        return '/'
-#    return pathname
 
 
 # ---------------------------------#
