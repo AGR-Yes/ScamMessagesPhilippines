@@ -10,8 +10,7 @@ dash.register_page(__name__)
 layout = html.Div(
     style={
         "background-color": "black",
-        "margin-left": "auto",
-        "margin-right": "auto",
+        "padding-right":"12px",
     },
     
     children=[

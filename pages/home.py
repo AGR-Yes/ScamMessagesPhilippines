@@ -33,6 +33,7 @@ dash.register_page(__name__, path="/")
 layout = html.Div(
     style={
         "background-color": "black",
+        "padding-right":"12px",
     },
 
     children=[
@@ -45,7 +46,7 @@ layout = html.Div(
                             
                             html.P("'Who is this?!'", 
                                    style={
-                                        "margin-top": "10px",
+                                        "margin-top": "5px",
                                         'font-style': 'italic',
                                         "font-family": "'Press Start 2P', display",
                                         'font-size': '50px',
@@ -67,7 +68,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                     "padding-right":"30px",
                                     },
                             ),
-                        ]
+                        ], style ={
+                            "margin-left":"40px"
+                        }
                     ),
                     width=6,  # Adjust the width of the first column
                 ),
@@ -87,7 +90,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
         dbc.Row(
             children=[
                 dbc.Col(
-                    #buffer
                     width=2
                 ),
                 dbc.Col(
@@ -162,7 +164,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                     ), width=4
                 ),
                 dbc.Col(
-                    #buffer
                     width=2
                 ),
             ]
