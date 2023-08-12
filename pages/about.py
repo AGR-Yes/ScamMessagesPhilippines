@@ -144,7 +144,8 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
             dbc.Col(
                 html.Div([
 
-                    html.Img(src='https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/anton.jpeg?raw=true', alt='Placeholder Image',
+                    html.Img(
+                        src='https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/anton.jpeg?raw=true', #alt='Placeholder Image',
                              style={
                                 "align": "right",
                                 "position": "relative",
@@ -219,10 +220,12 @@ In data science, he aspires to make an impact and add more to the field, particu
 
             dbc.Col( 
                     html.Div([    
-                        html.Img(src='https://placehold.co/300X200', alt='Placeholder Image', 
+                        html.Img(src='https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/IMG_20230720_190918.jpg?raw=true', alt='Placeholder Image', 
                                     style={"align": "right",
                                             "position": "relative", 
-                                            "margin-top":"60px"}),
+                                            "margin-top":"60px",
+                                            "position":"relative",
+                                            "width":"100%"}),
                     ]), width = 4, 
                 ),
 

@@ -57,7 +57,7 @@ layout = html.Div(
                             html.Div(
                                 html.P(
                                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+This project aims to collate, dig deeper, and visualize datasets of Spam Texts in the Philippines. Backed up by research, the end goal of this project is to create a dashboard that shows data but also tells a story of how data privacy and hacking became a concern during the pandemic.
                                     """
                                 ),
                                 style={
@@ -90,39 +90,41 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
         dbc.Row(
             children=[
                 dbc.Col(
-                    width=2
+                    width=1
                 ),
                 dbc.Col(
                     html.Div(
                         [
-                            html.P(
-                                '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
-                                ''', 
-                                style = {"padding": "10px",
-                                        'color':'#DCC2FF',
-                                        'whiteSpace': 'pre-wrap'}
-                                ),
+                        html.P(
+                            '''
+In 2020, COVID-19 hit the world, and on January 30, 2020, the first case was confirmed in the Philippines. The World Health Organization (WHO) declared Covid-19 a pandemic in March of the same year.
+                            ''', 
+                            style = {"padding": "10px",
+                                    'color':'#DCC2FF',
+                                    'whiteSpace': 'pre-wrap',
+                                    "margin-top":"20px"}
+                            ),
                             
                             html.Br(),
 
-                            html.Div(
-                                [
-                                html.H1('Test',
-                                        style = {"text-shadow": "2px 2px 5px white",}),
-                                html.P(
-                                    '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
-                                    '''
-                                )
-                            ], style = {"border": "1px white solid",
-                                        "border-radius": "10px",
-                                        "padding": "10px",
-                                        'color':'#DCC2FF',
-                                        'whiteSpace': 'pre-wrap'}
-                            ),
+                    html.Div(
+                        [
+                        html.H1('Gaining Information',
+                                style = {"text-shadow": "2px 2px 5px white",}),
+                        html.P(
+                            '''
+Contact tracing was done with offline methods (by pen and a printed form) and online methods such as forms and a QR code per person in each city. (Job Manahan, ABS-CBN News, 2022) 
+To get a QR code, citizens would register with their personal data. Data was stored and collected with online and offline means.
+                            '''
+                        )
+                    ], style = {"border": "1px white solid",
+                                "border-radius": "10px",
+                                "padding": "10px",
+                                'color':'#DCC2FF',
+                                'whiteSpace': 'pre-wrap'}
+                    ),
                         ], 
-                    ), width=4
+                    ), width=5
                 ),
                 dbc.Col(
                     html.Div(
@@ -130,11 +132,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Br(),
                             html.Div(
                                 [
-                                html.H1('Test',
+                                html.H1('Tracking People',
                                         style = {"text-shadow": "2px 2px 5px white",}),
                                 html.P(
                                     '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+Contact tracing was a method to keep track of people entering establishments; so that if someone tested positive for Covid, people who entered the same establishment at the same period could be notified that they were exposed and get tested as a safety measure. In short, contact tracing was a way to track down positive cases. (Job Manahan, ABS-CBN News, 2022)
                                     '''
                                 )
                             ], style = {"border": "1px white solid",
@@ -147,11 +149,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Br(),
                             html.Div(
                                 [
-                                html.H1('Test',
+                                html.H1('How to Navigate',
                                         style = {"text-shadow": "2px 2px 5px white",}),
                                 html.P(
                                     '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+The charts you'll see on this website are interactive - all thanks to Plotly, an open-source module for data visualization. Since the charts are interactive, you may zoom in, hover, and select specific labels you want to see (for pie graphs). To zoom out, just double-click the chart.
                                     '''
                                 )
                             ], style = {"border": "1px white solid",
@@ -161,10 +163,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         'whiteSpace': 'pre-wrap'}
                             ),
                         ], 
-                    ), width=4
+                    ), width=5
                 ),
                 dbc.Col(
-                    width=2
+                    width=1
                 ),
             ]
         )
