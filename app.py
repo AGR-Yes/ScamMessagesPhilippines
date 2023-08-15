@@ -4,37 +4,6 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 
 #---------------------------------#
-#STYLING
-
-external_stylesheets = [
-    {
-        'href': 'file.css', 
-        'rel':'stylesheet',
-        'integrity':'sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor',
-        'crossorigin':'anonymous'
-     }
-]
-
-#CONTENT STYLE
-CONTENT_STYLE = {
-    "margin-left": "18rem",
-    "margin-right": "2rem",
-    "padding": "2rem 1rem",
-    'backgroundColor':'#faeeeb',
-}
-
-#HEADER STYLE
-HEADER_STYLE = {
-    "textAlign":"center",
-    "margin-bottom":"25px",
-    'background-color': '#1f2630', 
-    'text-align': 'center', 
-    'padding': '4px'
-
-}
-
-
-#---------------------------------#
 #APP
 app = dash.Dash(__name__, use_pages=True, 
                 external_stylesheets=[
