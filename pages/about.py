@@ -9,31 +9,38 @@ dash.register_page(__name__)
 
 layout = html.Div(
     style={
+        "background-image":"url('https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/bg/bg3.png?raw=true')",
+        "background-repeat": "no-repeat",
+        "background-size": "100%",
+        "background-position": "center center",
         "background-color": "black",
+        "width":"100%",
+        "position":"relative",
         "padding-right":"12px",
     },
     
     children=[
         
-#Title
+#Row 1 - Title
     dbc.Row( 
             children=[ 
                     
                     html.Div([
-                        html.H1("About the Project", style={
+                        html.H1(
+                            "About the Project", style={
                             "text-align": "center",
                             "padding": "30px",
                             'font-size': '30px',
-                            "font-family": "'Press Start 2P', display",
-                            "color":"#DCC2FF",
-                            "text-shadow": "1px 1px 5px white",
+                            "font-family": "'Press Start 2P'",
+                            "color":"#E9CA06",
+                            "text-shadow": "1px 1px 5px #fff783",
                             
                         })
                     ]),
 
 
 
-#Column 1
+    #Column 1 - Meme photo
                     dbc.Col( 
                         html.Div([    
                             html.Img(src='https://cdn.vox-cdn.com/thumbor/8rF2keXrhL8sYlEbVbtaJpIC4qs=/0x10:500x291/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/59741997/n4scgse21iuz.0.jpg', alt='Placeholder Image', 
@@ -48,7 +55,7 @@ layout = html.Div(
                     ),
                     
 
-#Column 2
+    #Column 2
                     dbc.Col(
                         html.Div([
                             html.Div([
@@ -59,7 +66,7 @@ layout = html.Div(
                                         'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
                                         #"padding": "5px",
-                                        "color": "#C8F9E7",
+                                        "color": "#E9CA06",
 
                                         }),  
                                 
@@ -68,7 +75,7 @@ layout = html.Div(
 'Sino `To?!' is a project that aims to visualize the spam texts in the Philippines.
                                         """,
                                         style={
-                                            "color": "#C8F9E7",
+                                            "color": "white",
                                         }
                                 ), 
                                 
@@ -78,7 +85,7 @@ layout = html.Div(
                                         'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
                                         #"padding": "5px",
-                                        "color": "#C8F9E7"
+                                        "color": "#E9CA06"
                                         }),  
                                 
                                 html.P(
@@ -86,7 +93,7 @@ layout = html.Div(
 From mail to electronic mail, our own phone numbers aren't even safe anymore. How bad is the spam in the country?
                                         """,
                                         style={
-                                            "color": "#C8F9E7",
+                                            "color": "white",
                                         }
                                 ), 
 
