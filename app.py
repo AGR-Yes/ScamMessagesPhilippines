@@ -82,7 +82,6 @@ app.layout = html.Div(
                       "color":"white"
                       }), 
         
-        
 
     ], style={'position': 'relative', 
                'bottom': 0, 
