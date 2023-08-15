@@ -75,6 +75,7 @@ app.layout = html.Div(
 
     dash.page_container,
 
+
     html.Div([
         html.A("Github", href="https://github.com/agr-Yes/",
                style={'font-family':"'Space Grotesk', sans-serif'",

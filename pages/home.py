@@ -32,9 +32,16 @@ dash.register_page(__name__, path="/")
 
 layout = html.Div(
     style={
+        "background-image":"url('https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/bg/bg1.png?raw=true')",
+        "background-repeat": "no-repeat",
+        "background-size": "auto",
+        "background-position": "center center",
         "background-color": "black",
+        #"width":"100%",
+        "position":"relative",
         "padding-right":"12px",
     },
+
 
     children=[
         dbc.Row(
@@ -42,11 +49,11 @@ layout = html.Div(
                 dbc.Col(
                     html.Div(
                         [
-                            html.Br(className="mt-4"),
+                            html.Br(className="mt-10"),
                             
                             html.P("'Who is this?!'", 
                                    style={
-                                        "margin-top": "5px",
+                                        "margin-top": "30px",
                                         'font-style': 'italic',
                                         "font-family": "'Press Start 2P', display",
                                         'font-size': '50px',
@@ -61,6 +68,7 @@ This project aims to collate, dig deeper, and visualize datasets of Spam Texts i
                                     """
                                 ),
                                 style={
+                                    "margin-top":"-30px",
                                     "font-size": "15px", 
                                     "whiteSpace": "pre-wrap",
                                     'color':'#C8F9E7',
@@ -72,14 +80,14 @@ This project aims to collate, dig deeper, and visualize datasets of Spam Texts i
                             "margin-left":"40px"
                         }
                     ),
-                    width=6,  # Adjust the width of the first column
+                    width=5,  # Adjust the width of the first column
                 ),
                 dbc.Col([
                     
                     dcc.Graph(figure=fig, style={"padding":"10px"})
 
                 ],
-                    width=6,  # Adjust the width of the second column
+                    width=7,  # Adjust the width of the second column
                     className="mt-4",
                 ),
             ],
@@ -169,6 +177,36 @@ The charts you'll see on this website are interactive - all thanks to Plotly, an
                     width=1
                 ),
             ]
-        )
+        ),
+    
+        html.Br(),
+
+        dbc.Row(
+            children=[
+                html.P("How to navigate this website", 
+                       style={
+                        "margin-top": "30px",
+                        'font-style': 'italic',
+                        "font-family": "'Press Start 2P', display",
+                        'font-size': '20px',
+                        "text-shadow": "1px 1px 5px white",
+                        "padding": "10px",
+                        }
+                    ),
+
+                html.P(
+                        """
+The charts you'll see on this website are interactive - all thanks to Plotly, an open-source module for data visualization. Since the charts are interactive, you may zoom in, hover, and select specific labels you want to see (for pie graphs). To zoom out, just double-click the chart.
+                        """
+                    ),
+                
+
+            ], style ={
+                "padding":"30px",
+                "text-align":"center",
+                "color": "#C8F9E7",
+            }
+        ),
+
     ]
 )
