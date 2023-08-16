@@ -24,11 +24,11 @@ app.layout = html.Div(
 
         dbc.NavbarSimple(
         children=[
-            dbc.NavItem(dbc.NavLink("Home", href="/")),
-            dbc.NavItem(dbc.NavLink("Spam", href="/spam")),
-            dbc.NavItem(dbc.NavLink("Privacy", href="/privacy")),
-            dbc.NavItem(dbc.NavLink("About", href="/about")),
-            # Add more NavItems as needed
+            dbc.NavItem(dbc.NavLink("Home", href="/", style={"color": "white"})),
+        dbc.NavItem(dbc.NavLink("Spam", href="/spam", style={"color": "white"})),
+        dbc.NavItem(dbc.NavLink("Privacy", href="/privacy", style={"color": "white"})),
+        dbc.NavItem(dbc.NavLink("About", href="/about", style={"color": "white"})),
+        # Add more NavItems as needed
         ],
         
         brand="Sino 'To?!",
