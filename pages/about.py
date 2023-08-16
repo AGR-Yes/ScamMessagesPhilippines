@@ -27,13 +27,14 @@ layout = html.Div(
                     
                     html.Div([
                         html.H1(
-                            "About the Project", style={
+                            "about the project", style={
                             "text-align": "center",
                             "padding": "30px",
                             'font-size': '30px',
                             "font-family": "'Press Start 2P'",
                             "color":"#E9CA06",
-                            "text-shadow": "1px 1px 5px #fff783",
+                            "text-shadow": "1px 1px 5px #a39904",
+                            "margin-top":"15px"
                             
                         })
                     ]),
@@ -61,18 +62,18 @@ layout = html.Div(
                             html.Div([
 
                                 #Content 
-                                html.P("'Who is this?!'", style={
+                                html.P("what is this?!", style={
                                         "margin-top": "30px",
                                         'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
                                         #"padding": "5px",
-                                        "color": "#E9CA06",
+                                        "color": "#E9CA06 ",
 
                                         }),  
                                 
                                 html.P(
                                         """
-'Sino `To?!' is a project that aims to visualize the spam texts in the Philippines.
+Sino 'To?! (Who is this?!) This project visualizes spam texts in the Philippines. This data came from a Google Sheets file that was made public to Filipino Netizens (Internet Citizens) to record the texts they received.
                                         """,
                                         style={
                                             "color": "white",
@@ -80,17 +81,17 @@ layout = html.Div(
                                 ), 
                                 
                                 #Content 
-                                html.P('Increase in Number', style={
+                                html.P('project goal', style={
                                         "margin-top": "30px",
                                         'font-size': '20px',
                                         "font-family": "'Press Start 2P', display",
                                         #"padding": "5px",
-                                        "color": "#E9CA06"
+                                        "color": "#E9CA06 "
                                         }),  
                                 
                                 html.P(
                                         """
-From mail to electronic mail, our own phone numbers aren't even safe anymore. How bad is the spam in the country?
+The goal of this project was to clean the datasets gathered from the internet and make the data understandable for the general public through charts.
                                         """,
                                         style={
                                             "color": "white",
@@ -112,18 +113,18 @@ From mail to electronic mail, our own phone numbers aren't even safe anymore. Ho
             html.Div([
                 html.P(
                     """
-The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the internet and make the data understandable for the general public.
+Under the Philippine Internet Archive, this project is in collaboration with Kakakompyuter Mo Yan!
                     """,
                     style={
                                 "margin-top": "60px",
                                 'text-align': 'center', 
-                                'font-size': '12px',
+                                'font-size': '16px',
                                 "font-family": "'Roboto', serif",
                                 "padding": "5px",
                                 "width": "80%",
                                 "margin-left": "auto",
                                 "margin-right": "auto",
-                                "color": "#C8F9E7"
+                                "color": "#a39904"
                                 }
                 ),
             ])
@@ -140,13 +141,14 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
                     "padding": "30px",
                     'font-size': '30px',
                     "font-family": "'Press Start 2P', display",
-                    "color":"#DCC2FF",
-                    "text-shadow": "1px 1px 5px white",
+                    "color":"#aae906",
+                    "text-shadow": "1px 1px 5px #e3ff83",
                     "margin-top":"20px"
                     
                 })
             ]),
 
+            dbc.Col(width = 1),
 
             dbc.Col(
                 html.Div([
@@ -162,7 +164,7 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
                             })
 
                 ]),
-                width=3),
+                width=2),
 
             dbc.Col( 
                 html.Div([            
@@ -175,7 +177,7 @@ The goal of Sino 'To? (Who is this?!) is to clean the datasets gathered from the
                                 "margin-top" : "5px",
                                 "margin-left" : "30px",
                                 "padding" : "5px",
-                                "color" : "#C8F9E7"
+                                "color" : "#aae906"
                            }),
                     html.Div([
                         html.P(
@@ -192,14 +194,14 @@ Despite his interest and involvement in both the business and programming fields
                             "margin-left" : "30px",
                             "font-family" : "'Roboto', serif",
                             "padding" : "5px",
-                            "color" : "#C8F9E7"
+                            "color" : "white"
                     })
 
 
                 ]), width = 7, 
             ),
 
-            dbc.Col(width = 2)
+            dbc.Col(width = 1)
         ]
     ),
 
