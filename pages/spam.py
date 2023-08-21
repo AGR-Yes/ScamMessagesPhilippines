@@ -38,16 +38,16 @@ spam_time = spam_time.sort_values(by = 'time_of_day')
 
 proof_fig = px.pie(proof_type, values='count', names='type', title='Proof Type')
 
-proof_fig.update_layout(height=500)
+proof_fig.update_layout(height=600)
 
 proof_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
     paper_bgcolor='rgba(0, 0, 0, 0)',  
-    font_color="#C8F9E7",  
+    font_color="white",  
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-proof_colors = ["#C8F9E7", "#c8daf9", "#f9c8da", "#f9e7c8", "#cfc8f9", "#f3f9c8"]
+proof_colors = ["#e3ff83", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"] #6 colors
 
 proof_fig.update_traces(marker_colors=proof_colors)
 
@@ -61,11 +61,11 @@ number_fig.update_layout(height= 500)
 number_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
     paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
-    font_color = "#C8F9E7",
+    font_color = "white",
     font_family="'Space Grotesk', sans-serif",
 )
 
-number_fig.update_traces(marker=dict(color="#250DAB"))
+number_fig.update_traces(marker=dict(color="#fff347"))
 
 #---------------------------------#
 #time_fig
@@ -84,13 +84,13 @@ time_fig.update_layout(height=500)
 time_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
     paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
-    font_color = "#C8F9E7",
+    font_color = "#aae906",
     font_family="'Space Grotesk', sans-serif",
     xaxis=dict(gridwidth=0.1), 
     yaxis=dict(gridwidth=0.1),  
 )
 
-time_fig.update_traces(marker=dict(color="#250DAB"))
+time_fig.update_traces(line=dict(color="#aae906"))
 time_fig.update_traces(line=dict(width=4))
 
 #---------------------------------#
@@ -98,16 +98,16 @@ time_fig.update_traces(line=dict(width=4))
 
 day_fig = px.pie(spam_day, values='count', names='day', title='Proof Type')
 
-day_fig.update_layout(height=500)
+day_fig.update_layout(height=600)
 
 day_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
     paper_bgcolor='rgba(0, 0, 0, 0)',  
-    font_color="#C8F9E7",  
+    font_color="white",  
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-day_colors = ["#C8F9E7", "#c8daf9", "#f9c8da", "#f9e7c8", "#cfc8f9", "#f3f9c8", "#DCC2FF"]
+day_colors = ["#fff347", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA", "white"] #7 colors
 
 day_fig.update_traces(marker_colors=day_colors)
 
@@ -118,7 +118,13 @@ dash.register_page(__name__)
 
 layout = html.Div(
     style={
+        "background-image":"url('https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/bg/bg2.png?raw=true')",
+        "background-repeat": "no-repeat",
+        "background-size": "150%",
+        "background-position": "center center",
         "background-color": "black",
+        "width":"100%",
+        "position":"relative",
         "padding-right":"12px",
     },
 
@@ -136,22 +142,24 @@ layout = html.Div(
                                 'font-size': '50px',
                                 "font-family": "'Press Start 2P', display",
                                 "padding": "5px",
-                                "color": "#C8F9E7"
+                                "color": "#E9CA06",
+                                "text-shadow": "1px 1px 5px #a39904",
                                 }), 
                     html.Br(),
                     html.P(
                             """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+Spam texts are considered to be the unsolicited and unwanted messages we receive. Oftentimes, messages like these may contain job offers, business opportunities, and lotto/gambling opportunities. (PNP Bares Ways Scammers Get Personal Info of Spam Text Recipients, n.d.)
                             """, style={
-                                "margin-top": "5px",
+                                "margin-top": "-20px",
+                                'margin-bottom':'15px',
                                 'text-align': 'center', 
-                                'font-size': '12px',
+                                'font-size': '15px',
                                 "font-family": "'Roboto', serif",
                                 "padding": "5px",
                                 "width": "80%",
                                 "margin-left": "auto",
                                 "margin-right": "auto",
-                                "color": "#C8F9E7"
+                                "color": "white"
                                 }),
 
                     ]), 
@@ -166,13 +174,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 
                 html.Div([
 
-                    html.H2("Chart Title", style={
+                    html.H2("Types of Spam Messages", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
                                 "width": "90%",
                                 "margin-left": "auto",
                                 "margin-right": "60px",
-                                "color": "#C8F9E7"
+                                "color": "#aae906"
                                 })
                 ]),
 
@@ -183,7 +191,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Div(
                                 html.P(
                                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+In the original Google Sheet, there are more than 20+ labels for the texts and to better see everything, the labels were narrowed down to 6 - with ‘Others’, which contains labels that didn’t fit the other five and had the lowest counts.
                                     """
                                 ), style={
                                         "border": "1px", 
@@ -192,12 +200,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         "width": "80%",
                                         "margin-left": "auto",
                                         "margin-right": "auto",
-                                        "color": "#C8F9E7"
+                                        "color": "white",
+                                        "margin-top":"30px"
                                     },
                             ),
                         ]
                     ),
-                    width=5,  # Adjust the width of the first column
+                    width=4,  # Adjust the width of the first column
                 ),
 
 #Right Column
@@ -207,8 +216,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                         dcc.Graph(figure = proof_fig)
 
                     ]),
-                    width=7,  # Adjust the width of the second column
-                    className="mt-4",
+                    width=8,  # Adjust the width of the second column
+                    #className="mt-4",
                 ),
             ]
         ),
@@ -238,26 +247,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Div(
                                 [
 
-                                html.P(
-                                    '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
-                                    '''
-                                )
+                            html.P([
+"The Google Sheets dataset contained the phone numbers of the senders and due to inconsistencies in the Google Sheet with identifying the networks for each number. A dictionary was made from ",
+html.A('Network Prefixes', href='https://www.prefix.ph/prefixes/2023-complete-list-of-philippine-mobile-network-prefixes/', style={"color":"white"}),
+" to re-label the numbers to make them accurate."
+                            ])
 
-                            ], style = {"border": "1px black solid",
+                            ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
                                         'whiteSpace': 'pre-wrap',
-                                        #"width": "80%",
-                                        "margin-left": "auto",
+                                        "margin-top": "50px",
+                                        #"margin-left": "auto",
                                         "margin-right": "auto",
-                                        "color": "#C8F9E7"},                                
+                                        "color": "white"},                                
                             ),
                             html.Br(),
-                            html.H1('Test',
+                            html.H1('Networks Present in the Dataset',
                                     style={
                                         "font-family": "'Press Start 2P', display",
-                                        "color": "#C8F9E7",
+                                        "color": "#E9CA06",
+                                        "margin-top":"-10px",
+                                        "margin-left":"10px"
                                     })
 
                         ], 
@@ -279,31 +290,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
             children=[
                 html.Div([
 
-                    html.P(
-                        """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
-                        """, style={
-                            "margin-top": "5px",
-                            'text-align': 'center', 
-                            'font-size': '12px',
-                            "font-family": "'Roboto', serif",
-                            "padding": "5px",
-                            #"width": "80%",
-                            "margin-left": "auto",
-                            "margin-right": "auto",
-                            "color": "#C8F9E7"
-                            }),
-                ])
-            ]
-        ),
-
-        html.Br(),
-
-#Content Row 4
-        dbc.Row(
-            children=[
-                html.Div([
-
                     dcc.Graph(figure = time_fig, style = {"padding":"10px"})
 
                 ], style={"text-align": "center",
@@ -313,19 +299,44 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 
         html.Br(),
 
+#Content Row 4
+        dbc.Row(
+            children=[
+                html.Div([
+
+                    html.P(
+                        """
+In this graph, we see the average time of day that scammers send their messages. Here we can see the count of each post per hour with the peak at 6:00 AM. Do note that this graph comes from a Kaggle dataset and the data is only from one user.
+                        """, style={
+                            "margin-top": "-50px",
+                            'text-align': 'center', 
+                            'font-size': '15px',
+                            "font-family": "'Roboto', serif",
+                            "padding": "5px",
+                            "width": "80%",
+                            "margin-left": "auto",
+                            "margin-right": "auto",
+                            "color": "white"
+                            }),
+                ])
+            ]
+        ),
+
+        html.Br(),
+
 #Content Row 5
         dbc.Row(
             children=[
                 
                 html.Div([
 
-                    html.H2("Chart Title", style={
+                    html.H2("Days Most Active", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
                                 "width": "90%",
                                 "margin-left": "auto",
                                 "margin-right": "60px",
-                                "color": "#C8F9E7"
+                                "color": "#E9CA06"
                                 })
                 ]),
 
@@ -336,7 +347,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                             html.Div(
                                 html.P(
                                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+Not to be confused with the ideal time for posting, but from the secondary dataset, the days with the most number of texts were on Saturday, and the least count on Thursday.
                                     """
                                 ), style={
                                         "border": "1px", 
@@ -345,12 +356,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                                         "width": "80%",
                                         "margin-left": "auto",
                                         "margin-right": "auto",
-                                        "color": "#C8F9E7"
+                                        "color": "white",
+                                        "margin-top":"30px"
                                     },
                             ),
                         ]
                     ),
-                    width=5,  # Adjust the width of the first column
+                    width=4,  # Adjust the width of the first column
                 ),
 
 #Right Column
@@ -360,8 +372,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                         dcc.Graph(figure = day_fig, style = {"margin-right":"20px"})
 
                     ]),
-                    width=7,  # Adjust the width of the second column
-                    className="mt-4",
+                    width=8,  # Adjust the width of the second column
+                    #className="mt-4",
                 ),
             ]
         ),

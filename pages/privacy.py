@@ -30,11 +30,11 @@ name_fig.update_layout(height=600)
 name_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
     paper_bgcolor='rgba(0, 0, 0, 0)',  
-    font_color="#C8F9E7",  
+    font_color="white",  
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-name_colors = ["#C8F9E7", "#c8daf9"]
+name_colors = ["#e3ff83", "#758467"]
 
 name_fig.update_traces(marker_colors=name_colors)
 
@@ -48,11 +48,11 @@ nametype_fig.update_layout(height=600)
 nametype_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  
     paper_bgcolor='rgba(0, 0, 0, 0)',  
-    font_color="#C8F9E7",  
+    font_color="white",  
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-nametype_colors = ["#C8F9E7", "#c8daf9", "#f9c8da", "#f9e7c8", "#cfc8f9", "#f3f9c8"]
+nametype_colors = ["#e3ff83", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"]
 
 nametype_fig.update_traces(marker_colors=nametype_colors)
 
@@ -63,7 +63,13 @@ dash.register_page(__name__)
 
 layout = html.Div(
     style={
+        "background-image":"url('https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/bg/bg2.png?raw=true')",
+        "background-repeat": "no-repeat",
+        "background-size": "150%",
+        "background-position": "center center",
         "background-color": "black",
+        "width":"100%",
+        "position":"relative",
         "padding-right":"12px",
     },
 
@@ -75,28 +81,30 @@ layout = html.Div(
                 html.Div([ 
                     
                     html.Br(),
-                    html.P('Privacy Concerns', style={
+                    html.P('Spam Texts', style={
                                 "margin-top": "60px",
                                 'text-align': 'center', 
                                 'font-size': '50px',
                                 "font-family": "'Press Start 2P', display",
                                 "padding": "5px",
-                                "color": "#C8F9E7"
+                                "color": "#E9CA06",
+                                "text-shadow": "1px 1px 5px #a39904",
                                 }), 
                     html.Br(),
                     html.P(
                             """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+The Data Privacy Act of 2012, Chapter 1, Section 2, states that we must protect the fundamental human right of privacy, of communication while ensuring the free flow of information to promote innovation and growth. It also states that information and communication technology has a great contribution to nation-building and that it has an obligation to protect personal information.
                             """, style={
-                                "margin-top": "5px",
+                                "margin-top": "-20px",
+                                'margin-bottom':'15px',
                                 'text-align': 'center', 
-                                'font-size': '12px',
+                                'font-size': '15px',
                                 "font-family": "'Roboto', serif",
                                 "padding": "5px",
                                 "width": "80%",
                                 "margin-left": "auto",
                                 "margin-right": "auto",
-                                "color": "#C8F9E7"
+                                "color": "white"
                                 }),
 
                     ]), 
@@ -111,13 +119,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 
                 html.Div([
 
-                    html.H2("Chart Title", style={
+                    html.H4("how'd they know my name?", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
                                 "width": "90%",
                                 "margin-left": "auto",
                                 "margin-right": "60px",
-                                "color": "#C8F9E7"
+                                "color": "#aae906"
                                 })
                 ]),
 
@@ -125,24 +133,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                 dbc.Col( 
                     html.Div([
 
-                            html.Div(
+                            html.Div([
                                 html.P(
                                     """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
+In the dataset, we can see here the number of texts that included the names of the victims or recipients of spam. In the whole dataset, 14.9% of the texts included the recepient's name.
                                     """
-                                ), style={
-                                        "border": "1px", 
-                                        "whiteSpace": "pre-wrap",
-                                        "padding-left": "10px",
-                                        "width": "80%",
-                                        "margin-left": "auto",
-                                        "margin-right": "auto",
-                                        "color": "#C8F9E7"
-                                    },
+                                ), 
+
+                                html.P(
+                                    '''
+According to PNP-ACG Acting Director, Joel Doria, scammers have found ways to gain personal information aside from the phone number itself. He states that these scammers could've gained more information such as their names through purchasing mobile numbers that sold illegally. This information might have been sourced from social media platforms, online phone directories, filled-up raffle tickets, and even randomly checking numbers on messaging apps such as Viber. (Inocencio, 2022)
+                                    ''', style={"margin-top":"-30px"}
+                                )
+
+                            ], style={
+                                    "border": "1px", 
+                                    "whiteSpace": "pre-wrap",
+                                    "padding-left": "10px",
+                                    "width": "80%",
+                                    "margin-left": "auto",
+                                    "margin-right": "auto",
+                                    "color": "white",
+                                    "margin-top":"40px"
+                                },
                             ),
                         ]
                     ),
-                    width=5,  # Adjust the width of the first column
+                    width=4,  # Adjust the width of the first column
                 ),
 
 #Right Column
@@ -152,8 +169,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
                         dcc.Graph(figure = name_fig)
 
                     ]),
-                    width=7,  # Adjust the width of the second column
-                    className="mt-4",
+                    width=8,  # Adjust the width of the second column
+                    #className="mt-4",
                 ),
             ]
         ),
@@ -188,24 +205,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 
                                 html.P(
                                     '''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada.
+Here, we can see the types of labels of the texts that include the name of the recipients.
                                     '''
                                 )
 
-                            ], style = {"border": "1px black solid",
+                            ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
                                         "padding": "10px",
                                         'whiteSpace': 'pre-wrap',
-                                        #"width": "80%",
-                                        "margin-left": "auto",
+                                        "margin-top": "50px",
+                                        #"margin-left": "auto",
                                         "margin-right": "auto",
-                                        "color": "#C8F9E7"},                                
+                                        "color": "white"},                              
                             ),
                             html.Br(),
-                            html.H1('Test',
+                            html.H3('type of texts with names',
                                     style={
                                         "font-family": "'Press Start 2P', display",
-                                        "color": "#C8F9E7",
+                                        "color": "#E9CA06",
+                                        "margin-top":"-10px",
+                                        "margin-left":"10px"
                                     })
 
                         ], 
@@ -221,43 +240,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsu
 
         html.Br(),
 
-
-#Content Row 3
-        dbc.Row(
-            children=[
-                html.Div([
-
-                    html.P(
-                        """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean gravida vel ipsum in luctus. Sed rhoncus sagittis tellus, vitae egestas orci. Mauris interdum iaculis eros et dignissim. Pellentesque commodo volutpat ex convallis malesuada. Donec vehicula tincidunt ante, eu dignissim nisl pharetra ac. Nulla nisi magna, hendrerit eu libero vitae, blandit interdum ipsum. Aenean quis viverra nibh.
-                        """, style={
-                            "margin-top": "5px",
-                            'text-align': 'center', 
-                            'font-size': '12px',
-                            "font-family": "'Roboto', serif",
-                            "padding": "5px",
-                            #"width": "80%",
-                            "margin-left": "auto",
-                            "margin-right": "auto",
-                            "color": "#C8F9E7"
-                            }),
-                ])
-            ]
-        ),
-
-        html.Br(),
-
-#Content Row 4
-        dbc.Row(
-            children=[
-                html.Div([
-
-                    html.Img(src='https://placehold.co/800X300', alt='Placeholder Image')
-
-                ], style={"text-align": "center",
-                          "padding": "20px"}
-            )
-        ])
 
     ]
 )
