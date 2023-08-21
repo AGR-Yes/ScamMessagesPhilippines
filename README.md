@@ -12,14 +12,13 @@
 ## 🗒️ Project Objective
 Sino ‘To?! (Who is this?!) is a project that aims to collate and visualize spam texts in the Philippines through datasets made available online. 
 
-### 📓 Files/Folders
+### 📓 Main Files
 | File | Description | Status |
 |-------------|-------------|:-------------:|
 | `Phase_1.ipynb` |  Contains an EDA, Preprocessing, and Cleaning of the `raw datasets`. | **Complete** |
 | `Phase_2.ipynb` |  Cleaned up the `proof.csv` dataset to using NLP and predicted the labels for the unclassified texts. | **Complete** |
 | `Phase_3.ipynb` |  Created preliminary visuals and charts to put into the dashboard. Also includes the other information to put for the dashboard's content | **Complete** |
 | `app.py` |  The main file that connects all the other pages and files together to complete the dashboard | **In progress** |
-
 
 
 ### 🧬 Methods Used
