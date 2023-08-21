@@ -46,11 +46,18 @@ app.layout = html.Div(
 
 
     html.Div([
-        html.A("Github", href="https://github.com/agr-Yes/",
-               style={'font-family':"'Space Grotesk', sans-serif'",
-                      "color":"white"
-                      }), 
+        html.A("Repository",
+            href="https://github.com/AGR-Yes/ScamMessagesPhilippines",
+            style={'margin-right': '10px', 'font-family':"'Space Grotesk', sans-serif'", 'color':'white'  }),
         
+        html.A("AGR's Github",
+            href="https://github.com/agr-Yes/",
+            style={'margin-right': '10px', 'font-family':"'Space Grotesk', sans-serif'", 'color':'white'  }),
+        
+        html.A("Instagram",
+            href="https://www.instagram.com/ant0nreyes/",
+            style={'font-family':"'Space Grotesk', sans-serif'", 'color':'white'  }),
+            
 
     ], style={'position': 'relative', 
                'bottom': 0, 
