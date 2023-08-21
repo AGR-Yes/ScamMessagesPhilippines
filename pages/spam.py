@@ -84,7 +84,7 @@ time_fig.update_layout(height=500)
 time_fig.update_layout(
     plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
     paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
-    font_color = "#aae906",
+    font_color = "white",
     font_family="'Space Grotesk', sans-serif",
     xaxis=dict(gridwidth=0.1), 
     yaxis=dict(gridwidth=0.1),  
@@ -174,7 +174,7 @@ Spam texts are considered to be the unsolicited and unwanted messages we receive
                 
                 html.Div([
 
-                    html.H2("Types of Spam Messages", style={
+                    html.H2("types of spam messages", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
                                 "width": "90%",
@@ -263,7 +263,7 @@ html.A('Network Prefixes', href='https://www.prefix.ph/prefixes/2023-complete-li
                                         "color": "white"},                                
                             ),
                             html.Br(),
-                            html.H1('Networks Present in the Dataset',
+                            html.H1('networks present in the dataset',
                                     style={
                                         "font-family": "'Press Start 2P', display",
                                         "color": "#E9CA06",
@@ -330,7 +330,7 @@ In this graph, we see the average time of day that scammers send their messages.
                 
                 html.Div([
 
-                    html.H2("Days Most Active", style={
+                    html.H2("days most active", style={
                                 "text-align": "right",
                                 "font-family": "'Press Start 2P', display",
                                 "width": "90%",

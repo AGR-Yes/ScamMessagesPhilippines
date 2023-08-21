@@ -34,7 +34,7 @@ name_fig.update_layout(
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-name_colors = ["#e3ff83", "#758467"]
+name_colors = ["#758467", "#e3ff83"]
 
 name_fig.update_traces(marker_colors=name_colors)
 
@@ -52,7 +52,7 @@ nametype_fig.update_layout(
     font_family="'Space Grotesk', sans-serif",  # Font family
 )
 
-nametype_colors = ["#e3ff83", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"]
+nametype_colors = ["#E9CA06", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"]
 
 nametype_fig.update_traces(marker_colors=nametype_colors)
 
@@ -81,7 +81,7 @@ layout = html.Div(
                 html.Div([ 
                     
                     html.Br(),
-                    html.P('Spam Texts', style={
+                    html.P('Privacy Concerns', style={
                                 "margin-top": "60px",
                                 'text-align': 'center', 
                                 'font-size': '50px',
