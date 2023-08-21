@@ -5,7 +5,7 @@
 
 #### **--** Project Status: **In Progress** **--**
 
-<!--- ![Alt text](image link here) --->
+![Homepage](https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/project%20screenshots/Home1.PNG?raw=true)
 
 ---
 
@@ -54,8 +54,8 @@ The Philippine Internet Archive, a newly founded research institute, aims to pre
 ### 🗄️ Datasets
 ***No Webscraping was done***
 
-#### **Scam SMS Report**
-> An open-to-all Google Sheet for users to input the numbers of scammers and the type of message that was received (lotto, casino, etc.) The file also contained the number of networks, text message itself and if it contains the name of the receiver. *The link of this dataset will not be shared as it contains a sheet with personal data of other people.*
+#### [**Scam SMS Report**](https://docs.google.com/spreadsheets/d/13ZTA8_nhAGGjyF8xM4lNiRnGbW0Cl8g78hDbjI2RAls/edit?fbclid=IwAR2J9xgI6_KZJEQryvtPiMhQAdJtg9d76PAyxoiNrJolJ7Ahf8exdm3SYMk#gid=374569223)
+> An open-to-all Google Sheet for users to input the numbers of scammers and the type of message that was received (lotto, casino, etc.) The file also contained the number of networks, text message itself and if it contains the name of the receiver.
 
 #### [**Spam SMS**](https://www.kaggle.com/datasets/bwandowando/philippine-spam-sms-messages)
 > According to the creator of the dataset, *Bwandowando*, the rise of spam SMS messages increased since the beginning of the COVID-19 pandemic. This dataset consisted of texts that *Bwandowando* received from November 12, 2022, to May 30, 2023. 
@@ -70,23 +70,16 @@ The Philippine Internet Archive, a newly founded research institute, aims to pre
 ### 📝 Problems Faced
 * Availability of Philippine-specific datasets
 * Handling massive amounts of unclean data
-    * One of the datasets was taken from a Google Sheet that was open-to-edit by anyone (Can be edited by those without being logged in to Google). There were standard categories to categorize these reports and there were rules and guidelines on how to use the file. Because it was publicly available, some rules were not followed and it messed with some of the formulas in the file.  
 * Categorizing data
-    * Due to one of the datasets being unclean, most of the cleaning time was dedicated to re-identifying the phone numbers and re-categorizing the type of spam message, and the column indicating if the text message included the recipient's name.
-* Identification of one dataset
-    * Since the dataset from Google Sheets was the main dataset for the project, another dataset was found with similar features. However, it lacked a column indicating the type of spam.
+* Identification and classifcation for secondary dataset
 * Low accuracy scores
 
-<!---
 ---
 
-## 🖼️ Project Screenshots (if applicable)
-![Alt text](image link)
+## 🖼️ Project Screenshots
+![about page](https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/project%20screenshots/About.PNG?raw=true)
 
-
-## 📋 Needs of this project
-- insert needs
---->
+![how to navigate](https://github.com/AGR-Yes/ScamMessagesPhilippines/blob/main/Images/project%20screenshots/Home2.PNG?raw=true)
 ---
 
 ## 🤲🏽 Contributing
