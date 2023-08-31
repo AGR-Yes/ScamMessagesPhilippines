@@ -73,12 +73,8 @@ app.layout = html.Div(
     ]
 )
 
-#---------------------------------#
-# CALLBACKS
-
-
 # ---------------------------------#
 if __name__ == '__main__':
-    app.run_server(debug=True
+    app.run_server(#debug=True
                    #comment this out when deploying the final app
                    )

@@ -9,6 +9,7 @@ import pandas as pd
 #---------------------------------#
 #DATASET
 proof = pd.read_csv("Processed Datasets/proof_cleaned.csv")
+select = pd.read_csv("Processed Datasets/select.csv")
 
 #---------------------------------#
 #DATAFRAMES
@@ -19,6 +20,9 @@ proof_name['type'] = proof_name['type'].replace([False, True], ['No name', 'Incl
 
 nametype = pd.DataFrame(proof[['type']][proof['name'] == True].value_counts()).reset_index()
 nametype.rename(columns = {nametype.columns[0]:'type', nametype.columns[1]:'count'}, inplace = True)
+
+number = pd.DataFrame(select['network'].value_counts()).reset_index()
+number.rename(columns = {number.columns[0]:'network', number.columns[1]:'count'}, inplace = True)
 
 #---------------------------------#
 #name_fig
@@ -55,6 +59,22 @@ nametype_fig.update_layout(
 nametype_colors = ["#E9CA06", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"]
 
 nametype_fig.update_traces(marker_colors=nametype_colors)
+
+#---------------------------------#
+#number_fig
+
+number_fig = px.bar(number, x = 'network', y = 'count', title = 'Number of Incidents by Network')
+
+number_fig.update_layout(height= 500)
+
+number_fig.update_layout(
+    plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
+    paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
+    font_color = "white",
+    font_family="'Space Grotesk', sans-serif",
+)
+
+number_fig.update_traces(marker=dict(color="#fff347"))
 
 #---------------------------------#
 #Duplicate this as needed, but this is the template for the content 
@@ -112,8 +132,67 @@ The Data Privacy Act of 2012, Chapter 1, Section 2, states that we must protect 
         ),
         
         html.Br(),
-        
-#Content Row 1        
+
+#Content Row 1
+        dbc.Row(
+            children=[
+
+#Left column
+                dbc.Col(
+                    [
+                        
+                        dcc.Graph(figure = number_fig, style = {"padding":"10px"})
+
+                    ], width=7
+                ),
+
+#Right column
+                dbc.Col(
+                    html.Div(
+                        [
+
+                            html.Br(),
+                            html.Div(
+                                [
+
+                            html.P([
+"The Google Sheets dataset contained the phone numbers of the senders and due to inconsistencies in the Google Sheet with identifying the networks for each number. A dictionary was made from ",
+html.A('Network Prefixes', href='https://www.prefix.ph/prefixes/2023-complete-list-of-philippine-mobile-network-prefixes/', style={"color":"white"}),
+" to re-label the numbers to make them accurate."
+                            ])
+
+                            ], style = {"border": "1px white solid",
+                                        "border-radius": "10px",
+                                        "padding": "10px",
+                                        'whiteSpace': 'pre-wrap',
+                                        "margin-top": "50px",
+                                        "margin-left": "-20px",
+                                        "margin-right": "auto",
+                                        "color": "white"},                                
+                            ),
+                            html.Br(),
+                            html.H1('networks present in the dataset',
+                                    style={
+                                        "font-family": "'Press Start 2P', display",
+                                        "color": "#E9CA06",
+                                        "margin-top":"-10px",
+                                        "margin-left":"10px"
+                                    })
+
+                        ], 
+                    ), width=5
+                )
+            ], style = {
+                        "padding": "20px",
+                        "width": "80%",
+                        "margin-left": "auto",
+                        "margin-right": "auto",}
+
+        ),
+
+        html.Br(),
+
+#Content Row 2        
         dbc.Row(
             children=[
                 
@@ -142,7 +221,7 @@ In the dataset, we can see here the number of texts that included the names of t
 
                                 html.P(
                                     '''
-According to PNP-ACG Acting Director, Joel Doria, scammers have found ways to gain personal information aside from the phone number itself. He states that these scammers could've gained more information such as their names through purchasing mobile numbers that sold illegally. This information might have been sourced from social media platforms, online phone directories, filled-up raffle tickets, and even randomly checking numbers on messaging apps such as Viber. (Inocencio, 2022)
+According to PNP-ACG Acting Director, Joel Doria, scammers have found ways to gain personal information aside from the phone number itself. He states that these scammers could’ve gained more information from social media platforms, online phone directories, filled-up raffle tickets, and even randomly checking numbers on messaging apps such as Viber. (Inocencio, 2022)
                                     ''', style={"margin-top":"-30px"}
                                 )
 
@@ -177,8 +256,7 @@ According to PNP-ACG Acting Director, Joel Doria, scammers have found ways to ga
 
         html.Br(),
 
-
-#Content Row 2
+#Content Row 3
         dbc.Row(
             children=[
 
@@ -203,11 +281,9 @@ According to PNP-ACG Acting Director, Joel Doria, scammers have found ways to ga
                             html.Div(
                                 [
 
-                                html.P(
-                                    '''
-Here, we can see the types of labels of the texts that include the name of the recipients.
-                                    '''
-                                )
+                                html.P("Since both the Google Sheet and Kaggle datasets contained values if the recipient's name was included,  it was filtered out by getting the types (or label) of the spam messages that did include the names."),
+                                html.P("Aside from the “Others” that  amount to 54% of the chart, “Casino/Gambling” still has the biggest number of counts from the main dataset."),
+                                html.P("Here, we can see the types of labels of the texts that include the name of the recipients."),
 
                             ], style = {"border": "1px white solid",
                                         "border-radius": "10px",
@@ -239,6 +315,7 @@ Here, we can see the types of labels of the texts that include the name of the r
         ),
 
         html.Br(),
+
 
 
     ]

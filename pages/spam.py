@@ -10,7 +10,7 @@ import pandas as pd
 #DATASETS
 
 proof = pd.read_csv("Processed Datasets/proof_cleaned.csv")
-select = pd.read_csv("Processed Datasets/select.csv")
+
 spam = pd.read_csv("Processed Datasets/spam.csv")
 
 #---------------------------------#
@@ -18,9 +18,6 @@ spam = pd.read_csv("Processed Datasets/spam.csv")
 
 proof_type = pd.DataFrame(proof['type'].value_counts()).reset_index()
 proof_type.rename(columns = {proof_type.columns[0]:'type', proof_type.columns[1]:'count'}, inplace = True)
-
-number = pd.DataFrame(select['network'].value_counts()).reset_index()
-number.rename(columns = {number.columns[0]:'network', number.columns[1]:'count'}, inplace = True)
 
 spam['day'] = pd.to_datetime(spam['Date']).dt.day_name()
 spam_day = pd.DataFrame(spam['day'].value_counts()).reset_index()
@@ -50,22 +47,6 @@ proof_fig.update_layout(
 proof_colors = ["#e3ff83", "#758467", "#819171", "#9CAF88", "#CBD5C0", "#DFE6DA"] #6 colors
 
 proof_fig.update_traces(marker_colors=proof_colors)
-
-#---------------------------------#
-#number_fig
-
-number_fig = px.bar(number, x = 'network', y = 'count', title = 'Number of Incidents by Network')
-
-number_fig.update_layout(height= 500)
-
-number_fig.update_layout(
-    plot_bgcolor='rgba(0, 0, 0, 0)',  #plot area
-    paper_bgcolor='rgba(0, 0, 0, 0)',  #background for the entire graph
-    font_color = "white",
-    font_family="'Space Grotesk', sans-serif",
-)
-
-number_fig.update_traces(marker=dict(color="#fff347"))
 
 #---------------------------------#
 #time_fig
@@ -188,12 +169,15 @@ Spam texts are considered to be the unsolicited and unwanted messages we receive
                 dbc.Col( 
                     html.Div([
 
-                            html.Div(
-                                html.P(
-                                    """
-In the original Google Sheet, there are more than 20+ labels for the texts and to better see everything, the labels were narrowed down to 6 - with ‘Others’, which contains labels that didn’t fit the other five and had the lowest counts.
-                                    """
-                                ), style={
+                            html.Div([
+                                html.P("In the original Google Sheet, there are more than 20+ labels for the texts and to better see everything, sublabels and all other similar labels were grouped together into 5 main labels and 1 `Others` label:"), 
+                                html.P("> Casino/Gambling - invites to play casino games or play in online/digital slots machines."),
+                                html.P("> Online Activity - such as inviting to play games or be on social media."),
+                                html.P("> Bank/Money-related texts - this was a mix of loan offerings, asking for a long-term loan, or asking people to send them money as if they were family."),
+                                html.P("> Free - included messages that gave out freebies, giveaways, or announced that the recipient  is a winner of a giveaway."),
+                                html.P("> Work - revolved around topics like job-hunting or job offers."),
+                                html.P("> Others  - contained labels that didn't fit one or both criteria: It wasn't related with any of the 5 labels that it had the lowest counts to be identified on its own."),
+                            ], style={
                                         "border": "1px", 
                                         "whiteSpace": "pre-wrap",
                                         "padding-left": "10px",
@@ -202,11 +186,10 @@ In the original Google Sheet, there are more than 20+ labels for the texts and t
                                         "margin-right": "auto",
                                         "color": "white",
                                         "margin-top":"30px"
-                                    },
-                            ),
+                                    },),
                         ]
                     ),
-                    width=4,  # Adjust the width of the first column
+                    width=5,  # Adjust the width of the first column
                 ),
 
 #Right Column
@@ -216,7 +199,7 @@ In the original Google Sheet, there are more than 20+ labels for the texts and t
                         dcc.Graph(figure = proof_fig)
 
                     ]),
-                    width=8,  # Adjust the width of the second column
+                    width=7,  # Adjust the width of the second column
                     #className="mt-4",
                 ),
             ]
@@ -224,68 +207,7 @@ In the original Google Sheet, there are more than 20+ labels for the texts and t
 
         html.Br(),
 
-
 #Content Row 2
-        dbc.Row(
-            children=[
-
-#Left column
-                dbc.Col(
-                    [
-                        
-                        dcc.Graph(figure = number_fig, style = {"padding":"10px"})
-
-                    ], width=7
-                ),
-
-#Right column
-                dbc.Col(
-                    html.Div(
-                        [
-
-                            html.Br(),
-                            html.Div(
-                                [
-
-                            html.P([
-"The Google Sheets dataset contained the phone numbers of the senders and due to inconsistencies in the Google Sheet with identifying the networks for each number. A dictionary was made from ",
-html.A('Network Prefixes', href='https://www.prefix.ph/prefixes/2023-complete-list-of-philippine-mobile-network-prefixes/', style={"color":"white"}),
-" to re-label the numbers to make them accurate."
-                            ])
-
-                            ], style = {"border": "1px white solid",
-                                        "border-radius": "10px",
-                                        "padding": "10px",
-                                        'whiteSpace': 'pre-wrap',
-                                        "margin-top": "50px",
-                                        #"margin-left": "auto",
-                                        "margin-right": "auto",
-                                        "color": "white"},                                
-                            ),
-                            html.Br(),
-                            html.H1('networks present in the dataset',
-                                    style={
-                                        "font-family": "'Press Start 2P', display",
-                                        "color": "#E9CA06",
-                                        "margin-top":"-10px",
-                                        "margin-left":"10px"
-                                    })
-
-                        ], 
-                    ), width=5
-                )
-            ], style = {
-                        "padding": "20px",
-                        "width": "80%",
-                        "margin-left": "auto",
-                        "margin-right": "auto",}
-
-        ),
-
-        html.Br(),
-
-
-#Content Row 3
         dbc.Row(
             children=[
                 html.Div([
@@ -299,32 +221,28 @@ html.A('Network Prefixes', href='https://www.prefix.ph/prefixes/2023-complete-li
 
         html.Br(),
 
-#Content Row 4
+#Content Row 3
         dbc.Row(
             children=[
                 html.Div([
-
-                    html.P(
-                        """
-In this graph, we see the average time of day that scammers send their messages. Here we can see the count of each post per hour with the peak at 6:00 AM. Do note that this graph comes from a Kaggle dataset and the data is only from one user.
-                        """, style={
-                            "margin-top": "-50px",
-                            'text-align': 'center', 
-                            'font-size': '15px',
-                            "font-family": "'Roboto', serif",
-                            "padding": "5px",
-                            "width": "80%",
-                            "margin-left": "auto",
-                            "margin-right": "auto",
-                            "color": "white"
-                            }),
-                ])
+                    html.P("In this graph, we see the average time of day that scammers send their messages. Here we can see the count of each post per hour with the peak at 5:00 AM. Aside from that, we can also observe that most of the texts are received early in the day from 5:00 AM to 11:00 AM. To add, the number of texts received dips after 3:00 PM. Do note that this graph comes from a Kaggle dataset and the data is only from one user.")
+                ], style={
+                    "margin-top": "-50px",
+                    'text-align': 'center', 
+                    'font-size': '15px',
+                    "font-family": "'Roboto', serif",
+                    "padding": "5px",
+                    "width": "80%",
+                    "margin-left": "auto",
+                    "margin-right": "auto",
+                    "color": "white"
+                    })
             ]
         ),
 
         html.Br(),
 
-#Content Row 5
+#Content Row 4
         dbc.Row(
             children=[
                 
